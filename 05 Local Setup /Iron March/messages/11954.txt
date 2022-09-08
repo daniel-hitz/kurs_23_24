@@ -1,0 +1,1 @@
+<p>the quote would be below the image, not in the image.</p>

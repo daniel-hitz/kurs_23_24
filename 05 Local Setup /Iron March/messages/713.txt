@@ -1,0 +1,3 @@
+
+<p>you should make your own theme-greeting</p>
+<p><a href="<___base_url___>/index.php?/forum/11-introductions/" rel="">http://ironmarch.org/index.php?/forum/11-introductions/</a></p>

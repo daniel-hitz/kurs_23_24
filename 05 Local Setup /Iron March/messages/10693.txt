@@ -1,0 +1,1 @@
+<p>I'm more familiar with XSS, SQL Injection. Basic forms of deface. Also, RevLeft has a vull vBulletin version [Powered by vBulletin® Version 3.8.7] with a possible bypass, if I'm not wrong I've found it on exploit-db but unfortunately can't provide you the link since I no longer have it. Also, I was talking to Atlas and he is also familiar with pentest.</p>

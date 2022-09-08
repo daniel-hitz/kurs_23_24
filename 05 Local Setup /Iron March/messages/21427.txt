@@ -1,0 +1,12 @@
+
+<p>
+	Hello
+</p>
+
+<p>
+	This invitation is expired. Can you send another one?
+</p>
+
+<p>
+	I had no internet access this weekend.
+</p>

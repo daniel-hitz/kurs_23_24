@@ -1,0 +1,10 @@
+
+<p>Dear Ben,</p>
+<p>I have recieved your message and am now typing a reply.</p>
+<p>Sincerely,</p>
+<p>Ferret</p>
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-username="Benjamin Noyles" data-cite="Benjamin Noyles" data-ipsquote-timestamp="1327242494" data-ipsquote-contentapp="core" data-ipsquote-contenttype="messaging" data-ipsquote-contentid="131" data-ipsquote-contentclass="core_Messenger_Conversation"><div>
+<p>Reply to me when you get this message.</p>
+<p>Sincerely,</p>
+<p>Ben</p>
+</div></blockquote>

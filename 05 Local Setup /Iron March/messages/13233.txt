@@ -1,0 +1,3 @@
+<p>
+	Ok, thanks for the tip.
+</p>

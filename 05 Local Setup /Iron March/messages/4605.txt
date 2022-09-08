@@ -1,0 +1,1 @@
+<p>If you haven't yet, get acquainted with our <a href="<___base_url___>/index.php?app=forums&amp;module=extras&amp;section=boardrules" rel="">charter</a>.</p>

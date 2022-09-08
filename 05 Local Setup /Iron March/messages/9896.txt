@@ -1,0 +1,1 @@
+<p>If you're not too busy, what's up? I hope you're safe and well <img src="<fileStore.core_Emoticons>/emoticons/GeneralIMemoticons_smile.png" alt=":)" srcset="<fileStore.core_Emoticons>/emoticons/smile@2x.png 2x" width="20" height="20" /></p>

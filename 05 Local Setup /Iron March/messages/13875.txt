@@ -1,0 +1,3 @@
+<p>
+	It means that you have been denied to be interviewed further.
+</p>

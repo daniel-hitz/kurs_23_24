@@ -1,0 +1,12 @@
+
+<p>
+	Hello Odin,
+</p>
+
+<p>
+	Maybe you would be interested in
+</p>
+
+<p>
+	<a href="https://voat.co/v/occidentalenclave" rel="external nofollow">https://voat.co/v/occidentalenclave</a> ?
+</p>

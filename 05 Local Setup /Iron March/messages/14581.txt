@@ -1,0 +1,2 @@
+<p>
+	Thank you! <img alt=":windmill:" data-emoticon="" src="<fileStore.core_Emoticons>/emoticons/windmill.png" title=":windmill:" /></p>

@@ -1,0 +1,8 @@
+
+<p>
+	dobrze, <span lang="pl" xml:lang="pl"><span>bo moja</span> <span>polska</span> <span>pisanie jest</span> <span>straszne haha. My writing skills need to be improved upon. </span></span>
+</p>
+
+<p>
+	<span lang="pl" xml:lang="pl"><span>Are you associated with ONR?</span></span>
+</p>

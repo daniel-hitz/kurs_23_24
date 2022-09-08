@@ -1,0 +1,3 @@
+<p>
+	You're welcome, we use Telegram! You are interested in join?
+</p>

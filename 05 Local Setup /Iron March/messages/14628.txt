@@ -1,0 +1,3 @@
+<p>
+	Hey, I see you said in your introduction topic you joined <abbr title="National Action">NA</abbr>. So you know me then?
+</p>

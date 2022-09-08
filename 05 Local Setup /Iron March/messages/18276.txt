@@ -1,0 +1,3 @@
+<p>
+	Where could the action start? In which cities?
+</p>

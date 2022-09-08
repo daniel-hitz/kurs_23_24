@@ -1,0 +1,38 @@
+
+<p>
+	Found this and I thought it could be helpful to you.
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/Z2LC540fKw4?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/zVkvZg1xY54?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/aJia_eWiHEQ?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>
+
+<p>
+	<a href="http://www.weaponeer.net/forum/forum_posts.asp?TID=20493&amp;amp;PN=1" rel="external nofollow">http://www.weaponeer.net/forum/forum_posts.asp?TID=20493&amp;PN=1</a>
+</p>
+
+<p>
+	That is all I could find, hope it helps!
+</p>

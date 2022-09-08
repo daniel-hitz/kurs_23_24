@@ -1,0 +1,3 @@
+<p>
+	Hello! I was just filling out the IM entry exam again and noticed that it was done in google forms with a "report abuse" button at the bottom. You guys probably already know, you're pretty on top of stuff, but I figured I'd let you know in case some zealous google employee deleted the exam and a backup hadn't been made; wouldn't want you to lose a well made questionnaire.
+</p>

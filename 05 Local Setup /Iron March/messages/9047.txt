@@ -1,0 +1,14 @@
+
+<p>EFF got back to me. End-to-end encryption, like the type SubRosa employs apparently means it doesn't matter who owns it, end-to-end means only you and I can read it. Apparently.</p>
+<p> </p>
+<p>But there's been services making that claim before. All you have to do is have your servers intercept the data and observe it. I'll look into it more.</p>
+<p> </p>
+<p>As I've read, .io is basically a hipster domain everyone wants, so it could be nothing. Remember one of the golden rules is <strong>don't get paranoid</strong> <img src="<fileStore.core_Emoticons>/emoticons/GeneralIMemoticons_wink.png" alt=";)" srcset="<fileStore.core_Emoticons>/emoticons/wink@2x.png 2x" width="20" height="20" /> SubRosa is something I'd be more concerned about as it deals with information. As I said to another guy asking about torrents (and if that was you sorry, I've been busy with emails everywhere haha) get a good antivirus ands firewall and check for updates.</p>
+<p> </p>
+<p>defcon88@hushmail? if that wasn't you send again. drakonc@protonmail.com try again.</p>
+<p> </p>
+<p>And same, makes a change from the sperg fest of IronMarch eh? I think Slavros tips these guys off to give me a had time, as I see him and them raging at me over things I'v seen others do plenty of times (certain comments etc).</p>
+<p> </p>
+<p>So let's hope something comes of all this effort. And any further help, I'm literally an email away.</p>
+<p> </p>
+<p> </p>

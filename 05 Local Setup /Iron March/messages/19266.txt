@@ -1,0 +1,17 @@
+
+<p>
+	Well... I don't know. It is simply their approach, allthough I believe videos like these arer far more usefull at the moment.<br />
+	 
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/TAH8on_kS1s?start=3&amp;feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	<br />
+	I send this video to my conservative or apolitical friends to convince them without any hatred.<br /><br />
+	What do you think is the best approach?
+</p>

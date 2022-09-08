@@ -1,0 +1,3 @@
+<p>
+	Aye. Seems that's the way.
+</p>

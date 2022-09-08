@@ -1,0 +1,4 @@
+<p>
+	You can use it in browser lad<br />
+	Do you have a smartphone or home computer? 
+</p>

@@ -1,0 +1,9 @@
+
+<p>
+	Thanks a lot.
+</p>
+<iframe data-embedcontent="" frameborder="0" src="<___base_url___>/index.php?/topic/6750-a-hello-from-a-hungarian/&amp;do=embed"></iframe>
+
+<p>
+	Here it is. 
+</p>

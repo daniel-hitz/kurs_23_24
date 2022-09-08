@@ -1,0 +1,12 @@
+
+<p>
+	Already have. Did you manage to get some donations in before it was shut down?
+</p>
+
+<p>
+	Here's what we can do for now, you can set up a new paypal that isn't in any way affiliated to how you set up the original one and then we send out the donation info privately to avoid it being shut down.
+</p>
+
+<p>
+	Frankly this whole thing made me consider how we need a private network to spread the word on donations, so I'll look into that as a potential project that we can develop, perhaps it'll be as simple as making a discord server exclusively for the purpose of creating notifications, or maybe a telegram profile.
+</p>

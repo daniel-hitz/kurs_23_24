@@ -1,0 +1,3 @@
+
+<p>Google does with exif, no doubt; tineye is just based on the image itself and nothing to do with exif. Cropping and adding little tweaks and colour alterations don't work, you'd have to alter the image beyond recognition if you didn't want it to be detected.</p>
+<p>It's true what they say, once something is posted to the net it is there for life.</p>

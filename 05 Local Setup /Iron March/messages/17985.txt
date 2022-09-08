@@ -1,0 +1,14 @@
+
+<p>
+	Yeah no, fuck that, I'm not wasting time reading any of that or trying to edit it.
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/X18mUlDddCc?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>

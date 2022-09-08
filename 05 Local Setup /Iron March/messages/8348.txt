@@ -1,0 +1,10 @@
+
+<p>Excellent. Please do.</p>
+<p>I wrote an article in cryptocat a while back. It seems pretty good actually, I'd recommend using it. Its quite simple, I believe.</p>
+<p>And EFF is great. However, I'd recommend reading these articles I posted here and using them as well. Whilst my articles were outdated since I wrote them, they are of use. Some other guys commented, suggesting how my work could be improved, and a few naysayers whined, but just ignore them. Make note of everything in these articles and feel free to ask about anything you dont get and you should be OK: </p>
+<p><a href="<___base_url___>/index.php?/topic/4781-a-basic-guide-to-online-anonymity/?hl=%2Bonline+%2Banonymity" rel="">http://ironmarch.org/index.php?/topic/4781-a-basic-guide-to-online-anonymity/?hl=%2Bonline+%2Banonymity</a></p>
+<p><a href="<___base_url___>/index.php?/topic/4782-anti-forensics-scrubbing-your-computer-clean/" rel="">http://ironmarch.org/index.php?/topic/4782-anti-forensics-scrubbing-your-computer-clean/</a></p>
+<p>I'd love to help with the privacy side of things. You'd be surprised how quickly one gets used to this stuff. I also have a friend who is an expert in this stuff, he's one of the guys who use tomhack Sony back in the day, so he has credentials. I've even been toying around with the idea of a basic primer set up you can use. It'll be primarily built on Tails OS, which is cool as fuck. </p>
+<p>Looking forward to helping!</p>
+<p>P.s. if you want a good private message service, I suggest getting a Protonmail account- avoid Hushmail</p>
+<p><a href="https://protonmail.ch/index.php" rel="external nofollow">https://protonmail.ch/index.php</a></p>

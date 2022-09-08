@@ -1,0 +1,16 @@
+
+<p>
+	Sure thing.
+</p>
+
+<p>
+	Retweeted your guy's message and launched our own in addition to it:
+</p>
+
+<div class="ipsEmbeddedOther">
+	<iframe data-controller="core.front.core.autosizeiframe" scrolling="no" src="<___base_url___>/index.php?app=core&amp;module=system&amp;controller=embed&amp;url=https://twitter.com/IronMarch/status/804832021574979585" style="height:595px;"></iframe>
+</div>
+
+<p>
+	 
+</p>

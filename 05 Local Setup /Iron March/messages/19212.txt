@@ -1,0 +1,3 @@
+<p>
+	Ahoj. Ďakujem. Aký je tvoj názor na DS?
+</p>

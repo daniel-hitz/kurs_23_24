@@ -1,0 +1,3 @@
+<p>
+	Hey Alex, who created the <img alt=":eso:" data-emoticon="" src="<fileStore.core_Emoticons>/emoticons/eso.png" title=":eso:" /> totenkopf ?
+</p>

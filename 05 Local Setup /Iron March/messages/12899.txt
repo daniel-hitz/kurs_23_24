@@ -1,0 +1,3 @@
+<p>
+	Of course this is all in jest GCHQ. No need to kick any doors in tonight.
+</p>

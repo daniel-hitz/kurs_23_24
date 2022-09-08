@@ -1,0 +1,14 @@
+
+<p>
+	Youtube. Starts here. Goes for some 10 or more vids.
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/RoeBRyz2760?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	Check out his whole channel. Some people think he's dumb and hate him, others love him. I'll leave that up to you to decide.
+</p>

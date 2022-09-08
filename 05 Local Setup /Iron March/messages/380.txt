@@ -1,0 +1,8 @@
+
+<p>Dux,</p>
+<p>Here is the is the information:</p>
+<p>server: irc.foonetic.net</p>
+<p>channel: #AmericanFascism</p>
+<p>You can access this by using any standard IRC client. I like using Chatzilla which is an extension for Mozilla Firefox. Stop in when you get some time.</p>
+<p>See you soon,</p>
+<p>William</p>

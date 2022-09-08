@@ -1,0 +1,3 @@
+<p>
+	It represents a no-longer existing group and people might wrongly assume that you are part of it. As well as that you have posted work representing other projects and people might wrongly link the two.
+</p>

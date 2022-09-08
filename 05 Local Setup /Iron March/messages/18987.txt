@@ -1,0 +1,4 @@
+<p>
+	Removed your e-mail too. <br />
+	Take care.
+</p>

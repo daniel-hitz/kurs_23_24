@@ -1,0 +1,8 @@
+
+<p>Good morning Emma!</p>
+<p> </p>
+<p>Here's a bunny rabbit for you.</p>
+<p> </p>
+<p><img src="http://i.imgur.com/s8wrtoB.jpg" alt="s8wrtoB.jpg" /></p>
+<p> </p>
+<p>I want you to send me another picture of your pretty face <img src="<fileStore.core_Emoticons>/emoticons/GeneralIMemoticons_happy.png" alt="^_^" srcset="<fileStore.core_Emoticons>/emoticons/happy@2x.png 2x" width="20" height="20" /></p>

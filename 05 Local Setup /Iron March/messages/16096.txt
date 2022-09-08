@@ -1,0 +1,3 @@
+<p>
+	Si cu ce te ocupi acolo? Lucrezi sau esti student?
+</p>

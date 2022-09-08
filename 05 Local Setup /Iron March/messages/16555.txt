@@ -1,0 +1,3 @@
+<p>
+	Cool deal, thanks.
+</p>

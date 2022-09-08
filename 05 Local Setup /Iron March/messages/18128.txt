@@ -1,0 +1,4 @@
+<p>
+	For which post were you banned? <br />
+	It's a shame, but it's good that you're consistent.
+</p>

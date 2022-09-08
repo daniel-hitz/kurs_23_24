@@ -1,0 +1,2 @@
+<p>
+	<img alt=":berg:" data-emoticon="" src="<fileStore.core_Emoticons>/emoticons/berg.png" title=":berg:" /></p>

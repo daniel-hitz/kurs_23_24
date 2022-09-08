@@ -1,0 +1,12 @@
+
+<p>
+	Do tell me when you get it set up, IM will follow you and retweet your stuff when appropriate.
+</p>
+
+<div class="ipsEmbeddedOther">
+	<iframe data-controller="core.front.core.autosizeiframe" scrolling="no" src="<___base_url___>/?app=core&amp;module=system&amp;controller=embed&amp;url=https%3A%2F%2Ftwitter.com%2FIronMarch%2Fstatus%2F774550479288303616" style="height:477px;"></iframe>
+</div>
+
+<p>
+	 
+</p>

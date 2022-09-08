@@ -1,0 +1,12 @@
+
+<p>
+	Hello,
+</p>
+
+<p>
+	I have a question. What are condictions for creating a sub-section for the active organisation? I was thinking about creating a sub-section of Falanga in Polish section of the forum. I already created a <a href="<___base_url___>/index.php?/topic/7840-falanga-central-topic/" rel="">central topic</a>.
+</p>
+
+<p>
+	Heil
+</p>

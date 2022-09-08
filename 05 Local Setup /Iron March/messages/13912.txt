@@ -1,0 +1,3 @@
+<p>
+	Do any of your friends have skype?
+</p>

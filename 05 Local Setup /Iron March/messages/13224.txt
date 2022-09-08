@@ -1,0 +1,3 @@
+<p>
+	Exactly like this but instant and notifies you
+</p>

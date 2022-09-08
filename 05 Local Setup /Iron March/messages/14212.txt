@@ -1,0 +1,3 @@
+<p>
+	Yeah, I grabbed a few from various threads, since then I've been tweaking them, making them print out right, making them use less ink (most of them had black backgrounds with white details,) other small stuff like that.
+</p>

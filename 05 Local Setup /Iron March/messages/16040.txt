@@ -1,0 +1,3 @@
+<p>
+	Do you have a list of article ideas you need?
+</p>

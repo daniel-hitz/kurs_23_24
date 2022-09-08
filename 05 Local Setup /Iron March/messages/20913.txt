@@ -1,0 +1,3 @@
+<p>
+	You might want to change your cover photo.
+</p>

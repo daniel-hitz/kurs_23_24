@@ -1,0 +1,5 @@
+
+<p>I recently made a new topic about Hachtivist group anonymous:http://ironmarch.org/index.php?/topic/691-anonymous-tries-and-fails-to-hack-the-vatican/</p>
+<p>Basicly wanted to give you a heads up about a new development about new insights as to how they operate and the implications on future IT security developments.</p>
+<p>I don't you if you can use it, but I fiure I should tell you anyway, incase they show up in out neighbourhood.</p>
+<p>Here is the full report on them: <a href="?id=312" rel="external nofollow">http://www.imperva.c...load.asp?id=312</a></p>

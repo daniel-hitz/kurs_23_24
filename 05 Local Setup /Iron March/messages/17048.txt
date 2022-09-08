@@ -1,0 +1,16 @@
+
+<p>
+	All the scripting was done by me. (like 3-4 years ago when i was learning javascript and webgl).
+</p>
+
+<p>
+	The assets(3D, images, etc) are from various sites. I had to edit the animations myself (3dsmax) to be consistent.
+</p>
+
+<p>
+	Thanks, but there is no need. I plan to keep this as more of a hobby because making money from something like this is somewhat hard in this part of Europe. Also, if i plan to make any games, they will be browser based and the market for these(and work opportunities) is very very small.
+</p>
+
+<p>
+	Also, before anything else, i just need to put my lazy ass to work. All my other projects are on hiatus for a few months.
+</p>

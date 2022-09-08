@@ -1,0 +1,3 @@
+<p>
+	If you don't reply in the next 24 hours the exam submitted under your name is automatically graded as a failure.
+</p>

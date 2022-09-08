@@ -1,0 +1,12 @@
+
+<p>
+	Hello!
+</p>
+
+<p>
+	I've read somewhere on the forum that you are going to re-release SIEGE. How's the work on the release going? When can we expect this release?
+</p>
+
+<p>
+	Cheers
+</p>

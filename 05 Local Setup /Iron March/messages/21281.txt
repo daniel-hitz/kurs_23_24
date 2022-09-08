@@ -1,0 +1,3 @@
+<p>
+	The invite doesn't work.
+</p>

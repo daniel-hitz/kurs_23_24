@@ -1,0 +1,12 @@
+
+<p>
+	Moi,
+</p>
+
+<p>
+	Tuon ketjun kirjoihin liittyen viestittelen. Voisitko uploadata uudestaan ne jotka linkkasit sinne?
+</p>
+
+<p>
+	<a href="<___base_url___>/index.php?/topic/2163-harvinaista-is%C3%A4nmaallista-kirjallisuutta/" rel="">http://ironmarch.org/index.php?/topic/2163-harvinaista-isänmaallista-kirjallisuutta/</a>
+</p>

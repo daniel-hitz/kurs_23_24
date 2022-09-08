@@ -1,0 +1,8 @@
+
+<p>
+	<a href="http://unshorten.it/" rel="external nofollow">http://unshorten.it/</a>
+</p>
+
+<p>
+	I unshortened the link and it was just a normal news article.
+</p>

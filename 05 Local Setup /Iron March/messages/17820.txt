@@ -1,0 +1,7 @@
+
+<p>
+	here is a picture to reflect your name, you should use it as your profile picture
+</p>
+
+<p>
+	<img alt="UHLSGtS.png" class="ipsImage" src="http://i.imgur.com/UHLSGtS.png" /></p>

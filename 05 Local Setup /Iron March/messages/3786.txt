@@ -1,0 +1,3 @@
+
+<p>I'm curious. How do you view such detailed exif metadata like you did on "Vicky's" photo? <a href="<___base_url___>/index.php?/topic/1835-story-of-made-up-identity/page__st__100" rel="">http://ironmarch.org/index.php?/topic/1835-story-of-made-up-identity/page__st__100</a></p>
+<p>I see Adobe XMP at the top but I am not sure how this works. (If it's too complicated to explain I will just try to figure it out for myself, I guess)</p>

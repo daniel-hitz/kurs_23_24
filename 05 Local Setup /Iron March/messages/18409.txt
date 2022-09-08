@@ -1,0 +1,3 @@
+<p>
+	Hello, have you clarified about our previous message ?
+</p>

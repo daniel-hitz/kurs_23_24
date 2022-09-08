@@ -1,0 +1,15 @@
+
+<p>
+	Sure.<br />
+	I'll trade some of my favorite weeb songs too.
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="344" src="https://www.youtube.com/embed/DgUqq2SbCqM?feature=oembed" width="459"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>

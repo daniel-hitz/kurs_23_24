@@ -1,0 +1,8 @@
+
+<p>
+	Czołem!
+</p>
+
+<p>
+	I have Skype installed, but no account.
+</p>

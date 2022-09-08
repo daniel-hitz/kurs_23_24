@@ -1,0 +1,3 @@
+<p>
+	Pupils can only resubmit once a month.
+</p>

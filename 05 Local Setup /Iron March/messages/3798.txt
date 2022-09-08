@@ -1,0 +1,3 @@
+
+<p>Indeed.</p>
+<p>It probably doesn't help that some things store your images/data on their servers indefinitely. The fine print; the internet's worst enemy. Fun fact, in license agreements for things like Facebook and other social networking sites or image hosts they say right in them that once you upload a file it's theirs. They can sell your image without you knowing or profiting, you could be in an internet ad somewhere and not even know it. Not sure if you knew that already but I figured I'd tell you anyways. <img src="<fileStore.core_Emoticons>/emoticons/GeneralIMemoticons_wink.png" alt=";)" srcset="<fileStore.core_Emoticons>/emoticons/wink@2x.png 2x" width="20" height="20" /></p>

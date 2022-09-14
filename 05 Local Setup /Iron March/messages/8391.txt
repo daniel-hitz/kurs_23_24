@@ -1,0 +1,3 @@
+
+<p>I'd recommend looking this over. Cryptocat 2 is out, with added patches and features </p>
+<p><a href="https://blog.crypto.cat/2012/08/moving-to-a-browser-app-model/" rel="external nofollow">https://blog.crypto.cat/2012/08/moving-to-a-browser-app-model/</a></p>

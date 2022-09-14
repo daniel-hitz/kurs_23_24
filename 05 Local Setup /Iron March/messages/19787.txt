@@ -1,0 +1,15 @@
+
+<p>
+	Could you help me out?
+</p>
+
+<p>
+	I'm trying to get an avatar but the size is wrong on this picture.
+</p>
+
+<p>
+	Tried cropping the face, and it still didn't work.
+</p>
+
+<p>
+	<img src="https://bbs.dailystormer.com/uploads/default/original/4X/d/0/2/d0220927eb915ab356f27a2408e82b4b0df10218.png" alt="d0220927eb915ab356f27a2408e82b4b0df10218.png" /></p>

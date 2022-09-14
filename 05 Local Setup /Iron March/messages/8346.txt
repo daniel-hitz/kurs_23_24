@@ -1,0 +1,5 @@
+
+<p>It depends on what you actually want to do, security is filled with niche fields. If web hacking, website defacing, forum crashing, etc. is an aim than I would suggest installing a vulnerable LAMP server from scratch (obviously within a hypervisor) and then attack it. Kali Linux has all the tools one needs for pentesting practice.</p>
+<p> </p>
+<p>Learn networking; the OSI layer and how each level interacts with one another, basic packet crafting and how to read pcaps from wireshark. You need to learn a real programming language as well. C is my suggestion since it gets as close as it can to low-level for an actual high-level language which will help with the transition to reading and writing shellcode which is something you must understand. Understanding memory manipulation (the stack, heap, arrays and buffers) and memory corruption ( <a href="https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruption-vulnerabilities/" rel="external nofollow">https://www.corelan.be/index.php/2013/02/26/root-cause-analysis-memory-corruption-vulnerabilities/</a>) are essential. </p>
+<p> </p>

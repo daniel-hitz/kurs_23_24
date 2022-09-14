@@ -1,0 +1,5 @@
+
+<p>None. It's not a physical thing. It just looks like shit. Wikipedia has a good picture of it.</p>
+<p><a href="http://upload.wikimedia.org/wikipedia/commons/0/03/Tearing_%28simulated%29.jpg" rel="external nofollow">http://upload.wikimedia.org/wikipedia/commons/0/03/Tearing_%28simulated%29.jpg</a></p>
+<p>It's simply that the monitor receives images faster than it can display them and ends up displaying more than one at once. It's one hundred percent fixable by enabling V-sync (in most, if not all games these days).</p>
+<p>The fact remains that everything above 50fps is going to be wasted on you though.</p>

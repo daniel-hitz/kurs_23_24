@@ -1,0 +1,15 @@
+
+<p>
+	Yeah you can use imgur or gyazo. All pictures you upload to imgur start anonymous and only you have the link. If you want it to appear on the imgur community you have to publish it, and only then is your account revealed, otherwise it just hosts the pic for you and shows no account. Like this <a href="http://imgur.com/Ou3locQ" rel="external nofollow">http://imgur.com/Ou3locQ</a> Tell me if you can see any account name there. 
+</p>
+
+<p>
+	To post the picture you need a direct link to it, the link it provides just leads to the page I linked. Easiest way to get direct link is to right click the picture and select 'open in new tab', this opens only the picture in new tab and you just copy the link from there and paste it here, and its posted. Like this:
+</p>
+
+<p>
+	<img alt="Ou3locQ.jpg" class="ipsImage" height="750" src="http://i.imgur.com/Ou3locQ.jpg" width="1000" /></p>
+
+<p>
+	If a direct link wont work for some reason, I can get you a gyazo direct link, gyazo is a program for taking screenshots, so just post the pic in this message convo and I'll cap it and give you a link, its the same as any other direct link. 
+</p>

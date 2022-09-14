@@ -1,0 +1,1 @@
+<iframe src="<___base_url___>/index.php?/topic/1392-ayn-rand/&amp;do=embed" frameborder="0" data-embedcontent=""></iframe>

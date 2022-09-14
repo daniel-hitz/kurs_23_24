@@ -1,0 +1,14 @@
+
+<p>
+	Why didn't you tell me you made a Youtube channel of you reacting to Anime videos ?
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/OiJzl649T1g?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>

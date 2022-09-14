@@ -1,0 +1,3 @@
+<p>
+	Check out our manual on the basics of common sense e-sec.
+</p>

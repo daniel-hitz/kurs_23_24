@@ -1,0 +1,7 @@
+
+<p>I use a free server/domain called Zymic. I just registered on there. I connect to it and upload files through a programme called filezilla. It is mostly ok but has the following flaw; facebook doesn't like any direct links from zymic and you have to keep the file size of images down (reduce colour) if you want to to load quick. It is the same provider as the forum archive.</p>
+<p>I pretty much learned how to do the whole thing from scratch and was not too difficult. I used basic online guides and video tutorials when I wanted to find out something. Most of the website uses a design provided by zymic which I then edited.</p>
+<p>I make my pages in wordpad and save them with a html extension. When i what to edit any web page or see what the coding looks like I conversely save that webpage and open it in wordpad.</p>
+<p>The main page was made on photoshop You have your solid image and you can use a slicing tool to divide up all the parts into buttons or whatever. You can change the attributes like make pages the links they are going to be. You then save it as a webpage.</p>
+<p>The whole thing was incredibly crude. You can tell how crude by saving one of my pages and seeing what my code looks like.</p>
+<p>I don't know how much you know about websites, but with this information I was able to get it done through trial and error.</p>

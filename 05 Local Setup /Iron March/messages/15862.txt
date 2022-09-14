@@ -1,0 +1,3 @@
+<p>
+	Alright cool, are you an admin?
+</p>

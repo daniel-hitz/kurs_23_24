@@ -1,0 +1,3 @@
+<p>
+	You need discord if you don't already have it.
+</p>

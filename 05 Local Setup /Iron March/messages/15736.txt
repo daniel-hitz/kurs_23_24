@@ -1,0 +1,3 @@
+<p>
+	It looks like it can be configured to work with cloudflare.  
+</p>

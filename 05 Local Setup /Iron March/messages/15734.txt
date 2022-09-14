@@ -1,0 +1,3 @@
+<p>
+	I'm not a netsec genius, but the site does not seem to want to stay connected as https.  
+</p>

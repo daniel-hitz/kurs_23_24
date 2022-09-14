@@ -1,0 +1,3 @@
+<p>
+	Ah, its embedded however, having a youtube vid in the signature is a bit much, maybe you can break it into a clickable link instead?
+</p>

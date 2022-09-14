@@ -1,0 +1,3 @@
+<p>
+	I have bank account. Don't know though how expensive it is to do a transaction.
+</p>

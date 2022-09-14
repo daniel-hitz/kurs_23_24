@@ -1,0 +1,19 @@
+
+<p>
+	Hey friends,
+</p>
+
+<p>
+	I want to get some secure coms protocols sorted out because I really think we shouldn't be talking to each other so openly on Twitter or other like platforms. By like, I mean any private (((corporation))) who would happily provide records of our conversations to LE if they were so inclined (hypothetically, ofc) to pursue conspiracy charges against members of a certain NS group in the near or distant future... with Starman at the helm I have no doubt that we'll find ourselves in circumstances where we're glad we took steps to prevent it! <img alt=":sa:" data-emoticon="" src="<fileStore.core_Emoticons>/emoticons/default_sa.png" title=":sa:" /></p>
+
+<p>
+	anyway - I have suggested we use either Tox or XMPP as an encrypted, anonymized messaging and chatting protocol, and it looks like we're going with Tox. Please PM me your Tox IDs here when you get a chance; it seems Starman tried to add me the other day and it didn't go through so let's see if the problem is on my end...  
+</p>
+
+<p>
+	Another assignment (if I may be so bold), is to open up a <a href="https://protonmail.com/" rel="external nofollow">protonmail</a> account. This is web-based email from the CERN team located in Switzerland; it enjoys the protection of Swiss privacy laws, and provides end-to-end encryption for emails from protonmail user to protonmail user. Meaning, if we both use protonmail to email each other, their servers provide an added layer of encryption to our emails. Combined with a few more things like PGP, eavesdropping our communications will be a no-go for even State-level actors.
+</p>
+
+<p>
+	That is all for now; hope you're all having a great week. Hail Victory!
+</p>

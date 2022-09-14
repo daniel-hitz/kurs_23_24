@@ -1,0 +1,3 @@
+<p>
+	Delete all posts from this current profile?
+</p>

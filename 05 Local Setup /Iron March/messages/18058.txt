@@ -1,0 +1,14 @@
+
+<p>
+	This one was Joji making a song about how he wants to leave Filthy Frank behind and work on serious music. But his fans make it hard for him.
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/TuXv0A9Gd44?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>

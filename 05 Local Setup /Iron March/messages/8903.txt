@@ -1,0 +1,4 @@
+
+<p>I'm not a computer security expert by any means.<br />Ccleaner wipes <a href="http://www.magnetforensics.com/part-2-oh-no-the-suspect-wiped-free-space-to-get-rid-of-the-digital-evidence/" rel="external nofollow">only protect you from casual investigation</a></p>
+<p>Tor isn't really like a vpn, and in fact you should use them in combination - passive traffic analysis can deanonymise tor users who aren't using a VPN.</p>
+<p>Tor is not meant for regular internet use, and can only really be considered for reading. Any data you send is likely to identify you in some way, e.g. logging into any clearnet accounts of yours. There's also a number of things you have to remember you can't do, like running a normal browser or torrent at the same time etc..</p>

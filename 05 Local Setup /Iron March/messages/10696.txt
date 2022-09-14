@@ -1,0 +1,11 @@
+
+<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-username="Favela Krieg" data-cite="Favela Krieg" data-ipsquote-timestamp="1442274966"><div><div><p>I'm more familiar with XSS, SQL Injection. Basic forms of deface. Also, RevLeft has a vull vBulletin version [Powered by vBulletin® Version 3.8.7] with a possible bypass, if I'm not wrong I've found it on exploit-db but unfortunately can't provide you the link since I no longer have it. Also, I was talking to Atlas and he is also familiar with pentest.</p></div></div></blockquote>
+<p>I noticed that the version of vBulletin was pretty old, but I didn't  pursue any vulns.</p>
+<p> </p>
+<p><a href="http://www.cvedetails.com/vulnerability-list/vendor_id-8142/Vbulletin.html" rel="external nofollow">http://www.cvedetails.com/vulnerability-list/vendor_id-8142/Vbulletin.html</a></p>
+<p> </p>
+<p>I may try:</p>
+<p> </p>
+<p><a href="http://www.cvedetails.com/cve/CVE-2013-6129/" rel="external nofollow">http://www.cvedetails.com/cve/CVE-2013-6129/</a></p>
+<p> </p>
+<p>I used it a lot before, but on a bit of a later version.</p>

@@ -1,0 +1,24 @@
+
+<p>
+	Hello. How are you?
+</p>
+
+<p>
+	Can you delete this threads created by me, please? Thank you.
+</p>
+
+<p>
+	<a href="<___base_url___>/index.php?/topic/7333-bandas-nacionalistas-portuguesas-e-brasileiras/" rel="">http://ironmarch.org/index.php?/topic/7333-bandas-nacionalistas-portuguesas-e-brasileiras/</a>
+</p>
+
+<p>
+	<a href="<___base_url___>/index.php?/topic/7357-our-fatherland/" rel="">http://ironmarch.org/index.php?/topic/7357-our-fatherland/</a>
+</p>
+
+<p>
+	<a href="<___base_url___>/index.php?/topic/7358-p%C3%A1tria-nossa/" rel="">http://ironmarch.org/index.php?/topic/7358-pátria-nossa/</a>
+</p>
+
+<p>
+	Have a nice day.
+</p>

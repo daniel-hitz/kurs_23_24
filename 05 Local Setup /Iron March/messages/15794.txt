@@ -1,0 +1,6 @@
+<p>
+	We have just released our website. How should we declare that on Ironmarch? <br />
+	Website: skydas.info<br />
+	It's only in Lithuanian for the time being. <br />
+	We will have an English version as well.
+</p>

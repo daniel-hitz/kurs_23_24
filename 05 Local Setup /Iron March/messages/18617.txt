@@ -1,0 +1,16 @@
+
+<p>
+	Do you have an imgur or a file hosting account, Ironmarch can only host files from elsewhere , <a href="http://imgur.com/" rel="external nofollow">http://imgur.com/</a>
+</p>
+
+<p>
+	imgur is pretty easy if you have a gmail you can link it and upload a photo pretty easily and make it private too.
+</p>
+
+<p>
+	Then just right click and select copy image address , then go to the lower right corner of the message thing and click Insert other media, then Insert image from URL and paste the link in there and that should post your image in the message box.
+</p>
+
+<p>
+	Same thing for posting on the site for images as well.
+</p>

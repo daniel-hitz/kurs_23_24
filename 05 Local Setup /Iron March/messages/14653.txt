@@ -1,0 +1,3 @@
+<p>
+	I heard, how is boot camp?
+</p>

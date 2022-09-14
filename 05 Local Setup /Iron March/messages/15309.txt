@@ -1,0 +1,8 @@
+
+<p>
+	Wouldn't be able to give you much of a proper answer on this, however we are now using this free service called cloudflare, that thing combats ddos attacks entirely, you can use it as well and thus don't need to worry about it.
+</p>
+
+<p>
+	Just remember to backup your website regularly to your PC and that will be good insurance against all possible unpleasant situations. How to make and restore backups depends on the website interface, with asmallorange they have a comprehensive and easy to use cpanel interface, with our new guy he'll walk you through it as you'll need 2 programs to do the job.
+</p>

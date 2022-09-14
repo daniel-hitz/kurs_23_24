@@ -1,0 +1,1 @@
+<p>We have a <a href="<___base_url___>/index.php?/topic/255-avatar/" rel="">topic</a> on avatars in tech support.</p>

@@ -1,0 +1,14 @@
+
+<p>
+	Hey bro, thought you'd be interested to see this. 
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="344" src="https://www.youtube.com/embed/7actrUqwkyQ?feature=oembed" width="459"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>

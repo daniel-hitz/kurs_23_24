@@ -1,0 +1,1 @@
+<p>What is your avatar image from?</p>

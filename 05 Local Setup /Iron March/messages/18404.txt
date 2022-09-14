@@ -1,0 +1,14 @@
+
+<p>
+	You better not have a Chicago bulls snap back hat and a ukulele 
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/XGjgKo3OV-g?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>

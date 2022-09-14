@@ -1,0 +1,3 @@
+<p>
+	Are those triangles for a chaos algorithm? Like the Barnsley fern? 
+</p>

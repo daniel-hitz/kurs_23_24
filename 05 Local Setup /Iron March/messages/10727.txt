@@ -1,0 +1,62 @@
+
+<p>Here's my public key, use it to encrypt a message and send a message to drakonc@protonmail.com</p>
+<p> </p>
+<div>-----BEGIN PGP PUBLIC KEY BLOCK-----</div>
+<div> </div>
+<div>Version: GnuPG v2</div>
+<div> </div>
+<div> </div>
+<div> </div>
+<div>mQENBFXktvcBCAC+th3mJxJiwXaFgN4CbzqyxkkkaMJSWyXo3CZJvU9EkZKcyG++</div>
+<div> </div>
+<div>LBzL0Wh9yQYmcYYT0RtkvlQSW4vQq1/VIFEmCJ7aokUsM2tbRUqiAfE99nKAmyMj</div>
+<div> </div>
+<div>IUEd/rZzAAtyZCStuceXrkpqwwZOKlIJXhiAujXVoD5brcSa85JwXLm4x+QUpOwu</div>
+<div> </div>
+<div>+dCuUjf2oWmTordYm4c/OE7JtScCjsQilnJqQ5DnrD4gAoKZhYpLz08iOCX3F051</div>
+<div> </div>
+<div>Kjykl26ijA72JGfNIO116e5UJio99pH222szHBTHfUQ976qwPQF6sJBJq+Ft7qAc</div>
+<div> </div>
+<div>7qp0b0wSDwOZcZIkROHEH3naZzSgkq+Zpz5dABEBAAG0JkFyaXN0YXJjaHVzIDxh</div>
+<div> </div>
+<div>cmlzdGFyY2h1c0BoYXRlbWFpbC5jb20+iQE5BBMBCAAjBQJV5Lb3AhsDBwsJCAcD</div>
+<div> </div>
+<div>AgEGFQgCCQoLBBYCAwECHgECF4AACgkQAH+dlt+luudlxAf8CfcTOslSziDM8d3H</div>
+<div> </div>
+<div>BVfrA/syZKxqfwWVUAP4c6euZmtMCwKmhNmQHquf6o1+dYCH11WPmy5C/VeDiBM5</div>
+<div> </div>
+<div>1A6JDBaKuBB92ZINn62jOtTruAn1QgRvPCCX6RORnT/Twp5XsyloLJBYveYzH6Wn</div>
+<div> </div>
+<div>yGLOylolkO6UPCOMUztjc0Z2i2Rbs4bIy3jV1Wy8rSRv5p5tonXlZc4quTI1Omtp</div>
+<div> </div>
+<div>z/B+EvLK9boir5RVCEO1Cj6YMqpSKUfTkydvvTeyplRwSnJFCKb2Kx9eiHCO0NEZ</div>
+<div> </div>
+<div>S1nHU6B5PeBXlcIh5j2G1fD9OTBp8L9AR8TJSnHx5T2g4vzUkPO/ve7KBDiMxYuA</div>
+<div> </div>
+<div>TWsu7LkBDQRV5Lb3AQgAuGh4LY4Tp8ELV+9nQl2Ir5kaUWFW4UpUTlBoiVCPv11i</div>
+<div> </div>
+<div>5t1flm+D/TKpHkbD3DKiJ8r5BHlqqrQPOD5sjC49cyrmAVIu48KXX4LbF/if8WDP</div>
+<div> </div>
+<div>ArkZtcFKBi6sIeJDe7y6Kyjba/FLnF3dW5LPOWKx9AC9DQX8Nx8ueR7RvrjPIb/8</div>
+<div> </div>
+<div>ePT0kWOfwn6p8T3DhZ6jl+9UNAjZxAicG5W3viPYHMelXIqU+VmKR7oBgfqOn4k+</div>
+<div> </div>
+<div>IlImGRLDAgzEEDjMI3oCSAymQAZLTxgW+v4ulH57Qc5EptJO4wDhn0qguE8AxYSO</div>
+<div> </div>
+<div>YByZ+dRYTKZsuKV6eLv4IroYx6R1N0t2nbu2zzu+3wARAQABiQEfBBgBCAAJBQJV</div>
+<div> </div>
+<div>5Lb3AhsMAAoJEAB/nZbfpbrnbxgH/R/F+K8WmTF6gTs+mH6npL1BP1HG802z6ZS3</div>
+<div> </div>
+<div>V0K4P9Vc5SrYEoXbR/Wse/veGUr2MpYjAocbboHdyzYd7j7Nr13ts5jY273swWtU</div>
+<div> </div>
+<div>gNtDTY/MnAC+q5EZvNx28D3cI2DxI4ZMw+00LqaMEf3Ed5OIRafdHnJIftZmRl8b</div>
+<div> </div>
+<div>9AUkqVgNK3N9SC9e2XWx1IV6CDclqn0JUk6AAlAKAjyO5qBLzHl4B3mLu1gJyWH4</div>
+<div> </div>
+<div>+f3DNuRSxukXvytHQA1zmoz1PHNhJayhOb+q0Xnehae2EXHFHn5B2cppFH177V6b</div>
+<div> </div>
+<div>inN+w066LKQyPlNh4wmdPMxjgkDYIviE3V1l/tyvgpnv2xkZneg=</div>
+<div> </div>
+<div>=KJ5Q</div>
+<div> </div>
+<div>-----END PGP PUBLIC KEY BLOCK-----</div>

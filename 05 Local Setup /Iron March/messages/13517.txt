@@ -1,0 +1,3 @@
+<p>
+	Speaking of videos. Add screenshots(thumbnails) and links to our videos bellow. I can't get it working. Going to contact youtube, to see there is an issue.
+</p>

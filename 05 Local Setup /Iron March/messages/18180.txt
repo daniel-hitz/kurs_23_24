@@ -1,0 +1,4 @@
+<p>
+	Aplikacija gde mozes da napravis i svoj server. Imamo vec IronMarch server sa oko 100 ljudi ali moras da sacekas 30 dana pre nego sto te mozes da udjes.<br />
+	Skini je.
+</p>

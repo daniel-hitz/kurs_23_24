@@ -1,0 +1,3 @@
+<p>
+	You just need to make an account on lichess.org
+</p>

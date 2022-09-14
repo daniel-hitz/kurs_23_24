@@ -1,0 +1,4 @@
+<p>
+	Nikola comes from Greek Nikolaos, same as his name.<br />
+	Same with Nikolayevich. It's a surname.
+</p>

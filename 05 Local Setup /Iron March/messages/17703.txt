@@ -1,0 +1,8 @@
+
+<p>
+	I don't have the time lately to devote to this my friend. I highly recommend you look up tutorials on pentesting, and tutorials on how to use Kali Linux, 
+</p>
+
+<p>
+	teach a man to fish...
+</p>

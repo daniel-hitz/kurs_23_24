@@ -1,0 +1,14 @@
+
+<p>
+	You should grow dreadlocks and meet a nice Asian hippie girl.
+</p>
+
+<div class="ipsEmbeddedVideo">
+	<div>
+		<iframe allowfullscreen="true" frameborder="0" height="270" src="https://www.youtube.com/embed/nHE7u40plD0?feature=oembed" width="480"></iframe>
+	</div>
+</div>
+
+<p>
+	 
+</p>

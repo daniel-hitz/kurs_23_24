@@ -1,0 +1,7 @@
+
+<p><a href="http://www.reddit.com/r/technology/comments/j1mit/how_to_remove_yourself_from_all_background_check/" rel="external nofollow">http://www.reddit.com/r/technology/comments/j1mit/how_to_remove_yourself_from_all_background_check/</a></p>
+<p>thats what i had bookmarked, although i believe this is rather North America centric.  AFAIK the big tools like pipl.com dont really bring up people outside of NA unless it is a simple user name or email search.  </p>
+<p>from this list, <a href="http://websearch.about.com/od/peoplesearch/tp/free-people-search-engines.htm" rel="external nofollow">http://websearch.about.com/od/peoplesearch/tp/free-people-search-engines.htm</a>  ,</p>
+<p>at a glance <a href="http://www.123people.com/" rel="external nofollow">http://www.123people.com/</a> at least has an international record search feature.  The others did not seem to access european personal info databases.</p>
+<p>you can also get google alerts for any specific search terms which can be rss'd or go to a gmail address.  so you could conceivably monitor for anyone discussing certain organizations or names publicly.</p>
+<p><a href="http://www.google.com/alerts" rel="external nofollow">http://www.google.com/alerts</a></p>

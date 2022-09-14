@@ -1,0 +1,3 @@
+<p>
+	Pozdrav, imaš li Discord?
+</p>

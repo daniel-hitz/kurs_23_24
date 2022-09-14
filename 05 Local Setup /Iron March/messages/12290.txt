@@ -1,0 +1,1 @@
+<p>Its now .com instead of .info</p>

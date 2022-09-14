@@ -1,0 +1,4 @@
+
+<p>Hello.</p>
+<p>A friend was trying to sign up but he said never got the activation email. I was wondering if you could just manually activate his profile. <a href="<___base_url___>/index.php?/user/2712-ada/" rel="">http://ironmarch.org/index.php?/user/2712-ada/</a></p>
+<p>Thanks.</p>

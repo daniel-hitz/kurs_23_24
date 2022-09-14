@@ -1,0 +1,7 @@
+
+<div>I'm not sure if you are aware of this but importing merely uses the image link for the avatar, when a user imports his avatar URL it will not upload anything to your end, it will simply link the picture from its original host. You can enable avatar importing while still not allowing uploads, as shown in the screenshot I took below. You would probably only want to check "Yes" for the "Enable remote avatars" and "No" for the two uploading options, which will block users from both directly uploading images from their computers or transferring images from a website to your server. That should solve the problem. </div>
+<br /><div> </div>
+<br /><div><img src="http://i.imgur.com/1GnGuEH.png" alt="1GnGuEH.png" /></div>
+<br /><div> </div>
+<br /><div> </div>
+<br />

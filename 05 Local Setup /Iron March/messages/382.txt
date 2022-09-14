@@ -1,0 +1,12 @@
+
+<p>/kick nickname</p><div style="margin-left:1px;">Kicks someone out of the room. They can join back, however.</div>
+<p>/ban <span style="font-family:monospace;">nickname!user@host </span></p><div style="margin-left:1px;">Bans that user from the room. To get the user@host information, type /whois username and hit enter. It will tell you. The !user@host is important because it specifies that person and not just the nickname.</div>
+<p>/voice nickname</p><div style="margin-left:1px;">Gives someone voice to speak in a moderated room.</div>
+<p>Those should be all you'll need to administrate the chat. Now for a few channel commands.</p>
+<p>/topic blablahblahah</p><div style="margin-left:1px;">Changes the topic of the chat</div>
+<p>/mode #IronMarch +m</p><div style="margin-left:1px;">Makes the channel moderated, meaning only those with voice can speak.</div>
+<p>/mode #IronMarch +i</p><div style="margin-left:1px;">The room is invite only, meaning a user must have received an invitation from an Op to get in. To do this: /invite nickname</div>
+<p>I cannot think of any other important commands right now, those should be all you will need however.</p>
+<p>IMPORTANT. Make sure you identify with nickserv before joining in order to be automatically become an admin. To do that type:</p>
+<p>/msg nickserv identify whateverpasswordyouregisterdwith</p>
+<p>Then join the chat.</p>

@@ -1,0 +1,3 @@
+<p>
+	I'm studying c# the whole year using Visual Studio, but learning some Java would be good too I guess. At least to learn Netbeans or whatever the favourite IDE is. Tools, tools, tools.
+</p>

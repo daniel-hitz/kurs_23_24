@@ -1,0 +1,8 @@
+
+<div class="ipsEmbeddedOther">
+	<iframe allowfullscreen="" data-controller="core.front.core.autosizeiframe" data-embedid="embed7431703739" scrolling="no" src="<___base_url___>/index.php?app=core&amp;module=system&amp;controller=embed&amp;url=https://www.reddit.com/r/australia/comments/6uzwwp/civil_ssm_debate_hey_turnbull/" style="height:901px;"></iframe>
+</div>
+
+<p>
+	over 600 rustled jimmies, figured you might be interested.
+</p>

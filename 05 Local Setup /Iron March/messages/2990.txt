@@ -1,0 +1,5 @@
+
+<p>Prices:</p>
+<p>T-shirts - 12 Euro</p>
+<p>Longsleeves - 20 Euro</p>
+<p>Hoodies - 29 Euro (if 1 side image); 35 (if both side).</p>

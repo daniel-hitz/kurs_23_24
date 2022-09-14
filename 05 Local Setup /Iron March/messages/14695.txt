@@ -1,0 +1,3 @@
+<p>
+	account validation is on mondays
+</p>

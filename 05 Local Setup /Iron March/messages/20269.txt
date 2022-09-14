@@ -1,0 +1,3 @@
+<p>
+	<span style="color:rgb(185,187,190);font-family:Whitney, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;float:none;">Gael síochánta</span><span style="margin:0px;padding:0px;border:0px;font-weight:normal;font-style:normal;font-family:Whitney, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;vertical-align:baseline;color:rgb(185,187,190);letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;">#9783</span>
+</p>

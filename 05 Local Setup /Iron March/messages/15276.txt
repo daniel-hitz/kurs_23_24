@@ -1,0 +1,67 @@
+
+<p>
+	Hey man, thanks a lot!
+</p>
+
+<p>
+	Regarding your question.
+</p>
+
+<p>
+	In the latest version you should see this <img alt="ivfhc7J.png" class="ipsImage" src="https://i.imgur.com/ivfhc7J.png" /></p>
+
+<p>
+	 
+</p>
+
+<p>
+	Maybe you need to install the latest version and uninstall the old one.
+</p>
+
+<p>
+	Are you on the TRS forums? There is a thread with instructions
+</p>
+
+<p>
+	<a href="https://forum.therightstuff.biz/topic/1234/coincidence-detector-support-thread?page=1" rel="external nofollow">https://forum.therightstuff.biz/topic/1234/coincidence-detector-support-thread?page=1</a>
+</p>
+
+<p>
+	In case you can't access it, you can tell me your browser and I can extract the information for you.
+</p>
+
+<p>
+	Or go here <a href="https://bit.no.com:43110/1As8nyiVibNzfjLiS1eCinYia2dK2ZgHiz/" rel="external nofollow">https://bit.no.com:43110/1As8nyiVibNzfjLiS1eCinYia2dK2ZgHiz/</a>
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	The integration works this way:
+</p>
+
+<p>
+	Every name the CD finds, which is not already linking to something, will be made into a link to the respective entry on JW.
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	Once you have set everything up, you can go here <a href="https://judas.watch/api/v1.1/get_all_person_names" rel="external nofollow">https://judas.watch/api/v1.1/get_all_person_names</a>
+</p>
+
+<p>
+	and some of the names should be links. If that's the case your CD plugin works as expected.
+</p>
+
+<p>
+	 
+</p>
+
+<p>
+	Cheers
+</p>

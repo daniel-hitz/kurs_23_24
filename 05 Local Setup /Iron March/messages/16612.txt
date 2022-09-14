@@ -1,0 +1,3 @@
+<p>
+	The Fascist Archive? The problem is that we need to hire a company to basically devise specific software for it, specifically the upload interface. The price tag for this project, when we were last asking around, was somewhere around $5k, first $1k going to just the initial design planning with the company. Once its built maintaining it shouldn't be as difficult though, and certainly nowhere near as expensive.
+</p>

@@ -1,0 +1,15 @@
+
+<p>&gt;implying we're idiots over here</p>
+<p> </p>
+<p>your screenshot is nothing like any of our admin panels. There is a difference between IMPORTED and REMOTE avatars. IPB doesn't even refer to avatars as avatars anymore, they're "photos", the only controls in there are for</p>
+<p> </p>
+<blockquote data-ipsquote="" class="ipsQuote"><div>
+<strong>Personal Photo Limits<br><span>Max upload file size and dimensions</span></strong>  (in kB)<br>Max Width (px):  x Max Height (px): <br><span>(Leave blank to disable uploads)</span><p> </p>
+</div></blockquote>
+<p> </p>
+<p>The only thing that controls links in relevance to avatars is the following and note  my custom angry red underlining here:</p>
+<p> </p>
+<blockquote data-ipsquote="" class="ipsQuote"><div>
+<p> </p>
+<p><strong>Allow members to import photos via URL</strong> <span>Yes</span><span>No</span><br><span>If enabled, where members have permission to upload photos, they can import a photo from a URL. <span style="color:#ff0000;"><strong><u>This will download it to the forum server.</u></strong></span></span></p>
+</div></blockquote>

@@ -1,0 +1,4 @@
+<p>
+	When you sign out you will see "Forgot your password?" bar, click on it. Put your current email in it and then follow the steps to reset your password. <br />
+	After that, when you log in with new password click on your icon and go to account settings and change your email to new one.
+</p>

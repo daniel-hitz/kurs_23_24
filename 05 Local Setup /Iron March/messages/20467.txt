@@ -1,0 +1,3 @@
+<p>
+	Do you have the encrypted messenger app Wire?
+</p>

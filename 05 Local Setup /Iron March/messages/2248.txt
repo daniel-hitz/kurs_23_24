@@ -1,0 +1,5 @@
+
+<p>You might find this amusing in light of our previous conversation-- Woman in Black calls the forum out for being shitty..</p>
+<p><iframe src="<___base_url___>/index.php?/topic/1367-sad-to-see-this-forum-turn-neo-nazi/page__view__findpost__p__34730&amp;do=embed" frameborder="0" data-embedcontent=""></iframe></p>
+<p>Overall I think one of the most worthwhile immediate projects would be the processing and distribution of various primary texts.  This would potentially include translation, formatting, file type conversion, standardization, and digital distribution of critical materials.  I think a community based around such things would be the most viable, and not the discussion of news and opinions.  Unfortunately I'm only learning to read German now and don't know any languages to translate.  But I'm very interested in building a simple book scanner, and the use of formatting software such as miktex.</p>
+<p>Do you have any thoughts on this?</p>

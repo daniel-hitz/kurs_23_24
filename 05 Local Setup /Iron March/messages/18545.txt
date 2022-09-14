@@ -1,0 +1,32 @@
+
+<blockquote class="ipsQuote" data-ipsquote="" data-ipsquote-contentapp="forums" data-ipsquote-contentclass="forums_Topic" data-ipsquote-contentcommentid="183954" data-ipsquote-contentid="743" data-ipsquote-contenttype="forums" data-ipsquote-timestamp="1491003295" data-ipsquote-userid="14164" data-ipsquote-username="Tanrı Türkü Korusun">
+	<div class="ipsQuote_citation">
+		22 hours ago, Tanrı Türkü Korusun said:
+	</div>
+
+	<div class="ipsQuote_contents">
+		<p>
+			And btw: how do you post an image without linking in this system?
+		</p>
+	</div>
+</blockquote>
+
+<p>
+	<span></span>You can upload profile pictures, cover photos and signatures, but for everything else you have to upload your stuff.
+</p>
+
+<p>
+	<span>Most of us are using imgur, then link the picture directly, including the file format. Lemme explain:</span>
+</p>
+
+<p>
+	<span>Wrong: </span><a href="http://imgur.com/nFRDV6s" rel="external nofollow">http://imgur.com/nFRDV6s</a>
+</p>
+
+<p>
+	Right: <a href="http://i.imgur.com/nFRDV6s.jpg" rel="external nofollow">http://i.imgur.com/nFRDV6s.jpg</a>
+</p>
+
+<p>
+	The forum then automatically displays it as a picture, but you can set it to a simple link if you want.
+</p>

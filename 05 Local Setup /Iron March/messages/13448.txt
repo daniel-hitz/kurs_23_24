@@ -1,0 +1,3 @@
+<p>
+	did you join <abbr title="National Action"><abbr title="National Action">NA</abbr></abbr> yet?
+</p>

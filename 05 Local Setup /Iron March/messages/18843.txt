@@ -1,0 +1,3 @@
+<p>
+	Tente uma VPN, mesmo que isso seja meio inseguro, ou mesmo uma outra rede de WiFi.
+</p>

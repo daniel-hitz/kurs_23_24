@@ -1,0 +1,4 @@
+<p>
+	You live in Georgia?<br />
+	How nonwhite is it?
+</p>

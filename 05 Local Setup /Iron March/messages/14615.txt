@@ -1,0 +1,3 @@
+<p>
+	Hey! I see that your account is validated and everything is fine. Now you have to make a good introduction like in the example. Cheers :))
+</p>

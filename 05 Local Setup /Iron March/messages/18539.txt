@@ -1,0 +1,5 @@
+<p>
+	Hil Sejr ven!<br /><br />
+	Hvor i landet er du baseret? :-D <br /><br />
+	Jeg er selv fra det Nordjydske!
+</p>

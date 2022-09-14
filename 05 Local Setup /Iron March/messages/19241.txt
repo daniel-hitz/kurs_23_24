@@ -1,0 +1,8 @@
+
+<p>
+	Hi,
+</p>
+
+<p>
+	Do you have the date of your stay in Paris?
+</p>

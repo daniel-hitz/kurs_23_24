@@ -1,0 +1,16 @@
+
+<p>
+	<span>nice!</span>
+</p>
+
+<p>
+	<span>sounds great</span><span>, i'm excited to meet everyone.</span>
+</p>
+
+<p>
+	just a question though, are you guys building your own group or are you guys interested in getting involved with us?
+</p>
+
+<p>
+	either way, i'm sure we can work together in the future, i'm just curious.
+</p>

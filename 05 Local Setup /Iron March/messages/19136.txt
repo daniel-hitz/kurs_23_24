@@ -1,0 +1,3 @@
+<p>
+	Are you and your friends in Paris? 
+</p>

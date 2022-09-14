@@ -1,0 +1,4 @@
+
+<p>I've created the section, now you can upload to it. The upload password is "ironmarchy".</p>
+<p> </p>
+<p>For your 12 books, you can just put them in 1 zip file if you prefer. Don't forget to give the books proper names: Author - title.pdf</p>

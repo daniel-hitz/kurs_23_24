@@ -1,0 +1,20 @@
+
+<blockquote class="ipsQuote" data-ipsquote="" data-ipsquote-contentapp="core" data-ipsquote-contentclass="core_Messenger_Conversation" data-ipsquote-contentcommentid="23344" data-ipsquote-contentid="5357" data-ipsquote-contenttype="messaging" data-ipsquote-timestamp="1491119524" data-ipsquote-userid="14173" data-ipsquote-username="ultimate_goyim">
+	<div class="ipsQuote_citation">
+		Just now, ultimate_goyim said:
+	</div>
+
+	<div class="ipsQuote_contents">
+		<p>
+			Heya, I'm studying programming this year. What's the IT job you've got? I'm just curious.
+		</p>
+
+		<p>
+			Also it's no surprises that folks here don't believe in democracy. It's election year in New Zealand and I'm not going to vote. I'm sick of the electoral roll where they publish everyone's name and physical address into a public register - it's just asking to kill off people like me. If Labour loses then I'll write them a letter to tell them that they're idiots. The working class is Labour's base of support but heaps of working class people don't give an 'f' about politics even where it concerns them. We need radical movements not political parties.
+		</p>
+	</div>
+</blockquote>
+
+<p>
+	I don't know if you are bring genuine or not. I will treat you as if you are. I would study Java, and go into app developement. 
+</p>

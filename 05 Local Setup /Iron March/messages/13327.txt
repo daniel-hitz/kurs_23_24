@@ -1,0 +1,20 @@
+
+<p>
+	It's gonna take a while do go through this huge list and find sources for everything.
+</p>
+
+<p>
+	Just wanted to let you know I added support for submitting organizations.
+</p>
+
+<p>
+	So if there are registered NGOs etc. that you want to submit to the site you can do that now.
+</p>
+
+<p>
+	You can also add relationships to people for every organization under the "affiliations" section.
+</p>
+
+<p>
+	Cheers
+</p>

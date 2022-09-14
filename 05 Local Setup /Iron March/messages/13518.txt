@@ -1,0 +1,3 @@
+<p>
+	There is a link to your channel in the article.
+</p>

@@ -51,8 +51,7 @@
 1. Einstieg: Datenjournalismus ist... (ssc), 15'
 1. Einführung in Pandas: [Daten laden, analysieren, exportieren - Coronavirus](08%20Pandas%20Teil%201/Einführung%20Pandas%20L.ipynb) (ssc), 30'
 1. Übung: [Datensets explorieren - death sentences](08%20Pandas%20Teil%201/Daten%20explorieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Daten%20explorieren%20L.ipynb))* (ssc), 80'
-1. Wiedereinstieg: [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) anschauen
-1. [Hilfsmaterialien](00%20weitere%20Dokumente/hilfsmaterial/) (ssc), 20'
+1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) (ssc), 20'
 1. Übung: [Filtern und Felder kombinieren - NBA All-Stars](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren%20L.ipynb))* (ssc), 80'
 1. Homework: [Explorieren, Filtern, Kombinieren - Fussballstadien](08%20Pandas%20Teil%201/Homework%201.ipynb) *([Lösung](08%20Pandas%20Teil%201/Homework%201%20L.ipynb))*, (ssc) 60'
 

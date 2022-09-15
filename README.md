@@ -61,7 +61,7 @@
 1. Unterricht: [Dataframes handling - Peter, Paul und Maria](09%20Pandas%20Teil%202/Dataframes%20Handling.ipynb) (ssc), 45'
 1. Übung: [Daten klassifizieren - SNF-Grants](09%20Pandas%20Teil%202/Daten%20klassifizieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20klassifizieren%20L.ipynb))* (ssc), 90'
 1. Gruppenübung: [Plotting - Klimadaten](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb) *([Lösung](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb%20L.ipynb))* (ssc), 30'
-1. Übung: [Daten kombinieren - Wahlergebnisse](09%20Pandas%20Teil%202/Daten%20kombinieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20kombinieren%20L.ipynb))* (ssc), 60'
+1. Selbststudium: [Daten kombinieren - Wahlergebnisse](09%20Pandas%20Teil%202/Daten%20kombinieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20kombinieren%20L.ipynb))* (ssc), 60'
 1. Homework: [Explorieren, Kombinieren - Zürichs Einwohner](09%20Pandas%20Teil%202/Homework%202.ipynb) *([Lösung](09%20Pandas%20Teil%202/09%20Pandas%20Teil%202/Homework%202%20L.ipynb))*
 
 ## 10 Selenium, Rückblick und Ausblick auf die Projekte

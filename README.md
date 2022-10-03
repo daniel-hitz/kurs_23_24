@@ -63,7 +63,7 @@
 1. Übung: [Daten klassifizieren - SNF-Grants](09%20Pandas%20Teil%202/Daten%20klassifizieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20klassifizieren%20L.ipynb))* (ssc), 90'
 1. Gruppenübung: [Plotting - Klimadaten](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb) *([Lösung](09%20Pandas%20Teil%202/Exploring%20und%20Plotting.ipynb%20L.ipynb))* (ssc), 30'
 1. Homework: [Daten kombinieren - Wahlergebnisse](09%20Pandas%20Teil%202/Daten%20kombinieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20kombinieren%20L.ipynb))* (ssc), 60'
-1. Homework: [Explorieren, Kombinieren - Zürichs Einwohner](09%20Pandas%20Teil%202/Homework%202.ipynb) *([Lösung](09%20Pandas%20Teil%202/09%20Pandas%20Teil%202/Homework%202%20L.ipynb))*
+1. Homework: [Explorieren, Kombinieren - Zürichs Einwohner](09%20Pandas%20Teil%202/Homework%202.ipynb) *([Lösung](09%20Pandas%20Teil%202/Homework%202%20L.ipynb))*
 
 ## 10 Selenium, Rückblick und Ausblick auf die Projekte
 

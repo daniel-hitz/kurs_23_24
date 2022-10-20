@@ -98,16 +98,17 @@
 **27. Oktober 2022**
 1. Übung: [Aufwärmübung – Shapes](13%20Geopandas%20Teil%201/Aufwärmübung.ipynb) *([Lösung](13%20Geopandas%20Teil%201/Aufwärmübung%20L.ipynb))* (ssc), 60'
 1. Übung: [Geopandas Intro – Seilbahnen](13%20Geopandas%20Teil%201/Geopandas%20Intro.ipynb) *([Lösung](13%20Geopandas%20Teil%201/Geopandas%20Intro%20L.ipynb))* (ssc), 60'
-1. Unterricht: [Geodatenhandling 1 – Coop-Filialen](13%20Geopandas%20Teil%201/Geodatenhandling%201.ipynb) (ssc), 45'
-1. Übung: [Geodatenhandling 2 – Chigaco Grocery Stores](13%20Geopandas%20Teil%201/Geodatenhandling%202.ipynb) *([Lösung](13%20Geopandas%20Teil%201/Geodatenhandling%20L2%20L.ipynb))* (ssc), 45'
+1. Unterricht: [Geodatenhandling 1 – Coop-Filialen](13%20Geopandas%20Teil%201/Geodatenhandling%201.ipynb) *([mit Output](13%20Geopandas%20Teil%201/Geodatenhandling%201%20L.ipynb))* (ssc), 45'
+1. Gruppenübung: [Geodaten konvertieren](Geodata%20Converting.ipynb) *([Lösung](Geodata%20Converting%20L.ipynb))* (ssc), 60'
+1. Selbststudium: [Geodatenhandling 2 – Chigaco Grocery Stores](13%20Geopandas%20Teil%201/Geodatenhandling%202.ipynb) *([Lösung](13%20Geopandas%20Teil%201/Geodatenhandling%20L2%20L.ipynb))* (ssc), 45'
 1. Homework: [Geopandas Training – Denkmalschutz, Coop-Filialen](19%20Geopandas/Geopandas%20Training.ipynb) *([Lösung](19%20Geopandas/Geopandas%20Training%20L.ipynb))* (ssc), 60'
 
 ## 13 Arbeit mit Geodaten, Teil 2
 **28. Oktober 2022**
 1. Materialien: [Cheatsheet, Shapefiles etc.](00%20weitere%20Dokumente/hilfsmaterial/geopandas.md) (ssc), 15'
-1. Übung: [Geodaten-Quellen und Formate](14%20Geopandas%20Teil%202/Geodata%20Quellen.ipynb) (ssc), 45'
-1. Unterricht: [Open Street Map](14%20Geopandas%20Teil%202/Open%20Street%20Map.ipynb) (ssc), 60'
-1. Unterricht: [Google Maps API](14%20Geopandas%20Teil%202/Google%20Maps.ipynb) (ssc), 30'
+1. Übung: [Geodaten-Quellen und Formate](14%20Geopandas%20Teil%202/Geodata%20Quellen.ipynb) (ssc), 90'
+1. Gruppenarbeit A: [Open Street Map](14%20Geopandas%20Teil%202/Open%20Street%20Map.ipynb) (ssc), 120'
+1. Gruppenarbeit B: [Google Maps API](14%20Geopandas%20Teil%202/Google%20Maps.ipynb) (ssc), 120'
 
 ## 15 - 16 Textanalyse & Ausblick Machine Learning
 

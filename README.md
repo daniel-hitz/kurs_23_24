@@ -103,7 +103,7 @@
 1. Selbststudium: [Geodatenhandling 2 – Chigaco Grocery Stores](13%20Geopandas%20Teil%201/Geodatenhandling%202.ipynb) *([Lösung](13%20Geopandas%20Teil%201/Geodatenhandling%20L2%20L.ipynb))* (ssc), 45'
 1. Homework: [Geopandas Training – Denkmalschutz, Coop-Filialen](19%20Geopandas/Geopandas%20Training.ipynb) *([Lösung](19%20Geopandas/Geopandas%20Training%20L.ipynb))* (ssc), 60'
 
-## 13 Arbeit mit Geodaten, Teil 2
+## 14 Arbeit mit Geodaten, Teil 2
 **28. Oktober 2022**
 1. Materialien: [Cheatsheet, Shapefiles etc.](00%20weitere%C2%A0Dokumente/hilfsmaterial/) (ssc), 15'
 1. Übung: [Geodaten-Quellen und Formate](14%20Geopandas%20Teil%202/Geodata%20Quellen.ipynb) (ssc), 90'

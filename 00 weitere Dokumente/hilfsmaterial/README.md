@@ -73,8 +73,11 @@ Sammlung von Hilfsmaterialien zu diversen Programmiersprachen und Python-Bibliot
 - [Schweizer Koordinaten finden](https://tools.retorte.ch/map/?swissgrid=2616777,1157680)
 - [Create your own country Geojson](https://geojson-maps.ash.ms/)
 
-### Kantonale GIS-Browser
-- [ZH](http://maps.zh.ch/?topic=AVfarbigZH&amp;showtab=ogddownload), [BS](https://shop.geo.bs.ch/), [FL](https://service.geo.llv.li/)
+### GIS-Browser
+- [CH](https://map.geo.admin.ch)
+- [ZH](http://maps.zh.ch/?topic=AVfarbigZH&amp;showtab=ogddownload)
+- [BS](https://shop.geo.bs.ch/)
+- [FL](https://service.geo.llv.li/)
 
 
 ## Regex

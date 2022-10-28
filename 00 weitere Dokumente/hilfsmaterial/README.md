@@ -63,18 +63,18 @@ Sammlung von Hilfsmaterialien zu diversen Programmiersprachen und Python-Bibliot
 
 ### Shapefile Resources
 - [BFS: Generalisierte Gemeindegrenzen](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/geostat/geodaten-bundesstatistik/administrative-grenzen/generalisierte-gemeindegrenzen.html)
-- [Swisstopo Onlineshop](https://shop.swisstopo.admin.ch/de/products/swisstopo_products/free_geodata) => WIE KOMMT MAN HIER TATSÄCHLICH ZU DEN DATEN??
+- [Swisstopo Onlineshop](https://shop.swisstopo.admin.ch/de/products/swisstopo_products/free_geodata)
 - [ArcGIS Hub](https://hub.arcgis.com/search)
 - [Natural Earth Data](http://www.naturalearthdata.com/downloads)
 - [opendata.swiss Geographie](https://opendata.swiss/de/group/geography)
 
 ### Little Tools
 - [GPS Koordinaten eines Punkts finden](https://www.gps-coordinates.net/)
-- [Schweizer Koordinaten finden] (https://tools.retorte.ch/map/?swissgrid=2616777,1157680)
+- [Schweizer Koordinaten finden](https://tools.retorte.ch/map/?swissgrid=2616777,1157680)
 - [Create your own country Geojson](https://geojson-maps.ash.ms/)
 
 ### Kantonale GIS-Browser
-- [ZH](http://maps.zh.ch/?topic=AVfarbigZH&amp;showtab=ogddownload), [BS](https://shop.geo.bs.ch/), 
+- [ZH](http://maps.zh.ch/?topic=AVfarbigZH&amp;showtab=ogddownload), [BS](https://shop.geo.bs.ch/), [FL](https://service.geo.llv.li/)
 
 
 ## Regex

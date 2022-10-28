@@ -105,7 +105,7 @@
 
 ## 13 Arbeit mit Geodaten, Teil 2
 **28. Oktober 2022**
-1. Materialien: [Cheatsheet, Shapefiles etc.](00%20weitere%20Dokumente/hilfsmaterial/geopandas.md) (ssc), 15'
+1. Materialien: [Cheatsheet, Shapefiles etc.](00%20weitere%C2%A0Dokumente/hilfsmaterial/) (ssc), 15'
 1. Übung: [Geodaten-Quellen und Formate](14%20Geopandas%20Teil%202/Geodata%20Quellen.ipynb) (ssc), 90'
 1. Gruppenarbeit A: [Open Street Map](14%20Geopandas%20Teil%202/Open%20Street%20Map.ipynb) (ssc), 120'
 1. Gruppenarbeit B: [Google Maps API](14%20Geopandas%20Teil%202/Google%20Maps.ipynb) (ssc), 120'

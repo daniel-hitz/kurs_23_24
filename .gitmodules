@@ -1,3 +1,6 @@
 [submodule "17"]
 	path = 17
 	url = git@github.com:plotti/github_action_examples.git
+[submodule "17 Github Actions/github_action_examples"]
+	path = 17 Github Actions/github_action_examples
+	url = git@github.com:plotti/github_action_examples.git

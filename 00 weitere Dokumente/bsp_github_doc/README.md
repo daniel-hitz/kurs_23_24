@@ -38,7 +38,7 @@ Zur Extrahierung der Namen wurde der auf die Programmiersprache Python basierte 
 ## 4 Artikel
 [Publikation auf Tages-Anzeiger.ch](https://www.tagesanzeiger.ch/ausland/Trumps-Hasstiraden-in-den-sozialen-Medien-nehmen-unaufhoerlich-zu/story/11406769)
 
-##Aufwandslogbuch
+## 5 Aufwandslogbuch
 - Twitterdaten aufbereiten: 1 Std.
 - Datenreinigung: 6 Std.
 - Anwendung NLTK und vaderSentiment: 3 Std.

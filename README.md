@@ -10,6 +10,7 @@
 
 ## 01 Einführungstag
 **4. September 2023**
+
 *Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 0. Begrüssung
 1. Daten-getriebene Recherchen, die die Welt bewegt haben
@@ -23,18 +24,22 @@
 
 ## 02 Python Teil 1
 **5. September 2023**
+
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
 ## 03 Python Teil 2
 **6. September 2023**
+
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
 ## 04 Python Teil 3
 **7. September 2023**
+
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
 ## 05 Local Setup
 **8. September 2023**
+
 *Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 1. Anaconda-Setup
 2. Jupyter Notebook
@@ -45,8 +50,9 @@
 
 
 ## 06 APIs
-*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 **11. September 2023**
+
+*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 1. Requests & APIs
 2. HTML Code
 3. BeautifulSoup
@@ -94,30 +100,36 @@
 
 ## 11 Scraping
 **16. Oktober 2023**
+
 *Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 1. APIs und Authentifizierung
 2. Noch mehr ```BeautifulSoup```
 
 ## 12 Selenium
 **17. Oktober 2023**
+
 *Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 1. Selenium-Setup
 2. Arbeit mit Selenium
 
 ## 13 PDFs
 **26. Oktober 2023**
+
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
 ## 14 Automatisierung
 **27. Oktober 2023**
+
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
 ## 15 Textanalyse, Teil 1
 **6. November 2023**
+
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
 ## 16 Textanalyse, Teil 2
 **7. November 2023**
+
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
 ## 17 Geodaten, Teil 1
@@ -138,8 +150,10 @@
 
 ## 19 Ateliertag
 **4. Januar 2024**
+
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
 ## 20 Abschlusstag
 **20. März 2024**
+
 *Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*

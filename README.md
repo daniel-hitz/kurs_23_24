@@ -1,6 +1,6 @@
-# [MAZ CAS Datenjournalismus 22-23](https://www.maz.ch/file/zusatzinfo/50028/factsheet_cas_datenjournalismus_2022-23.pdf)
+# [MAZ CAS Datenjournalismus 23-24](https://www.maz.ch/kurs/cas-datenjournalismus)
 
-## 00 Ressourcen und Dokumenten-Archiv
+## 00 Allgemeine Ressourcen
 1. [Methodik der datenjournalistischen Recherche](00%20weitere%C2%A0Dokumente/18_08_13_Methodik%20einer%20datenjournalistischen%20Recherche.pdf) - Leitfaden für die Projektarbeit
 1. [Vorbereitung](00%20weitere%C2%A0Dokumente/reading) - eine Leseliste
 1. [Literatur und Links](00%20weitere%C2%A0Dokumente/literatur) - rund ums Thema Datenjournalismus
@@ -8,10 +8,9 @@
 1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) - Tutorials, Dokumentation, weitere Cheatsheets, Templates
 1. [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) - eine kuratierte Sammlung
 
-## 01 Themen finden und datenjournalistische Recherchen planen
-
-**Zur Präsentation**
-
+## 01 Einführungstag
+**4. September 2023**
+*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 0. Begrüssung
 1. Daten-getriebene Recherchen, die die Welt bewegt haben
 2. Stories finden und klassische Recherche planen
@@ -22,10 +21,21 @@
 7. Github-Setup
 8. Feedback
 
-## 02 - 04 Python: Grundbegriffe
+## 02 Python Teil 1
+**5. September 2023**
+*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
-## 05 Von der Cloud zur lokalen Installation
+## 03 Python Teil 2
+**6. September 2023**
+*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
+## 04 Python Teil 3
+**7. September 2023**
+*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+
+## 05 Local Setup
+**8. September 2023**
+*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 1. Anaconda-Setup
 2. Jupyter Notebook
 3. Bedienungsprozess des eigenen Computers
@@ -34,20 +44,15 @@
 6. Github-Kenntnisse vertiefen
 
 
-## 06 Python: APIs und Scraping I
-
+## 06 APIs
+*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+**11. September 2023**
 1. Requests & APIs
 2. HTML Code
 3. BeautifulSoup
 
-## 07 Python: APIs und Scraping II
-
-1. APIs und Authentifizierung
-2. Noch mehr ```BeautifulSoup```
-3. Ausblick auf Pandas
-
-## 08 Pandas Einführung, Teil 1
-**14. September 2022**
+## 07 Pandas Teil 1
+**12. September 2023**
 1. Einstieg: Datenjournalismus ist... (ssc), 15'
 1. Einführung in Pandas: [Daten laden, analysieren, exportieren - Coronavirus](08%20Pandas%20Teil%201/Einführung%20Pandas%20L.ipynb) (ssc), 30'
 1. Übung: [Datensets explorieren - death sentences](08%20Pandas%20Teil%201/Daten%20explorieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Daten%20explorieren%20L.ipynb))* (ssc), 80'
@@ -55,8 +60,8 @@
 1. Übung: [Filtern und Felder kombinieren - NBA All-Stars](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Filter%20und%20Felder%20kombinieren%20L.ipynb))* (ssc), 80'
 1. Homework: [Explorieren, Filtern, Kombinieren - Fussballstadien](08%20Pandas%20Teil%201/Homework%201.ipynb) *([Lösung](08%20Pandas%20Teil%201/Homework%201%20L.ipynb))*, (ssc) 60'
 
-## 09 Pandas Einführung, Teil 2
-**15. September 2022**
+## 08 Pandas Teil 2
+**13. September 2023**
 1. Wiedereinstieg:  [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) anschauen
 1. Unterricht: [Dataframes handling - Peter, Paul und Maria](09%20Pandas%20Teil%202/Dataframes%20Handling.ipynb) (ssc), 45'
 1. Gruppenübung: [Testdaten säubern](09%20Pandas%20Teil%202/DF-Handling/) (ssc), 20'
@@ -65,15 +70,8 @@
 1. Homework: [Daten kombinieren - Wahlergebnisse](09%20Pandas%20Teil%202/Daten%20kombinieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20kombinieren%20L.ipynb))* (ssc), 60'
 1. Homework: [Explorieren, Kombinieren - Zürichs Einwohner](09%20Pandas%20Teil%202/Homework%202.ipynb) *([Lösung](09%20Pandas%20Teil%202/Homework%202%20L.ipynb))*
 
-## 10 Selenium, Rückblick und Ausblick auf die Projekte
-
-1. Selenium-Setup
-2. Arbeit mit Selenium
-3. Rückblick: Wo braucht es mehr Vertiefung?
-4. Ausblick auf Projekte (bsk)
-
-## 11 Pandas Vertiefung, Teil 1
-**3. Oktober 2022**
+## 09 Pandas Teil 3
+**14. September 2023**
 1. Einstieg: [Data Wrangling](11%20Pandas%20Teil%203/Data%20Wrangling.pptx) (ssc), 20'
 1. Unterricht: [Date+Time Basics](11%20Pandas%20Teil%203/Date+Time%20Basics.ipynb) *([Lösung](11%20Pandas%20Teil%203/Date+Time%20Basics%20L.ipynb))* (ssc), 45'
 1. Unterricht: [Time Series - SMI-Index](11%20Pandas%20Teil%203/Time%20Series.ipynb) *([Lösung](11%20Pandas%20Teil%203/Time%20Series%20L.ipynb))* (ssc), 45' + 45'
@@ -82,8 +80,8 @@
 1. Homework: [Exploring und Plotting II - Börsenkurse](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%202.ipnyb) *([Lösung](11%20Pandas%20Teil%203/Exploring%20und%20Plotting%202%20L.ipynb))* (ssc), 60'
 
 
-## 12 Pandas Vertiefung, Teil 2
-**4. Oktober 2022**
+## 10 Pandas Teil 4
+**15. September 2023**
 1. Übung: [Hack like a hacker](12%20Pandas%20Teil%204/Keyboard%20Shortcuts.ipynb) (ssc), 45'
 1. Unterricht: [Color Coding - Countries](12%20Pandas%20Teil%204/Color%20Coding.ipynb) *([mit Output](12%20Pandas%20Teil%204/Color%20Coding%20L.ipynb))* (ssc), 90'
 1. Gruppenarbeit A: [Beautiful Charts](12%20Pandas%20Teil%204/Beautiful%20Charts.ipynb) *([mit Output](12%20Pandas%20Teil%204/Beautiful%20Charts%20L.ipynb))* (ssc), 120'
@@ -94,8 +92,36 @@
 1. Homework: [Regex in Pandas - BFS](12%20Pandas%20Teil%204/Regex%20in%20Pandas.ipynb) *([Lösung](12%20Pandas%20Teil%204/Regex%20in%20Pandas%20L.ipnyb))*
 1. Homework: [Regex - Senators](12%20Pandas%20Teil%204/Homework%20Regex.ipynb) *([Lösung](12%20Pandas%20Teil%204/Homework%20Regex%20L.ipynb))*
 
-## 13 Arbeit mit Geodaten, Teil 1
-**27. Oktober 2022**
+## 11 Scraping
+**16. Oktober 2023**
+*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+1. APIs und Authentifizierung
+2. Noch mehr ```BeautifulSoup```
+
+## 12 Selenium
+**17. Oktober 2023**
+*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+1. Selenium-Setup
+2. Arbeit mit Selenium
+
+## 13 PDFs
+**26. Oktober 2023**
+*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+
+## 14 Automatisierung
+**27. Oktober 2023**
+*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+
+## 15 Textanalyse, Teil 1
+**6. November 2023**
+*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+
+## 16 Textanalyse, Teil 2
+**7. November 2023**
+*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
+
+## 17 Geodaten, Teil 1
+**4. Dezember 2023**
 1. Übung: [Aufwärmübung – Shapes](13%20Geopandas%20Teil%201/Aufwärmübung.ipynb) *([Lösung](13%20Geopandas%20Teil%201/Aufwärmübung%20L.ipynb))* (ssc), 60'
 1. Übung: [Geopandas Intro – Seilbahnen](13%20Geopandas%20Teil%201/Geopandas%20Intro.ipynb) *([Lösung](13%20Geopandas%20Teil%201/Geopandas%20Intro%20L.ipynb))* (ssc), 60'
 1. Unterricht: [Geodatenhandling 1 – Coop-Filialen](13%20Geopandas%20Teil%201/Geodatenhandling%201.ipynb) *([mit Output](13%20Geopandas%20Teil%201/Geodatenhandling%201%20L.ipynb))* (ssc), 45'
@@ -103,17 +129,17 @@
 1. Selbststudium: [Geodatenhandling 2 – Chigaco Grocery Stores](13%20Geopandas%20Teil%201/Geodatenhandling%202.ipynb) *([Lösung](13%20Geopandas%20Teil%201/Geodatenhandling%20L2%20L.ipynb))* (ssc), 45'
 1. Homework: [Geopandas Training – Denkmalschutz, Coop-Filialen](19%20Geopandas/Geopandas%20Training.ipynb) *([Lösung](19%20Geopandas/Geopandas%20Training%20L.ipynb))* (ssc), 60'
 
-## 14 Arbeit mit Geodaten, Teil 2
-**28. Oktober 2022**
+## 18 Geodaten, Teil 2
+**5. Dezember 2023**
 1. Materialien: [Cheatsheet, Shapefiles etc.](00%20weitere%C2%A0Dokumente/hilfsmaterial/) (ssc), 15'
 1. Übung: [Geodaten-Quellen und Formate](14%20Geopandas%20Teil%202/Geodata%20Quellen.ipynb) (ssc), 90'
 1. Gruppenarbeit A: [Open Street Map](14%20Geopandas%20Teil%202/Open%20Street%20Map.ipynb) (ssc), 120'
 1. Gruppenarbeit B: [Google Maps API](14%20Geopandas%20Teil%202/Google%20Maps.ipynb) (ssc), 120'
 
-## 15 - 16 Textanalyse & Ausblick Machine Learning
-
-## 17 - 18 Automatisierung
-
-## 19 Scraping Revisited
+## 19 Ateliertag
+**4. Januar 2024**
+*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
 
 ## 20 Abschlusstag
+**20. März 2024**
+*Einfügen: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*

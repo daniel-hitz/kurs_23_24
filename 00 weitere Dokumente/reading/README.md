@@ -9,8 +9,6 @@
 
 Webseiten können eine interessante Datenquelle sein. Um für das «scrapen» von Webseiten gerüstet zu sein, empfiehlt es sich, in den folgenden HTML-Tutorials stöbern. Es geht darum, zu verstehen wie HTML grob funktioniert, nicht selber HTML schreiben zu können.
 
-Tutorial auf Deutsch, ausführliche Step-by-Step-Erklärung, aber ohne Übungen
-[https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg](https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg)
+- [Tutorial auf Deutsch](https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg), ausführliche Step-by-Step-Erklärung, aber ohne Übungen
 
-Tutorial auf Englisch, Step-by-Step, interaktiv mit integriertem Editor
-[https://www.learn-html.org/](https://www.learn-html.org/)
+- [Tutorial auf Englisch](https://www.learn-html.org/), Step-by-Step, interaktiv mit integriertem Editor

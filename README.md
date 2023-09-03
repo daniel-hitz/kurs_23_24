@@ -11,16 +11,18 @@
 ## 01 Einführungstag
 **4. September 2023**
 
-*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
-0. Begrüssung
-1. Daten-getriebene Recherchen, die die Welt bewegt haben
-2. Stories finden und klassische Recherche planen
-3. Was ist am Datenjournalismus anders?
-4. Datenrecherche: Aggregieren, Reinigen, Analysieren, Visualisieren, Publizieren, Code teilen
-5. Spreadsheets sind Dein bester Freund (SORT; SPLIT; VLOOKUP)
-6. Einführung Google Colab
-7. Github-Setup
-8. Feedback
+Vormittag:
+1. Einstieg: Datenjournalismus ist... (ssc), 25'
+1. Vorstellungsrunde: Daten [in Google Sheets eingeben](https://docs.google.com/spreadsheets/d/1ODsn6MuqPGBpR1pXO8VgQkjMIsLXBORT7ArNqRxmaVY/edit?usp=sharing), [mit Colab modifizieren](https://colab.research.google.com/drive/15IjioLKDp12RbHgeQLmvJ7pyKddu-aXt?usp=sharing) und [darstellen](https://www.simonschmid.pro/MAZ/articles/CAS-Teilnehmer/) (ssc) 35'
+1. Vortrag: [Die datenjournalistische Value Chain](01%20Einführungstag/DDJ%20Value%20Chain.pptx) (ssc), 30'
+1. Orientierung über das Kursprogramm (sta), 30'
+
+Nachmittag:
+1. Vortrag: [Eine Zeitreise durch den Datenjournalismus](01%20Einführungstag/DDJ%20Zeitreise.pptx) (ssc), 30'
+1. Übung: [Google Colab einrichten und kennenlernen](https://colab.research.google.com/drive/1jz0sMldmO407ELp1xon-BmyGWFSB4w6Z?usp=sharing), (ssc), 45'
+1. Vortrag: [Aus Daten Geschichten machen](https://drive.google.com/file/d/15kf8CXmqVemy3EmV10aPRhtAyYQi6gxR/view?pli=1) (sta), 30'
+1. Praxisbeispiel: Vegi-Essen im Food Delivery (ssc), 30'
+
 
 ## 02 Python Teil 1
 **5. September 2023**
@@ -59,7 +61,6 @@
 
 ## 07 Pandas Teil 1
 **12. September 2023**
-1. Einstieg: Datenjournalismus ist... (ssc), 15'
 1. Einführung in Pandas: [Daten laden, analysieren, exportieren - Coronavirus](08%20Pandas%20Teil%201/Einführung%20Pandas%20L.ipynb) (ssc), 30'
 1. Übung: [Datensets explorieren - death sentences](08%20Pandas%20Teil%201/Daten%20explorieren.ipynb) *([Lösung](08%20Pandas%20Teil%201/Daten%20explorieren%20L.ipynb))* (ssc), 80'
 1. [Hilfsmaterialien](00%20weitere%C2%A0Dokumente/hilfsmaterial) (ssc), 20'

@@ -1,3 +1,0 @@
-<p>
-	Is there a dress code?
-</p>

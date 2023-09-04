@@ -1,8 +1,0 @@
-
-<p>
-	Wtf, I can't shift+enter anymore but if I hit ctrl this thing will send my message?
-</p>
-
-<p>
-	Thx for managing the dates anyway.
-</p>

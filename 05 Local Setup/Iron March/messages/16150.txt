@@ -1,3 +1,0 @@
-<p>
-	this is just a test message to see if it goes through (as I mentioned on Twitter that my last one did not)
-</p>

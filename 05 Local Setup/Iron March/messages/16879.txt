@@ -1,3 +1,0 @@
-<p>
-	It seems, that new paypal account is the only option.
-</p>

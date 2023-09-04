@@ -1,3 +1,0 @@
-<p>
-	i think it defaulted to that. too lazy to change it
-</p>

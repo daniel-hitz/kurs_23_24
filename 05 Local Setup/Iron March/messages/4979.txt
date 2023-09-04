@@ -1,1 +1,0 @@
-<p>By the way, while I was doing a dir crawl to see if I could find the php folder myself I noticed you had a default password at /_private/ with a blank username and '_Cisco' password. </p>

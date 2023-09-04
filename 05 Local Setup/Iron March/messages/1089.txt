@@ -1,4 +1,0 @@
-
-<p>Hello.</p>
-<p>Is it possible to change my account nickname?</p>
-<p>Cheers</p>

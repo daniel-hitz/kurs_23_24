@@ -1,7 +1,0 @@
-
-<p>
-	Hey, good to hear from!
-</p>
-
-<p>
-	<img alt=":rockwell:" data-emoticon="" src="<fileStore.core_Emoticons>/emoticons/default_rockwell.png" title=":rockwell:" /></p>

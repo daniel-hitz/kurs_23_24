@@ -1,8 +1,0 @@
-
-<p>
-	Which island?
-</p>
-
-<p>
-	I have two. 
-</p>

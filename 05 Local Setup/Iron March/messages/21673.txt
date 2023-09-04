@@ -1,5 +1,0 @@
-
-<iframe allowfullscreen="" data-controller="core.front.core.autosizeiframe" data-embedcontent="" data-embedid="embed622847466" scrolling="no" src="<___base_url___>/index.php?/topic/5294-the-gap/&amp;do=embed" style="height:214px;max-width:502px;"></iframe>
-<p>
-	The images are offline.
-</p>

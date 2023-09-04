@@ -1,3 +1,0 @@
-<p>
-	<img class="ipsImage" src="http://i.imgur.com/5OzlWME.png" alt="5OzlWME.png" /><img class="ipsImage" src="http://i.imgur.com/3pRmHTn.png" alt="3pRmHTn.png" />These aren't vector form, but easy enough to convert them.
-</p>

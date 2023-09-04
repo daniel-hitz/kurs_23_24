@@ -1,3 +1,0 @@
-<p>
-	Cloudflare, its free for the basic functions, which is all you need, we have it set to "under attack" 24/7, in our case its best not to wait for an actual attack but just fend them automatically, and its set to check once every hour, all of this is something you control from the cloudflare website.
-</p>

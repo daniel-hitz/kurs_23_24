@@ -1,3 +1,0 @@
-<p>
-	Wait, are you currently in Indiana?
-</p>

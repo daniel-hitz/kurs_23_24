@@ -1,3 +1,0 @@
-<p>
-	Only Admins?
-</p>

@@ -1,4 +1,0 @@
-<p>
-	Where'd you go?<br />
-	Arizona state? 
-</p>

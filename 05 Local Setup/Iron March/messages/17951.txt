@@ -1,3 +1,0 @@
-<p>
-	<font><font>Heil ! </font></font><font><font>Tu parle français ?</font></font>
-</p>

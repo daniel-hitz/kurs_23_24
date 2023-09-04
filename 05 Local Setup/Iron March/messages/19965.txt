@@ -1,3 +1,0 @@
-<p>
-	I made an IM chess server. Give me your id and I'll add you in
-</p>

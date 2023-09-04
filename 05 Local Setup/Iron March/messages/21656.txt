@@ -1,3 +1,0 @@
-<p>
-	The multi-quote button, that you can use to avoid making two consecutive posts?
-</p>

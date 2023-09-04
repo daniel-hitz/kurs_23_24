@@ -1,4 +1,0 @@
-
-<p>It's simple, I just used the color setting in sig edit next to size and changed the size to 24</p>
-<p> </p>
-<p><span style="font-family:tahoma, helvetica, arial, sans-serif;font-size:24px;color:rgb(0,0,128);">[</span><span style="font-family:tahoma, helvetica, arial, sans-serif;font-size:24px;color:rgb(255,255,255);">#</span><span style="font-family:tahoma, helvetica, arial, sans-serif;font-size:24px;color:rgb(178,34,34);">Free</span><span style="font-family:tahoma, helvetica, arial, sans-serif;font-size:24px;color:rgb(255,255,255);">Scrumpy</span><span style="font-family:tahoma, helvetica, arial, sans-serif;font-size:24px;color:rgb(178,34,34);">Supremacist</span><span style="font-family:tahoma, helvetica, arial, sans-serif;font-size:24px;color:rgb(0,0,128);">] like so</span></p>

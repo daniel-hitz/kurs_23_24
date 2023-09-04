@@ -1,3 +1,0 @@
-<p>
-	Which part of California are you from?
-</p>

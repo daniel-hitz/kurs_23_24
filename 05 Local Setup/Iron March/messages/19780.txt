@@ -1,8 +1,0 @@
-
-<p>
-	WElcome to the neighborhood
-</p>
-
-<p>
-	<a href="https://www.youtube.com/watch?v=3Ro-WWIMnuo" rel="external nofollow">https://www.youtube.com/watch?v=3Ro-WWIMnuo</a>
-</p>

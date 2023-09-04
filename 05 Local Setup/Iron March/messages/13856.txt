@@ -1,3 +1,0 @@
-<p>
-	My contacts have denied the request. Sorry.
-</p>

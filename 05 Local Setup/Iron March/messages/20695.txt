@@ -1,3 +1,0 @@
-<p>
-	You can change your name yourself.
-</p>

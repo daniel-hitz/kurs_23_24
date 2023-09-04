@@ -1,3 +1,0 @@
-<p>
-	Hey buddy, how are things? 
-</p>

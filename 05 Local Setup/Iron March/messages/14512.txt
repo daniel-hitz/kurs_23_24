@@ -1,3 +1,0 @@
-<p>
-	Should I send you the password to send to them so that it stays encrypted?
-</p>

@@ -1,8 +1,0 @@
-
-<p>
-	Hallå,
-</p>
-
-<p>
-	Just give a short intro. It is enough.
-</p>

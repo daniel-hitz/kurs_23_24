@@ -1,3 +1,0 @@
-<p>
-	When on Tuesday?
-</p>

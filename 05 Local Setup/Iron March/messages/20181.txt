@@ -1,4 +1,0 @@
-<p>
-	Works now! Ty.<br />
-	How's the translation going btw
-</p>

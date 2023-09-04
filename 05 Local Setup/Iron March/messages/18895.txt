@@ -1,3 +1,0 @@
-<p>
-	message has been sent
-</p>

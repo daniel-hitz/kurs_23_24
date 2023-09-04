@@ -1,4 +1,0 @@
-
-<p>Hey Boss,</p>
-<p>Is there a way for users to manually set their Last Active status to private?</p>
-<p>Thanks</p>

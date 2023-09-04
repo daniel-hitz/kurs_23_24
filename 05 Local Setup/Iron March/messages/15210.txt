@@ -1,3 +1,0 @@
-<p>
-	Yeah, which article?
-</p>

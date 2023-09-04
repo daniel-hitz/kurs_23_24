@@ -1,1 +1,0 @@
-<p>Don't be too eager, I can sing badly too <img src="<fileStore.core_Emoticons>/emoticons/GeneralIMemoticons_wink.png" alt=";)" srcset="<fileStore.core_Emoticons>/emoticons/wink@2x.png 2x" width="20" height="20" /></p>

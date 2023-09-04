@@ -1,3 +1,0 @@
-<p>
-	It will be on the home page.
-</p>

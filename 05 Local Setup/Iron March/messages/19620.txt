@@ -1,3 +1,0 @@
-<p>
-	<span>hilarious</span>
-</p>

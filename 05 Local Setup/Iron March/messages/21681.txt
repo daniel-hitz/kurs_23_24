@@ -1,3 +1,0 @@
-<p>
-	If the thread is locked there is no need to manage it in any way since it won't be used anymore.
-</p>

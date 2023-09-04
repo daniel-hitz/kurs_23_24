@@ -1,4 +1,0 @@
-
-<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-username="Se Pro Patria Debit" data-cite="Se Pro Patria Debit" data-ipsquote-timestamp="1375484234"><div><div><p>Actually I recently gained access, and it gives OFFLINE message. That's a good sign, at least you can connect to it while before it was simply 404. Here's to hoping it makes a quick recovery.</p></div></div></blockquote>
-<p> </p>
-<p>I'm sure you are aware by now about the whole TOR being compromised thing? Anonymous plans to dump a pastebin with "thousands of plain text data and relationships found in tormail". Java exploit code was used through Firefox in the Tor Bundle. Some busts at Freedomhost have already happened in the States and some people in Ireland have been arrested. This is why Tormail has been retarded the past week, and why  lot of sites have been down. </p>

@@ -1,5 +1,0 @@
-
-<p>Hello there,</p>
-<p>You cannot delete your account, but I can do it.</p>
-<p>Are you sure this is what you want? I give you 24h to think it over, and if I don't have any news from you then, I'll delete your account.</p>
-<p>WiB</p>

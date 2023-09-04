@@ -1,3 +1,0 @@
-<p>
-	There's a encryption option for the email, with confidential and not confidential, confidential offers end-to-end encryption, but has a password button next to it?
-</p>

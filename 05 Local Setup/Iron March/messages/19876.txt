@@ -1,3 +1,0 @@
-<p>
-	Atomwaffen TX branch
-</p>

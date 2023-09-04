@@ -1,1 +1,0 @@
-<p>If you know how IPB php works you'll know that you have to give better directions as to in which section I need to search for this line, considering its not all on the same page, and again: they no longer call avatars avatars, they're "photos" so it may very well be reflected as such in the code.</p>

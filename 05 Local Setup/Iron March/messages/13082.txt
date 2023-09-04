@@ -1,3 +1,0 @@
-<p>
-	Did you edit your intro?
-</p>

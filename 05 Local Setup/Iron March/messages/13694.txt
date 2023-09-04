@@ -1,8 +1,0 @@
-
-<p>
-	Skype ID:
-</p>
-
-<p>
-	erich.konig67
-</p>

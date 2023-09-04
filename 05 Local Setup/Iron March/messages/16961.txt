@@ -1,3 +1,0 @@
-<p>
-	I also don't have a tox. Though, it definitely seems neat; I think I'll look at it a little more.
-</p>

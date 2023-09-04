@@ -1,3 +1,0 @@
-<p>
-	If I mention someone with the @ symbol they get added to the conversation.
-</p>

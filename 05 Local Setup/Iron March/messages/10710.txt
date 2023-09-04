@@ -1,1 +1,0 @@
-<p>My public key is in the PGP thread but I won't be able to tell you if it worked, but if you don't get a error message it should be OK I assume</p>

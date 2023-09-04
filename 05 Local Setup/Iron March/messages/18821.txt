@@ -1,3 +1,0 @@
-<p>
-	Hmmm, check with <a contenteditable="false" data-ipshover="" data-ipshover-target="<___base_url___>/index.php?/profile/9872-rostislav/&amp;do=hovercard" data-mentionid="9872" href="<___base_url___>/index.php?/profile/9872-rostislav/" rel="">@Rostislav</a>
-</p>

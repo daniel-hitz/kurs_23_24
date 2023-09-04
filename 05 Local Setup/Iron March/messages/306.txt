@@ -1,4 +1,0 @@
-
-<p>Reply to me when you get this message. </p>
-<p>Sincerely,</p>
-<p>Ben</p>

@@ -1,3 +1,0 @@
-<p>
-	hm, no idea tbh, could have something to do wtih cloudflare
-</p>

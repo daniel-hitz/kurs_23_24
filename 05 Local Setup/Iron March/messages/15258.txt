@@ -1,3 +1,0 @@
-<p>
-	^As said above
-</p>

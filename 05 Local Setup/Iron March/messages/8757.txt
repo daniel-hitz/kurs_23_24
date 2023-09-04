@@ -1,5 +1,0 @@
-
-<p>One reviewer said: </p>
-<p>Recently, I discovered that my two sites (and many other sites on the same box) had been hacked, used to stage a counterfeit sportswear scam and were rendered ueless to my vistors. I am still repeatedly penetrated via SQL injections by potential hackers looking for a place to set up. This requires a daily visit to each site to look for the telltale files.</p>
-<p>Network Solutions response? "Your site is on a box that is running server software that so outdated that it's no longer even supported. At some point (no date given) we plan to upgrade. We do not offer refunds for the time your site was offline, period."</p>
-<p>So browse through the reviews and weighnup your options. Can't trust any fuckers these days</p>

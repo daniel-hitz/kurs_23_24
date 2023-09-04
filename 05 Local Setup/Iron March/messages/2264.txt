@@ -1,5 +1,0 @@
-
-<p>Philippines</p>
-<p>
-</p>
-<div class="ipsEmbeddedVideo"><div><iframe width="480" height="270" src="https://www.youtube.com/embed/1g3fNYyQU3Q?feature=oembed" frameborder="0" allowfullscreen="true"></iframe></div></div>

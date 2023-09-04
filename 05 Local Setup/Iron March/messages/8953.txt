@@ -1,6 +1,0 @@
-
-<p> <img src="<fileStore.core_Emoticons>/emoticons/GeneralIMemoticons_wub.png" alt=":wub:" /> :wub: <img src="<fileStore.core_Emoticons>/emoticons/GeneralIMemoticons_wub.png" alt=":wub:" /></p>
-<p> </p>
-<p>This is just spam!</p>
-<p> </p>
-<p>Goodmorning!</p>

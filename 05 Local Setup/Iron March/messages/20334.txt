@@ -1,8 +1,0 @@
-
-<p>
-	It cant find the wp-login.php
-</p>
-
-<p>
-	 
-</p>

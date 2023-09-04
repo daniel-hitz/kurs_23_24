@@ -1,8 +1,0 @@
-
-<p>
-	Hello!
-</p>
-
-<p>
-	No, we don't sell flags or shirts. We send patches to our Patreon supporters. If you wish to get one and support Xportal, feel free to become a patron: <a href="https://www.patreon.com/Xportal" rel="external nofollow">https://www.patreon.com/Xportal</a> 
-</p>

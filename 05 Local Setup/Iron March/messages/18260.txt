@@ -1,3 +1,0 @@
-<p>
-	So you already made it?
-</p>

@@ -1,3 +1,0 @@
-<p>
-	So you want to cancel?
-</p>

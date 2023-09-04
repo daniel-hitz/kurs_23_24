@@ -1,8 +1,0 @@
-
-<p>
-	Hello. I am a senior member of <abbr title="National Action">NA</abbr>, Benjamin Raymond.
-</p>
-
-<p>
-	Pass your questions along and I will answer.
-</p>

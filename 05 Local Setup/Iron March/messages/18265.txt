@@ -1,3 +1,0 @@
-<p>
-	Start by reading SIEGE.
-</p>

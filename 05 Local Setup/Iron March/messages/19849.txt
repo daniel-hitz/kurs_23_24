@@ -1,3 +1,0 @@
-<p>
-	Click and highlight the part you want and a little thing will pop up saying "quote this"
-</p>

@@ -1,8 +1,0 @@
-
-<p>
-	Hello
-</p>
-
-<p>
-	I will be in Warsaw. Falanga will be organizing its own block.
-</p>

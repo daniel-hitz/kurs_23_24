@@ -1,8 +1,0 @@
-
-<p>
-	Are you on facebook? 
-</p>
-
-<p>
-	Thanks for the link :)
-</p>

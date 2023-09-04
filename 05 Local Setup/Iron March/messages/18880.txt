@@ -1,3 +1,0 @@
-<p>
-	Are you familiar with utilizing Shodan.io?
-</p>

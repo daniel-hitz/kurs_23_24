@@ -1,8 +1,0 @@
-
-<p>
-	Where are you from?
-</p>
-
-<p>
-	I'm kinda tired, it's 10:00 PM here.
-</p>

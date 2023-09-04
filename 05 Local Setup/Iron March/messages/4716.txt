@@ -1,1 +1,0 @@
-<p>What's the name of your theme?</p>

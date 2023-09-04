@@ -1,8 +1,0 @@
-
-<p>
-	Hello Svartskjorta!
-</p>
-
-<p>
-	Thank you verymuch for the invite.
-</p>

@@ -1,5 +1,0 @@
-
-<p>Tollasen paskoin tunnissa ajankuluks, vauvan eka video:</p>
-<p>
-</p>
-<div class="ipsEmbeddedVideo"><div><iframe width="480" height="270" src="https://www.youtube.com/embed/-y8X8KNMPU8?feature=oembed" frameborder="0" allowfullscreen="true"></iframe></div></div>

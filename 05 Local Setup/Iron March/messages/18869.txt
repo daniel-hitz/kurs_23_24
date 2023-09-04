@@ -1,3 +1,0 @@
-<p>
-	Qual extensão? funciona?
-</p>

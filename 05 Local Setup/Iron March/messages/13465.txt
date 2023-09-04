@@ -1,3 +1,0 @@
-<p>
-	<img alt=":handy:" data-emoticon="" src="<fileStore.core_Emoticons>/emoticons/handy.png" title=":handy:" /> It's going to be fantastic.
-</p>

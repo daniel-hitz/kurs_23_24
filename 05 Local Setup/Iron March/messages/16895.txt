@@ -1,7 +1,0 @@
-
-<p>
-	I made this
-</p>
-
-<p>
-	<img alt="H253BGO.jpg" class="ipsImage" height="625" src="http://i.imgur.com/H253BGO.jpg" width="1000" /></p>

@@ -1,3 +1,0 @@
-<p>
-	greetings brother
-</p>

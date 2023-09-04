@@ -1,5 +1,0 @@
-<div style="table-layout:fixed;width:750.08px;line-height:2;color:rgb(224,224,224);font-size:13px;margin-bottom:20px;font-family:Tahoma, sans-serif;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(28,28,28);">
-	<p style="margin-top:0px;margin-bottom:0px;">
-		What time works for you this weekend?
-	</p>
-</div>

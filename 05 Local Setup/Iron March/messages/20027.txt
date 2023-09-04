@@ -1,3 +1,0 @@
-<p>
-	Good! Welcome to Iron March
-</p>

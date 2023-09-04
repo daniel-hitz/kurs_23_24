@@ -1,3 +1,0 @@
-<p>
-	When'd you discover this?
-</p>

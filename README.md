@@ -42,6 +42,8 @@ Nachmittag:
 ## 05 Local Setup
 **8. September 2023**
 
+[Slides und Tageslernziele](https://docs.google.com/presentation/d/1iYSgs-WREtJ58vUVnEeCFHsXuzSo_3wx_sETF1uFbo8/edit#slide=id.p)
+
 1. [Terminal](05%20Local%20Setup/01%20Terminal.md)
 2. [Anaconda Install](05%20Local%20Setup/02%20install%20anaconda.md)
 3. [Github Setup](05%20Local%20Setup/03%20Setting%20up%20Github%20Desktop.md)

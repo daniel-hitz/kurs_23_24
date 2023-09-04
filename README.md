@@ -18,10 +18,10 @@ Vormittag:
 1. Orientierung über das Kursprogramm (sta), 30'
 
 Nachmittag:
-1. Vortrag: [Eine Zeitreise durch den Datenjournalismus](01%20Einführungstag/DDJ%20Zeitreise.pptx) (ssc), 30'
+1. Wiedereinstieg:  [DDJ-Beispiele](https://observablehq.com/@cas-datenvisualisierung/ddj-beispiele) anschauen
 1. Übung: [Google Colab einrichten und kennenlernen](https://colab.research.google.com/drive/1jz0sMldmO407ELp1xon-BmyGWFSB4w6Z?usp=sharing), (ssc), 45'
 1. Vortrag: [Aus Daten Geschichten machen](https://drive.google.com/file/d/15kf8CXmqVemy3EmV10aPRhtAyYQi6gxR/view?pli=1) (sta), 30'
-1. Praxisbeispiel: Vegi-Essen im Food Delivery (ssc), 30'
+1. [Praxisbeispiel](01%20Einführungstag/Praxisbeispiel.pptx): Vegi-Essen im Food Delivery (ssc), 30'
 
 
 ## 02 Python Teil 1
@@ -69,7 +69,7 @@ Nachmittag:
 
 ## 08 Pandas Teil 2
 **13. September 2023**
-1. Wiedereinstieg:  [DDJ-Beispiele](00%20weitere%C2%A0Dokumente/beispiele/DDJ-Beispiele.md) anschauen
+1. Vortrag: [Eine Zeitreise durch den Datenjournalismus](01%20Einführungstag/DDJ%20Zeitreise.pptx) (ssc), 30'
 1. Unterricht: [Dataframes handling - Peter, Paul und Maria](09%20Pandas%20Teil%202/Dataframes%20Handling.ipynb) (ssc), 45'
 1. Gruppenübung: [Testdaten säubern](09%20Pandas%20Teil%202/DF-Handling/) (ssc), 20'
 1. Übung: [Daten klassifizieren - SNF-Grants](09%20Pandas%20Teil%202/Daten%20klassifizieren.ipynb) *([Lösung](09%20Pandas%20Teil%202/Daten%20klassifizieren%20L.ipynb))* (ssc), 90'

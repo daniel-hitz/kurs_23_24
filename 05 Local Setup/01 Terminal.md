@@ -3,7 +3,7 @@
 ## Navigation
 Mit dem Terminal installieren wir neue Programme, wir halten alte aktuell, und wir können damit unsere Eigen-Kreationen, unsere eigene Programme auslösen. Das Terminal können wir auch dazu nutzen, sehr komplexe Aufgaben zu lösen. 
 
-Deshalb wollen wir uns dieses Werkzeug näher anschauen. Lernen wir die Basis-Befehle kennen. [Hier findet ihr ein wunderbares Cheatsheet dafür](https://www.git-tower.com/blog/command-line-cheat-sheet/.
+Deshalb wollen wir uns dieses Werkzeug näher anschauen. Lernen wir die Basis-Befehle kennen. [Hier findet ihr ein wunderbares Cheatsheet dafür](https://www.git-tower.com/blog/command-line-cheat-sheet/).
 
 
 ## Say

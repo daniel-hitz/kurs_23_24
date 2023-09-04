@@ -1,3 +1,0 @@
-<p>
-	Sent a request.
-</p>

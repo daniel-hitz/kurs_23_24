@@ -1,3 +1,0 @@
-<p>
-	SQL Injection nunca deu nada comigo, mas conheço gente que já se deu mal.
-</p>

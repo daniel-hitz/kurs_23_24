@@ -1,3 +1,0 @@
-<p>
-	hi mate wats ur email address and password
-</p>

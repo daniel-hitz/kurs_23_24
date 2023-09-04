@@ -1,3 +1,0 @@
-
-<p>Err, okay.</p>
-<p>Try this: <a href="http://www.imperva.com/docs/HII_The_Anatomy_of_an_Anonymous_Attack.pdf" rel="external nofollow">http://www.imperva.com/docs/HII_The_Anatomy_of_an_Anonymous_Attack.pdf</a></p>

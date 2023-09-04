@@ -1,1 +1,0 @@
-<p>In short, you can't. for security, only admins can erase files through ftp. Just tell me which files you want me to erase, I'll do it immediately.</p>

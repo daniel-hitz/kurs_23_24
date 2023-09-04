@@ -1,9 +1,0 @@
-<div style="table-layout:fixed;width:834px;line-height:2;color:rgb(224,224,224);font-size:13px;margin-bottom:20px;font-family:Tahoma, sans-serif;font-style:normal;font-weight:normal;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;background-color:rgb(28,28,28);">
-	<p style="margin-top:0px;">
-		Hey,
-	</p>
-
-	<p style="margin-bottom:0px;">
-		join my private discord :) <a href="https://discord.gg/vCjcG2n" rel="external nofollow" style="color:rgb(235,154,0);text-decoration:underline;background-color:transparent;">https://discord.gg/vCjcG2n</a>
-	</p>
-</div>

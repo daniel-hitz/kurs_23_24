@@ -1,3 +1,0 @@
-<p>
-	Thank you. It says that Zeiger can't receive messages but I've enabled the download button on the soundcloud page.
-</p>

@@ -1,3 +1,0 @@
-<p>
-	Your registration email and the email designated in your submitted exam don't match. Did you submit an exam?
-</p>

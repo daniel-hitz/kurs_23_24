@@ -1,3 +1,0 @@
-<p>
-	Welcome! It's good to talk to you!
-</p>

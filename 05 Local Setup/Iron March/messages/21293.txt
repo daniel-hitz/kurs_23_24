@@ -1,3 +1,0 @@
-<p>
-	Who's your website host? Yours hasn't gone down yet, so I'm assuming they either don't know or don't care. I ask because the org. I'm apart of needs a site that won't go down as soon as we go public.
-</p>

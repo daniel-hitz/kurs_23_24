@@ -1,3 +1,0 @@
-<p>
-	Hello, what are your thoughts on the book?
-</p>

@@ -1,4 +1,0 @@
-
-<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-username="Александр Славрос" data-cite="Александр Славрос" data-ipsquote-timestamp="1375685192"><div><div><p>If you know how IPB php works you'll know that you have to give better directions as to in which section I need to search for this line, considering its not all on the same page, </p></div></div></blockquote>
-<p> </p>
-<div>It's a php script so it doesn't matter which forum software/CMS you use, although you can edit them through some control panel it's easier to just edit the raw file yourself. All php should install within a directory that is reached by the command line, your browser or whatever you use to navigate. I obviously don't know which directory you specifically keep your php scripts in, but I can tell you that the file itself should be named either settings.php or mysettings.php, if not those than something similar. </div>

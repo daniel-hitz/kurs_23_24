@@ -1,4 +1,0 @@
-
-<p>
-</p>
-<div class="ipsEmbeddedVideo"><div><iframe width="480" height="270" src="https://www.youtube.com/embed/tx7bdnP_VgA?feature=oembed" frameborder="0" allowfullscreen="true"></iframe></div></div>

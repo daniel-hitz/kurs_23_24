@@ -1,9 +1,0 @@
-
-<p>
-	Yup, we have a discord channel:
-</p>
-<iframe data-embedcontent="" frameborder="0" src="<___base_url___>/index.php?/topic/7106-the-official-official-im-discord/&amp;do=embed"></iframe>
-
-<p>
-	 
-</p>

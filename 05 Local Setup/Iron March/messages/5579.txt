@@ -1,7 +1,0 @@
-
-<p>Hello,</p>
-<p> </p>
-<p>while I'm not an expert on the topic, I have some basic knowledge, so I'll give it a try.</p>
-<p> </p>
-<p>Regards,</p>
-<p>DoO</p>

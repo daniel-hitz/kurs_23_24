@@ -1,1 +1,0 @@
-<p>Jep, Toimiva nimike tuo ainakin on. Valaisihan tämäkin <img src="<fileStore.core_Emoticons>/emoticons/GeneralIMemoticons_tongue.png" alt=":P" srcset="<fileStore.core_Emoticons>/emoticons/tongue@2x.png 2x" width="20" height="20" />.</p>

@@ -1,7 +1,0 @@
-
-<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-username="thecolonel" data-cite="thecolonel" data-ipsquote-timestamp="1424305323"><div><div>
-<p><a href="<___base_url___>/index.php?/topic/4840-greetings/" rel="">http://ironmarch.org/index.php?/topic/4840-greetings/</a></p>
-<p>I'm sick of people like this.</p>
-</div></div></blockquote>
-<p> </p>
-<p>Same here. That Atlas kid PM'd me asking how to hack. I have no problem with people learning, but idiots writing "security guides" that are so far from informed and actually go against specific best practices and basic OPSEC is just a really bad idea. At best it's a waste of time for people who follow it, at worst dangerous. Luckily anyone who needs real security would be able to see how retarded those guides are after the first few sentences.</p>

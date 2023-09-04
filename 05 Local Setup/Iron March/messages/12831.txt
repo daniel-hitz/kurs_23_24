@@ -1,3 +1,0 @@
-<p>
-	Alright well you need to provide some basic description for it to have on the feature page, like a paragraph, as well as a logo. 
-</p>

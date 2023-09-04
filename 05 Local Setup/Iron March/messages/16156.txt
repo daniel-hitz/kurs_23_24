@@ -1,3 +1,0 @@
-<p>
-	Could I ask what denomination you are?
-</p>

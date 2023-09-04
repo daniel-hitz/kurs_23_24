@@ -1,3 +1,0 @@
-<p>
-	Well I've done most of the work on the NOOSE website so I can offer some help with that. Alternatively ask Ben for whomever worked on the <abbr title="National Action">NA</abbr> website, both run on wordpress btw. Otherwise I don't know anyone as such, Zeiger knows some coding but it may depend on what software you'll be using to make a website, which is in turn based on how many functions you want on it.
-</p>

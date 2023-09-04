@@ -1,8 +1,0 @@
-
-<p>
-	Thank you. Maybe you know, where I can find every qoute from ironmarch?<br />
-	Like this one?
-</p>
-
-<p>
-	<img class="ipsImage" src="<___base_url___>/public/style_images/ironmarch345/logo235.png" alt="logo235.png" /></p>

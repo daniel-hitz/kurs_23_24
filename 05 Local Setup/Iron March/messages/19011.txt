@@ -1,8 +1,0 @@
-
-<p>
-	Hello, 
-</p>
-
-<p>
-	Could I have the name of the city where I would buy the equipment so that I could plan the route.
-</p>

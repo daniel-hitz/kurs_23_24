@@ -1,3 +1,0 @@
-
-<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-username="Riftbolt" data-cite="Riftbolt" data-ipsquote-timestamp="1437486555"><div><div><p>My current idea is to use <a href="<___base_url___>/index.php?/topic/5369-http-image-authentication-phishing/" rel="">this</a> to get accounts, and then run in and derail any discussions that were going on.</p></div></div></blockquote>
-<p>Sorry for the late reply - I'm not familiar with phising attacks so I'll let it with you. I'm trying something else with RevLeft</p>

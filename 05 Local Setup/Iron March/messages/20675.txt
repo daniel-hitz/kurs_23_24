@@ -1,8 +1,0 @@
-
-<p>
-	Roses are red,
-</p>
-
-<p>
-	and violets are blue...
-</p>

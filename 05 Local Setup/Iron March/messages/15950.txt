@@ -1,3 +1,0 @@
-<p>
-	Has our interviewer contacted you yet about scheduling an interview time.
-</p>

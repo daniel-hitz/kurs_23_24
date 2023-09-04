@@ -1,3 +1,0 @@
-<p>
-	Good thinking. Help me find a good base image
-</p>

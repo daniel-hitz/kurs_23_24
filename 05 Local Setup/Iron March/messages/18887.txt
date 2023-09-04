@@ -1,3 +1,0 @@
-<p>
-	No we don't have any connection.
-</p>

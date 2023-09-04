@@ -1,3 +1,0 @@
-<p>
-	It's like a fancier IRC with emojis and voicechat
-</p>

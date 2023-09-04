@@ -1,3 +1,0 @@
-
-<p>With that you're actually limited to 50fps (it's a 50hz monitor). There is no way to bypass the core problem that you will not notice a difference above your monitor's refresh rate. What's on the screen is only being updated 50 times a second, unless you want it displaying multiple frames at once (screen-tearing) you're not going to notice anything above 50fps. You can get around screen-tearing though. Most games these days have V-sync.</p>
-<p>If you want a cheap high-refresh-rate monitor CRTs are the way to go. The main disadvantages of that are the space required and how old-fashioned you look.</p>

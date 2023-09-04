@@ -1,3 +1,0 @@
-<p>
-	Hows it going now?
-</p>

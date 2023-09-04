@@ -1,1 +1,0 @@
-<p>And what are the consequences of screen tearing?</p>

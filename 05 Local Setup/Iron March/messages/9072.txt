@@ -1,4 +1,0 @@
-
-<p>Something weird has happened with my profile.</p>
-<p>First I couldn't log in at all, and realized that my profile was gone for a while. Now I managed to log in with a new password from the site.</p>
-<p>Do you know what happened?</p>

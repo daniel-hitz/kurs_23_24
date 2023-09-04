@@ -1,8 +1,0 @@
-
-<p>
-	Username: Integralcymru
-</p>
-
-<p>
-	Number:  7817
-</p>

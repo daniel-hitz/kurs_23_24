@@ -1,8 +1,0 @@
-
-<p>
-	Just sign up and then tell me your address.
-</p>
-
-<p>
-	<a href="https://tutanota.com/" rel="external nofollow">https://tutanota.com/</a>
-</p>

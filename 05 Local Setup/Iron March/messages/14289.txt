@@ -1,3 +1,0 @@
-<p>
-	Yes, I speak English.
-</p>

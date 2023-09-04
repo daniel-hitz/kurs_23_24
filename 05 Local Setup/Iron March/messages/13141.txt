@@ -1,9 +1,0 @@
-
-<p>
-	Subvert is my meme site fam. 
-</p>
-<iframe data-embedcontent="" frameborder="0" src="<___base_url___>/index.php?/topic/6244-check-out-my-meme-site-fam/&amp;do=embed"></iframe>
-
-<p>
-	 
-</p>

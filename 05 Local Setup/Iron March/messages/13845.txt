@@ -1,3 +1,0 @@
-<p>
-	Clicking on that link probably gave him our IP addresses. 
-</p>

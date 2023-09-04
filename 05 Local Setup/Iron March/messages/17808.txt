@@ -1,8 +1,0 @@
-
-<p>
-	<span style="font-family:'Courier New', Courier, monospace;"><span style="font-size:12px;">Just press quote on the posts you want to quote. Delete what's in the quote you don't want to include in your posts.</span></span>
-</p>
-
-<p>
-	<font face="Courier New, Courier, monospace"><span style="font-size:12px;">One of the things asked, you know what's expected of you as a women, yes?</span></font>
-</p>

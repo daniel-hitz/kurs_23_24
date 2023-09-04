@@ -1,3 +1,0 @@
-<p>
-	<a href="https://greasyfork.org/pt-BR/scripts/10955-delete-selected-friends-with-single-click" rel="external nofollow">Essa</a>, mas tem que ter o Tampermonkey ou Greasemonkey instalado para rodar.
-</p>

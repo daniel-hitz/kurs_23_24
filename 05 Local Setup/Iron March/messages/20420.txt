@@ -1,3 +1,0 @@
-<p>
-	here: <a href="https://discord.gg/wJqRVP" rel="external nofollow" style="margin:0px;padding:0px;border:0px;font-weight:normal;font-style:normal;font-family:Whitney, 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;vertical-align:baseline;color:rgb(0,150,207);text-decoration:none;letter-spacing:normal;text-indent:0px;text-transform:none;white-space:pre-wrap;word-spacing:0px;" title="https://discord.gg/wJqRVP">https://discord.gg/wJqRVP</a>
-</p>

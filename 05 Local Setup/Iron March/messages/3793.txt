@@ -1,3 +1,0 @@
-
-<p>You can remove or edit exif on pictures and some image uploading sites do it automatically now; some people don't know about it or upload it to a site which doesn't strip it automatically and that's where you can find out if pics have been edited or when they were taken/edited. With GPS as well, it includes that if people forget to switch it off and take pics from their phone and upload them, making it easy to locate people.</p>
-<p>tineye.com and similar sites are good for looking for the same pic that has been posted on other sites.</p>

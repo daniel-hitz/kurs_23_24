@@ -1,4 +1,0 @@
-<p>
-	What did you want to talk about?<br />
-	 
-</p>

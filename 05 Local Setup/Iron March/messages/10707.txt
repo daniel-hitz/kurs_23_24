@@ -1,3 +1,0 @@
-
-<p>Hmmm, is it called Cleopatra, the gpg4win you're using or just gpg4win?</p>
-<p>Maybe delete all the keys and make a new one, as per my guide.</p>

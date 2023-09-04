@@ -1,3 +1,0 @@
-
-<p>Imgur.com</p>
-<p>Metadata is stripped when uploaded there.  S</p>

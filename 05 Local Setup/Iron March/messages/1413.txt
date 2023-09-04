@@ -1,1 +1,0 @@
-<p>Could you give me an approximate interval of time until you log in?</p>

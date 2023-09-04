@@ -1,4 +1,0 @@
-
-<p>Of course. I recommend GPG4USB if you've got a spare USB stick lying around?</p>
-<p>You're using a Windows computer I'm assuming?</p>
-<p>GPG4Win might be worth looking into.</p>

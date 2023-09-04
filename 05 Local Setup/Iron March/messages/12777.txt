@@ -1,8 +1,0 @@
-
-<p>
-	Sure there's no time pressure or any kind of deadline. 
-</p>
-
-<p>
-	And ideally it should be done exactly the same, if a text is in bold then you apply <strong>bold </strong>to the translation, if its orange apply <span style="color:#FF8C00;">orange </span>and etc. We want people to be able to open up the guideline page, for example, and switch between language packs and see a uniformed presentation in all of them.
-</p>

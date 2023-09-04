@@ -1,1 +1,0 @@
-<p>It's a thumbs up.</p>

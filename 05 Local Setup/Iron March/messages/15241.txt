@@ -1,4 +1,0 @@
-<p>
-	Howdy newcomer,<br /><br />
-	How goes reading the introduction material? 
-</p>

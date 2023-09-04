@@ -1,5 +1,0 @@
-
-<p>Hello, H.</p>
-<p>Do you have Skype?</p>
-<p>Heil,</p>
-<p>TvE</p>

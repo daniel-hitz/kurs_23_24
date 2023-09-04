@@ -1,3 +1,0 @@
-<p>
-	Indeed I am.
-</p>

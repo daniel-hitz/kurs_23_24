@@ -1,3 +1,0 @@
-<p>
-	Do they ship to oz?
-</p>

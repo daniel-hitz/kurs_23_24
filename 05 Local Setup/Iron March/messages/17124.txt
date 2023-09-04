@@ -1,3 +1,0 @@
-<p>
-	have you talked to Odin?
-</p>

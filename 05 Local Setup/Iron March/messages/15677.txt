@@ -1,3 +1,0 @@
-<p>
-	Are you on?
-</p>

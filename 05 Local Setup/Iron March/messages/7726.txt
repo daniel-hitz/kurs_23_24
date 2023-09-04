@@ -1,4 +1,0 @@
-
-<p>yeah, both celery.stalk and baglier.zero</p>
-<p> </p>
-<p>I use celery.stalk for group chats and shit</p>

@@ -1,8 +1,0 @@
-
-<p>
-	I have a technical question. If site is DDos'ed. How does backuping work, and how to put state back in it's prime state?
-</p>
-
-<p>
-	 
-</p>

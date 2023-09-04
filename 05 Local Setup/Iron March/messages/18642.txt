@@ -1,7 +1,0 @@
-
-<p>
-	I know right
-</p>
-
-<p>
-	<img alt=":ben:" data-emoticon="" src="<fileStore.core_Emoticons>/emoticons/ben.png" title=":ben:" /></p>

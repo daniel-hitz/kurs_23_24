@@ -1,3 +1,0 @@
-<p>
-	You're offline lad, where did you go?
-</p>

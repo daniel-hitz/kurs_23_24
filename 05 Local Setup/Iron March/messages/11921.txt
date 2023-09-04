@@ -1,8 +1,0 @@
-
-<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-username="Culius Jaeser" data-cite="Culius Jaeser" data-ipsquote-timestamp="1452145344"><div><div><p>I have a question about your Fascist Cash method when actually using the printer. When 'printing' on the dollar bills, are you really just scanning them? Also, what type and strength of tape are you using to hold the money in place? Final question; have you tried feeding them in any sort of machine, such as vending machine yet, with success?</p></div></div></blockquote>
-<p> </p>
-<p>You are not scanning them, you are printing on top of the bills themselves (overprinting is the technical term).</p>
-<p> </p>
-<p>I use normal scotch tape to hold them in place, nothing ultra fancy.</p>
-<p> </p>
-<p>And last but not least, I have not tried to use it on a vending machine, but I will try.  Most these days use the magnetic strip test to tell, or only read the face side.  I will post results with the vending machine later.</p>

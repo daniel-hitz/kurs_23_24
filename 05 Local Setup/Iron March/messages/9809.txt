@@ -1,4 +1,0 @@
-
-<p>this is my stupid smile <img src="<fileStore.core_Emoticons>/emoticons/GeneralIMemoticons_smile.png" alt=":)" srcset="<fileStore.core_Emoticons>/emoticons/smile@2x.png 2x" width="20" height="20" /></p>
-<p><a href="http://imgur.com/8gTXKNA" rel="external nofollow">http://imgur.com/8gTXKNA</a></p>
-<p>You make me do it a lot</p>

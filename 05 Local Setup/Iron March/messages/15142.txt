@@ -1,3 +1,0 @@
-<p>
-	Alright, see ya!
-</p>

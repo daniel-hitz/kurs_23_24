@@ -1,6 +1,0 @@
-<p>
-	Nome: GUSTAVO ARAUJO OLIVEIRA<br />
-	Sexo: MASCULINO<br />
-	CPF: 089.715.679-02 (Regular)<br />
-	Endereço: <a href="https://www.google.com/maps/place/R.+Jo%C3%A3o+Betega,+1547,+S%C3%A3o+Mateus+do+Sul+-+PR,+83900-000,+Brasil/@-25.865971,-50.383469,16z/data=!4m5!3m4!1s0x94e7a2da09b0c773:0xca6efa090723ef9d!8m2!3d-25.8659711!4d-50.3834693?hl=pt-BR" rel="external nofollow">R. João Betega, 1547 São Mateus do Sul - PR 83900-000 Brasil</a>
-</p>

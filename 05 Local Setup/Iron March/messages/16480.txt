@@ -1,3 +1,0 @@
-<p>
-	Hey nice to meet you
-</p>

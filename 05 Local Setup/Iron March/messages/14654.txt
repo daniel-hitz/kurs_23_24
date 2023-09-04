@@ -1,8 +1,0 @@
-
-<p>
-	Hello, try this:
-</p>
-
-<p>
-	<a href="https://www.militaria.pl" rel="external nofollow">https://www.militaria.pl</a> Best shop around.
-</p>

@@ -1,9 +1,0 @@
-
-<p>
-	Hey Alex.
-</p>
-<iframe data-embedcontent="" frameborder="0" src="<___base_url___>/index.php?/topic/7168-skydas-shoad-by-local-law-enforcement/&amp;do=embed"></iframe>
-
-<p>
-	This is the article :) 
-</p>

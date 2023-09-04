@@ -1,2 +1,0 @@
-<p>
-	<img alt=":ordoss:" data-emoticon="" src="<fileStore.core_Emoticons>/emoticons/ordoss.png" title=":ordoss:" /></p>

@@ -1,3 +1,0 @@
-<p>
-	It says I need your name and email to add you as contact?
-</p>

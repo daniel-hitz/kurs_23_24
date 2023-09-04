@@ -1,4 +1,0 @@
-
-<p>Hey there, what's the name of the artist and the song that plays at the beginning of the IronMarch podcast on Youtube (
-</p>
-<div class="ipsEmbeddedVideo"><div><iframe width="480" height="270" src="https://www.youtube.com/embed/OSt5Tdb0vgo?feature=oembed" frameborder="0" allowfullscreen="true"></iframe></div></div>)? Sounds a little bit like KMFDM, but I haven't been able to find it among any of their albums.

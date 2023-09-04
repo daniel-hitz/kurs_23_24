@@ -1,3 +1,0 @@
-<p>
-	Security isn't my area so I can only go by what more knowledgable people have told me about that, I've been using privateinternetaccess for a while now, haven't had any complaints, but I've also heard NordVPN is really good. As for encrypted messaging the most recommended software I know about is the Silent Circle stuff but I've only tried Telegram (most people use it, but it has some <a href="https://thenextweb.com/insider/2016/06/01/watch-hackers-hijack-whatsapp-telegram-accounts-using-known-telecom-flaw/" rel="external nofollow">vulnerabilities</a>) and Tox and I'm not a huge fan of either, if something important has to be said online I usually stick to encrypted email. Thanks for the welcome.
-</p>

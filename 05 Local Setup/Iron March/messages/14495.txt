@@ -1,8 +1,0 @@
-
-<p>
-	Hi, just got home
-</p>
-
-<p>
-	I'll check
-</p>

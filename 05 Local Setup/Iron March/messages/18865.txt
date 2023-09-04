@@ -1,3 +1,0 @@
-<p>
-	Opa, qual seu perfil?
-</p>

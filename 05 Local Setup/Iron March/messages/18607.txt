@@ -1,3 +1,0 @@
-<p>
-	Is everything alright?
-</p>

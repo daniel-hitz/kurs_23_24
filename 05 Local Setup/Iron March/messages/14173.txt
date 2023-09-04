@@ -1,3 +1,0 @@
-<p>
-	This is perfect.
-</p>

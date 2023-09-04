@@ -1,3 +1,0 @@
-<p>
-	Try <span>@vanguardWA</span>
-</p>

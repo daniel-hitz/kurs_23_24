@@ -1,3 +1,0 @@
-
-<blockquote data-ipsquote="" class="ipsQuote" data-ipsquote-username="Kacen" data-cite="Kacen" data-ipsquote-timestamp="1317162768" data-ipsquote-contentapp="core" data-ipsquote-contenttype="messaging" data-ipsquote-contentid="16" data-ipsquote-contentclass="core_Messenger_Conversation"><div><p>I fixed it. It automatically embeds when you post a youtube link.</p></div></blockquote>
-<p>That's handy, thanks.</p>

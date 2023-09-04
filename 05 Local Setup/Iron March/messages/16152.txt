@@ -1,3 +1,0 @@
-<p>
-	Yeah, its working.
-</p>

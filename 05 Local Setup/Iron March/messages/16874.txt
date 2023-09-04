@@ -1,3 +1,0 @@
-<p>
-	You take pills?
-</p>

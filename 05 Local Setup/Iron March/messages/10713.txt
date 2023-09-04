@@ -1,1 +1,0 @@
-<p>Cool, also I decided I'm going to do gpg4usb, i can still use that to communicate with people who use gpg4win right?</p>

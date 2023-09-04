@@ -1,4 +1,0 @@
-<p>
-	Whats this?<br />
-	Is this separate from Discord chat? 
-</p>

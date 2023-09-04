@@ -1,1 +1,0 @@
-<p>you don't want exif data in pictures because sometimes they have geo location in them.</p>

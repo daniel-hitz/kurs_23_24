@@ -1,8 +1,0 @@
-
-<p>
-	Since you are a student at MIT, do you know anybody else besides the other person you mentioned?
-</p>
-
-<p>
-	 
-</p>

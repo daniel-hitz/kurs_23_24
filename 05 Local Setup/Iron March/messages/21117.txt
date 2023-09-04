@@ -1,3 +1,0 @@
-<p>
-	Mégiscsak rendelni fogod?
-</p>

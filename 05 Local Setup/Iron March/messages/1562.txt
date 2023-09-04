@@ -1,7 +1,0 @@
-
-<p>Did you even need to ask? That sort of hardware is going to be relevant for perhaps another 10 years. The only thing is is that it might be a little bit overkill unless</p>
-<p>A) Money is no object</p>
-<p>or</p>
-<p>B] You're really into 3D rendering and other CPU intensive tasks</p>
-<p>If you don't have your peripherals sorted, sort them. Get a mechanical keyboard if you don't have one (Das Keyboard/BlackWidow).</p>
-<p>As a side note, I personally would not buy an expensive SSD, the idea of my disks failing after a few years is not something I like. I seem to recall that the OCZ Agi 2s had a high failiure rate, I've no idea about the 3s though. But that's just me. Obviously, you could just have the entire SSD backed up on the spinny-disk one and just buy a new SSD every few years.</p>

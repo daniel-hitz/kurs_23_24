@@ -1,3 +1,0 @@
-<p>
-	How many errors are there?
-</p>

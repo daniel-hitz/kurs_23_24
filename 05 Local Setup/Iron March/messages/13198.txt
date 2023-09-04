@@ -1,3 +1,0 @@
-<p>
-	Yeah or nah?
-</p>

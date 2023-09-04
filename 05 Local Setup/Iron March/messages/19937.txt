@@ -1,3 +1,0 @@
-<p>
-	<span>angry</span><span>#0859</span>
-</p>

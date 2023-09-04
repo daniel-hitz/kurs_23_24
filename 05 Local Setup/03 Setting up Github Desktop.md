@@ -1,7 +1,7 @@
 #Install Github Desktop
 
 1. Download [Github Desktop](https://desktop.github.com/)
-1. Erstelle auf [Github]https://github.com/) ein Konto.
+1. Erstelle auf [Github](https://github.com/) ein Konto.
 1. Clone das [Klassenrepository](https://github.com/MAZ-CAS-DDJ/kurs_23_24). Wähle dafür sorgfältig aus, wo Du den ganzen Ordner abspreichern willst. In diesen Ortnder darfst Du nichts reinstellen. Hier hast Du "nur" Leserechte. 
 1. Jetzt gilt es ein eigenes Repo zu erschaffen. Dieses Repo ist Dein eigenes. Hier kannst Du alles reinkopieren, was Du willst. Du musst dafür folgendes machen:
 - Name wählen

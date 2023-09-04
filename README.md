@@ -42,22 +42,20 @@ Nachmittag:
 ## 05 Local Setup
 **8. September 2023**
 
-*Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
-1. Anaconda-Setup
-2. Jupyter Notebook
-3. Bedienungsprozess des eigenen Computers
-4. Python Libraries und Module
-5. Module os und einlesen oder auslesen grosser Dateimengen
-6. Github-Kenntnisse vertiefen
+1. [Terminal](05%20Local%20Setup/01%20Terminal.md)
+2. [Anaconda Install](05%20Local%20Setup/02%20install%20anaconda.md)
+3. [Github Setup](05%20Local%20Setup/03%20Setting%20up%20Github%20Desktop.md)
+4. [Jupyter, Markdown, Editors](04%20Jupyter%2C%20Markdown%2C%20Editors.md)
+5. [Workflow](05%20Work-Flow.md)
+6. [Start APIs](06%20APIs%2C%20Python%20Modules%2C%20Fokus%20Requests.ipynb)
 
 
 ## 06 APIs
 **11. September 2023**
 
 *Updaten: Bulletpoints zum Tagesablauf (mit Links zu Lernmaterialien)*
-1. Requests & APIs
+1. Requests, BeatifulSoup & APIs
 2. HTML Code
-3. BeautifulSoup
 
 ## 07 Pandas Teil 1
 **12. September 2023**

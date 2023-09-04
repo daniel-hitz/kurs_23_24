@@ -1,9 +1,16 @@
-**INSTALL ANACONDA**
+# INSTALL ANACONDA
 
-1. [Anaconda-Package](https://www.anaconda.com/products/individual/get-started) herunterladen
-2. Graphical Interface installieren
-3. Anaconda Cloud Account erstellen
-4. Anaconda Navigator starten
-5. "Launch" Jupyter Notebook. Das Terminal starten und Jupyter Notebook öffnet im Browser. Ihr seht nun die File-Struktur auf eben der Ebene, auf der sich Jupyter Notebook installiert hat.
-6. Zum "Desktop" Navigieren
-7. "New", "Python 3". Und es tut sich ein neues Arbeitsfeld auf, das in der Bedienung identisch ist zu Google Colab.
+1. [Anaconda-Package](https://www.anaconda.com/download) herunterladen
+1. Anaconda Cloud Account erstellen
+1. Anaconda Navigator starten
+1. (Im Terminal oder in der QT Console)
+	- ``conda -V```
+	- ```conda update conda```
+	- ```conda create -n CAS-Datenjournalismus python=3.8 anaconda```
+	- ```conda activate CAS-Datenjournalismus  ```
+	- ```conda deactivate CAS-Datenjournalismus  ```
+	- ```conda install "XXX"``` (pandas, openpyxl, matplotlib, requests, beautifulsoup4 (war schon installiert), selenium, geopandas, descartes, pysal)
+	- ```conda install nbconvert==5.4.1```
+1. "Launch" Jupyter Notebook. Das Terminal starten und Jupyter Notebook öffnet im Browser. Ihr seht nun die File-Struktur auf eben der Ebene, auf der sich Jupyter Notebook installiert hat.
+1. Zum "Desktop" Navigieren
+1. "New", "Python 3". Und es tut sich ein neues Arbeitsfeld auf, das in der Bedienung identisch ist zu Google Colab.

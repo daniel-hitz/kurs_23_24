@@ -1,4 +1,4 @@
-## 03 Workflow
+# Workflow
 
 Es macht Sinn, wenn man sich auf seinem persönlichen Notebook ganz bewusst einen Workflow zurecht legt, um auf all die unterschiedlichen Programme, die nun zum Einsatz kommen, möglichst effizient zuzugreifen.
 
@@ -8,6 +8,6 @@ Meine ganz persönliche Organisation:
 
 - Rechte Spalte mit den wichtigsten Apps. Klein. Am unteren Bildschirmrand greife ich nicht gerne darauf zu.
 - Vollbildschirm für Browser. Wichtige Tabs fixieren
-- Dreifinger-Swipe nach oben, um Desktop zu wechseln. Immer so 4 bis 6 Desktops im Einsatz. Einer für alles Kleingemüse. Und
+- Dreifinger-Swipe nach oben, um Desktop zu wechseln. Immer so 4 bis 6 Desktops im Einsatz. Einer für alles Kleingemüse.
 - Dreifinger-Swipe, links und rechts.
-- Tools: Atom, Notizblock, Slack, Evernote, Dropbox, Chrome, Terminal, Finder, Launchpad, Anaconda. 
+- Tools: VC Code, Notizblock, Slack, Evernote, Google Drive, Chrome, Terminal, Finder, Launchpad, Anaconda. 

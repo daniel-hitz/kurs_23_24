@@ -14,7 +14,7 @@ Wenn ihr wissen wollt, wie der Jupyter Notebook Code genau aussieht, könnt ihr 
 
 # Editors
 
-Es gibt viele reine Texteditoren, die ich empfehlen kann. Ich selber nutze Sublime Text. Du musst aber nicht einmal einen editor runterladen. Ihr könnt auch einfach den eingebauten Editor im Mac oder dem PC nutzen. In diesem Fall solltet ihr darauf achten, dass sämtliche Formatierung ausgeschalten ist. 
+Es gibt viele reine Texteditoren, die ich empfehlen kann. Ich selber nutze [VS Code](https://code.visualstudio.com/). Du musst aber nicht einmal einen editor runterladen. Ihr könnt auch einfach den eingebauten Editor im Mac oder dem PC nutzen. In diesem Fall solltet ihr darauf achten, dass sämtliche Formatierung ausgeschalten ist. 
 
 # Markdown
 

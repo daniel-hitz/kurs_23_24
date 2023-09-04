@@ -1,4 +1,4 @@
-# Rückblick und Vertiefung Commandline (Terminal)
+# Commandline (Terminal)
 
 ## Navigation
 Mit dem Terminal installieren wir neue Programme, wir halten alte aktuell, und wir können damit unsere Eigen-Kreationen, unsere eigene Programme auslösen. Das Terminal können wir auch dazu nutzen, sehr komplexe Aufgaben zu lösen. 

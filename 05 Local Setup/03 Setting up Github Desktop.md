@@ -13,4 +13,4 @@
 1. Nun kannst Du im Web oder auf Deinem Gerät Änderungen vornehmen. Und beide Orte miteinander synchron halten. Um das zu tun, gehst Du lokal folgendermassen vor:
 - Summary schreiben
 - Commit to Main
-- 
+- Push Origin

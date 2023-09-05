@@ -7,8 +7,8 @@
 	- ```conda -V```
 	- ```conda update conda```
 	- ```conda create -n CAS-Datenjournalismus python=3.8 anaconda```
-	- ```conda activate CAS-Datenjournalismus  ```
-	- ```conda deactivate CAS-Datenjournalismus  ```
+	- ```conda activate CAS-Datenjournalismus```
+	- ```conda deactivate```
 	- ```conda install "XXX"``` (pandas, openpyxl, matplotlib, requests, beautifulsoup4 (war schon installiert), selenium, geopandas, descartes, pysal)
 	- ```conda install nbconvert==5.4.1```
 5. "Launch" Jupyter Notebook. Das Terminal starten und Jupyter Notebook öffnet im Browser. Du siehst nun die File-Struktur auf der Ebene, auf der Du Jupyter Notebook installiert hat.

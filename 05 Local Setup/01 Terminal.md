@@ -48,7 +48,7 @@ Der Computer wird nun jede Minute "hello you" sagen.
 
 Das lässt sich natürlich verfeinern. Wie, erschliesst sich auf der Site Crontab.guru.
 
-## wc
+## wc 
 Gehen wir zurück auf die Commandline. Und schauen wir an, wie wir damit riesige Datensätze befragen und behandelnd können.
 
 Alle, die vorhin die Daten nicht herunter geladen haben. Ihr könnt das natürlich auch händisch tun. Ladet die Daten in den Folder herunter, den ihr vorhin auf dem Desktop kreiert habt. Die Daten sind [hier:](https://data.snf.ch/exportcsv/Grant.csv).
@@ -58,6 +58,8 @@ Zählen wir, wie viele Wörter das File hat: ```wc Grant.csv.```
 Das Ergebnis zählt eigentlich nicht nur die Wörter, sondern die Linien, die Wörter und die Zeichen.
 
 Zeigen wir nur die Zeilen an: wc -l P3P3_GrantExport.csv. Das gleich können wir nun auch für die Wörter: ```wc -w Grant.csv ```oder die Zeichen ```wc -m Grant.csv``` tun. Wer mehr für wcwissen will, googelt wc unix. So viel mehr kann wc aber nicht wirklich, aber es ist sehr nützlich, um sich über eine grössere Datensammlunge eine Übersicht zu verschaffen.
+
+Die Windows-Alternative [ist hier](https://jordenthecoder.medium.com/how-to-count-number-of-lines-of-large-data-files-in-windows-660ae8a3f4f7).
 
 ## grep und Piping
 ```grep``` steht für "Globally search a Regular Expression and Print". Also: Ein bestimmtes Textmuster suchen und das Resultat dann ausdrucken. Macht das Sinn?

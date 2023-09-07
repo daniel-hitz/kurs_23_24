@@ -17,7 +17,7 @@ Versucht nun das Folgende:
 
 Extra:
 1. Mac- und Linux-Nutzer: versucht mit ```brew install wget``` Wget zu installieren. Wer mehr über Wget wissen will, kann 
-2. Lade mit der Zeile wget https://data.snf.ch/exportcsv/Grant.csv die SNF-Daten herunter.
+2. Lade mit der Zeile ```wget https://data.snf.ch/exportcsv/Grant.csv``` die SNF-Daten herunter.
 
 
 ## Say

@@ -1,0 +1,251 @@
+name,capital,population,independent
+Afghanistan,Kabul,40218234,False
+Åland Islands,Mariehamn,28875,False
+Albania,Tirana,2837743,False
+Algeria,Algiers,44700000,False
+American Samoa,Pago Pago,55197,False
+Andorra,Andorra la Vella,77265,False
+Angola,Luanda,32866268,False
+Anguilla,The Valley,13452,False
+Antarctica,,1000,False
+Antigua and Barbuda,Saint John's,97928,False
+Argentina,Buenos Aires,45376763,False
+Armenia,Yerevan,2963234,False
+Aruba,Oranjestad,106766,False
+Australia,Canberra,25687041,False
+Austria,Vienna,8917205,False
+Azerbaijan,Baku,10110116,False
+Bahamas,Nassau,393248,False
+Bahrain,Manama,1701583,False
+Bangladesh,Dhaka,164689383,False
+Barbados,Bridgetown,287371,False
+Belarus,Minsk,9398861,False
+Belgium,Brussels,11555997,False
+Belize,Belmopan,397621,False
+Benin,Porto-Novo,12123198,False
+Bermuda,Hamilton,63903,False
+Bhutan,Thimphu,771612,False
+Bolivia (Plurinational State of),Sucre,11673029,False
+"Bonaire, Sint Eustatius and Saba",Kralendijk,17408,False
+Bosnia and Herzegovina,Sarajevo,3280815,False
+Botswana,Gaborone,2351625,False
+Bouvet Island,,0,False
+Brazil,Brasília,212559409,False
+British Indian Ocean Territory,Diego Garcia,3000,False
+United States Minor Outlying Islands,,300,False
+Virgin Islands (British),Road Town,30237,False
+Virgin Islands (U.S.),Charlotte Amalie,106290,False
+Brunei Darussalam,Bandar Seri Begawan,437483,False
+Bulgaria,Sofia,6927288,False
+Burkina Faso,Ouagadougou,20903278,False
+Burundi,Gitega,11890781,False
+Cambodia,Phnom Penh,16718971,False
+Cameroon,Yaoundé,26545864,False
+Canada,Ottawa,38005238,False
+Cabo Verde,Praia,555988,False
+Cayman Islands,George Town,65720,False
+Central African Republic,Bangui,4829764,False
+Chad,N'Djamena,16425859,False
+Chile,Santiago,19116209,False
+China,Beijing,1402112000,False
+Christmas Island,Flying Fish Cove,2072,False
+Cocos (Keeling) Islands,West Island,550,False
+Colombia,Bogotá,50882884,False
+Comoros,Moroni,869595,False
+Congo,Brazzaville,5518092,False
+Congo (Democratic Republic of the),Kinshasa,89561404,False
+Cook Islands,Avarua,18100,False
+Costa Rica,San José,5094114,False
+Croatia,Zagreb,4047200,False
+Cuba,Havana,11326616,False
+Curaçao,Willemstad,155014,False
+Cyprus,Nicosia,1207361,False
+Czech Republic,Prague,10698896,False
+Denmark,Copenhagen,5831404,False
+Djibouti,Djibouti,988002,False
+Dominica,Roseau,71991,False
+Dominican Republic,Santo Domingo,10847904,False
+Ecuador,Quito,17643060,False
+Egypt,Cairo,102334403,False
+El Salvador,San Salvador,6486201,False
+Equatorial Guinea,Malabo,1402985,False
+Eritrea,Asmara,5352000,False
+Estonia,Tallinn,1331057,False
+Ethiopia,Addis Ababa,114963583,False
+Falkland Islands (Malvinas),Stanley,2563,False
+Faroe Islands,Tórshavn,48865,False
+Fiji,Suva,896444,False
+Finland,Helsinki,5530719,False
+France,Paris,67391582,False
+French Guiana,Cayenne,254541,False
+French Polynesia,Papeetē,280904,False
+French Southern Territories,Port-aux-Français,140,False
+Gabon,Libreville,2225728,False
+Gambia,Banjul,2416664,False
+Georgia,Tbilisi,3714000,False
+Germany,Berlin,83240525,False
+Ghana,Accra,31072945,False
+Gibraltar,Gibraltar,33691,False
+Greece,Athens,10715549,False
+Greenland,Nuuk,56367,False
+Grenada,St. George's,112519,False
+Guadeloupe,Basse-Terre,400132,False
+Guam,Hagåtña,168783,False
+Guatemala,Guatemala City,16858333,False
+Guernsey,St. Peter Port,62999,False
+Guinea,Conakry,13132792,False
+Guinea-Bissau,Bissau,1967998,False
+Guyana,Georgetown,786559,False
+Haiti,Port-au-Prince,11402533,False
+Heard Island and McDonald Islands,,0,False
+Vatican City,Vatican City,451,False
+Honduras,Tegucigalpa,9904608,False
+Hungary,Budapest,9749763,False
+Hong Kong,City of Victoria,7481800,False
+Iceland,Reykjavík,366425,False
+India,New Delhi,1380004385,False
+Indonesia,Jakarta,273523621,False
+Ivory Coast,Yamoussoukro,26378275,False
+Iran (Islamic Republic of),Tehran,83992953,False
+Iraq,Baghdad,40222503,False
+Ireland,Dublin,4994724,False
+Isle of Man,Douglas,85032,False
+Israel,Jerusalem,9216900,False
+Italy,Rome,59554023,False
+Jamaica,Kingston,2961161,False
+Japan,Tokyo,125836021,False
+Jersey,Saint Helier,100800,False
+Jordan,Amman,10203140,False
+Kazakhstan,Nur-Sultan,18754440,False
+Kenya,Nairobi,53771300,False
+Kiribati,South Tarawa,119446,False
+Kuwait,Kuwait City,4270563,False
+Kyrgyzstan,Bishkek,6591600,False
+Lao People's Democratic Republic,Vientiane,7275556,False
+Latvia,Riga,1901548,False
+Lebanon,Beirut,6825442,False
+Lesotho,Maseru,2142252,False
+Liberia,Monrovia,5057677,False
+Libya,Tripoli,6871287,False
+Liechtenstein,Vaduz,38137,False
+Lithuania,Vilnius,2794700,False
+Luxembourg,Luxembourg,632275,False
+Macao,,649342,False
+North Macedonia,Skopje,2083380,False
+Madagascar,Antananarivo,27691019,False
+Malawi,Lilongwe,19129955,False
+Malaysia,Kuala Lumpur,32365998,False
+Maldives,Malé,540542,False
+Mali,Bamako,20250834,False
+Malta,Valletta,525285,False
+Marshall Islands,Majuro,59194,False
+Martinique,Fort-de-France,378243,False
+Mauritania,Nouakchott,4649660,False
+Mauritius,Port Louis,1265740,False
+Mayotte,Mamoudzou,226915,False
+Mexico,Mexico City,128932753,False
+Micronesia (Federated States of),Palikir,115021,False
+Moldova (Republic of),Chișinău,2617820,False
+Monaco,Monaco,39244,False
+Mongolia,Ulan Bator,3278292,False
+Montenegro,Podgorica,621718,False
+Montserrat,Plymouth,4922,False
+Morocco,Rabat,36910558,False
+Mozambique,Maputo,31255435,False
+Myanmar,Naypyidaw,54409794,False
+Namibia,Windhoek,2540916,False
+Nauru,Yaren,10834,False
+Nepal,Kathmandu,29136808,False
+Netherlands,Amsterdam,17441139,False
+New Caledonia,Nouméa,271960,False
+New Zealand,Wellington,5084300,False
+Nicaragua,Managua,6624554,False
+Niger,Niamey,24206636,False
+Nigeria,Abuja,206139587,False
+Niue,Alofi,1470,False
+Norfolk Island,Kingston,2302,False
+Korea (Democratic People's Republic of),Pyongyang,25778815,False
+Northern Mariana Islands,Saipan,57557,False
+Norway,Oslo,5379475,False
+Oman,Muscat,5106622,False
+Pakistan,Islamabad,220892331,False
+Palau,Ngerulmud,18092,False
+"Palestine, State of",Ramallah,4803269,False
+Panama,Panama City,4314768,False
+Papua New Guinea,Port Moresby,8947027,False
+Paraguay,Asunción,7132530,False
+Peru,Lima,32971846,False
+Philippines,Manila,109581085,False
+Pitcairn,Adamstown,56,False
+Poland,Warsaw,37950802,False
+Portugal,Lisbon,10305564,False
+Puerto Rico,San Juan,3194034,False
+Qatar,Doha,2881060,False
+Republic of Kosovo,Pristina,1775378,False
+Réunion,Saint-Denis,840974,False
+Romania,Bucharest,19286123,False
+Russian Federation,Moscow,144104080,False
+Rwanda,Kigali,12952209,False
+Saint Barthélemy,Gustavia,9417,False
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,4255,False
+Saint Kitts and Nevis,Basseterre,53192,False
+Saint Lucia,Castries,183629,False
+Saint Martin (French part),Marigot,38659,False
+Saint Pierre and Miquelon,Saint-Pierre,6069,False
+Saint Vincent and the Grenadines,Kingstown,110947,False
+Samoa,Apia,198410,False
+San Marino,City of San Marino,33938,False
+Sao Tome and Principe,São Tomé,219161,False
+Saudi Arabia,Riyadh,34813867,False
+Senegal,Dakar,16743930,False
+Serbia,Belgrade,6908224,False
+Seychelles,Victoria,98462,False
+Sierra Leone,Freetown,7976985,False
+Singapore,Singapore,5685807,False
+Sint Maarten (Dutch part),Philipsburg,40812,False
+Slovakia,Bratislava,5458827,False
+Slovenia,Ljubljana,2100126,False
+Solomon Islands,Honiara,686878,False
+Somalia,Mogadishu,15893219,False
+South Africa,Pretoria,59308690,False
+South Georgia and the South Sandwich Islands,King Edward Point,30,False
+Korea (Republic of),Seoul,51780579,False
+Spain,Madrid,47351567,False
+Sri Lanka,Sri Jayawardenepura Kotte,21919000,False
+Sudan,Khartoum,43849269,False
+South Sudan,Juba,11193729,False
+Suriname,Paramaribo,586634,False
+Svalbard and Jan Mayen,Longyearbyen,2562,False
+Swaziland,Mbabane,1160164,False
+Sweden,Stockholm,10353442,False
+Switzerland,Bern,8636896,False
+Syrian Arab Republic,Damascus,17500657,False
+Taiwan,Taipei,23503349,False
+Tajikistan,Dushanbe,9537642,False
+"Tanzania, United Republic of",Dodoma,59734213,False
+Thailand,Bangkok,69799978,False
+Timor-Leste,Dili,1318442,False
+Togo,Lomé,8278737,False
+Tokelau,Fakaofo,1411,False
+Tonga,Nuku'alofa,105697,False
+Trinidad and Tobago,Port of Spain,1399491,False
+Tunisia,Tunis,11818618,False
+Turkey,Ankara,84339067,False
+Turkmenistan,Ashgabat,6031187,False
+Turks and Caicos Islands,Cockburn Town,38718,False
+Tuvalu,Funafuti,11792,False
+Uganda,Kampala,45741000,False
+Ukraine,Kyiv,44134693,False
+United Arab Emirates,Abu Dhabi,9890400,False
+United Kingdom of Great Britain and Northern Ireland,London,67215293,False
+United States of America,"Washington, D.C.",329484123,False
+Uruguay,Montevideo,3473727,False
+Uzbekistan,Tashkent,34232050,False
+Vanuatu,Port Vila,307150,False
+Venezuela (Bolivarian Republic of),Caracas,28435943,False
+Vietnam,Hanoi,97338583,False
+Wallis and Futuna,Mata-Utu,11750,False
+Western Sahara,El Aaiún,510713,False
+Yemen,Sana'a,29825968,False
+Zambia,Lusaka,18383956,False
+Zimbabwe,Harare,14862927,False

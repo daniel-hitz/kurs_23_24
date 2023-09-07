@@ -70,4 +70,4 @@ Auf eurem Desktop sollte nun ein File mit dem Namen "geschichte.csv" erscheinen.
 Wir können Befehle auch kombinieren. Also wc und grep. Mit dem Piping-Zeichen. Auf dem Mac findet ihr das Zeichen mit "alt" und 7.
 Dann geben wir ein ```grep "Geschichte" Grant.csv | wc -l```
 
-Wer mehr wissen will, dem kann ich dieses Buch empfehlen: ![Datascience from the Command Line](https://datascienceatthecommandline.com/img/poster.1600w.webp)
+Wer mehr wissen will, dem kann ich dieses Buch empfehlen: [Datascience from the Command Line](https://datascienceatthecommandline.com/) ![Datascience from the Command Line](https://datascienceatthecommandline.com/img/poster.1600w.webp)

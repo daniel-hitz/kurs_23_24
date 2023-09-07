@@ -69,3 +69,5 @@ Wir bekommen ein Fenster voller Text in der Commandline. Diesen ganze Inhalt kö
 Auf eurem Desktop sollte nun ein File mit dem Namen "geschichte.csv" erscheinen. Versucht das nun mit Excel oder Google Spreadsheets zu öffnen. Das macht schon sehr viel mehr Sinn.
 Wir können Befehle auch kombinieren. Also wc und grep. Mit dem Piping-Zeichen. Auf dem Mac findet ihr das Zeichen mit "alt" und 7.
 Dann geben wir ein ```grep "Geschichte" Grant.csv | wc -l```
+
+Wer mehr wissen will, dem kann ich dieses Buch empfehlen: ![Datascience from the Command Line](https://datascienceatthecommandline.com/img/poster.1600w.webp)

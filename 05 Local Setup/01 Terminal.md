@@ -21,7 +21,7 @@ Extra:
 
 
 ## Say
-Der Terminal ist natürlich nicht nur dazu da, Dokumente herumzuschieben, oder neue zu erschaffen. Lassen wir den Computer damit reden.
+Der Terminal ist natürlich nicht nur dazu da, Dokumente herumzuschieben, oder neue zu erschaffen. Lassen wir den Computer damit reden. (Auch dafür gibt es [Alternativen für PC](https://superuser.com/questions/223913/os-x-say-command-for-windows))
 
 ```say hello```
 ```say hallo, ich bins```

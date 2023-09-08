@@ -1,251 +1,251 @@
-name,capital,population,independent
-Afghanistan,Kabul,40218234,False
-Åland Islands,Mariehamn,28875,False
-Albania,Tirana,2837743,False
-Algeria,Algiers,44700000,False
-American Samoa,Pago Pago,55197,False
-Andorra,Andorra la Vella,77265,False
-Angola,Luanda,32866268,False
-Anguilla,The Valley,13452,False
-Antarctica,,1000,False
-Antigua and Barbuda,Saint John's,97928,False
-Argentina,Buenos Aires,45376763,False
-Armenia,Yerevan,2963234,False
-Aruba,Oranjestad,106766,False
-Australia,Canberra,25687041,False
-Austria,Vienna,8917205,False
-Azerbaijan,Baku,10110116,False
-Bahamas,Nassau,393248,False
-Bahrain,Manama,1701583,False
-Bangladesh,Dhaka,164689383,False
-Barbados,Bridgetown,287371,False
-Belarus,Minsk,9398861,False
-Belgium,Brussels,11555997,False
-Belize,Belmopan,397621,False
-Benin,Porto-Novo,12123198,False
-Bermuda,Hamilton,63903,False
-Bhutan,Thimphu,771612,False
-Bolivia (Plurinational State of),Sucre,11673029,False
-"Bonaire, Sint Eustatius and Saba",Kralendijk,17408,False
-Bosnia and Herzegovina,Sarajevo,3280815,False
-Botswana,Gaborone,2351625,False
-Bouvet Island,,0,False
-Brazil,Brasília,212559409,False
-British Indian Ocean Territory,Diego Garcia,3000,False
-United States Minor Outlying Islands,,300,False
-Virgin Islands (British),Road Town,30237,False
-Virgin Islands (U.S.),Charlotte Amalie,106290,False
-Brunei Darussalam,Bandar Seri Begawan,437483,False
-Bulgaria,Sofia,6927288,False
-Burkina Faso,Ouagadougou,20903278,False
-Burundi,Gitega,11890781,False
-Cambodia,Phnom Penh,16718971,False
-Cameroon,Yaoundé,26545864,False
-Canada,Ottawa,38005238,False
-Cabo Verde,Praia,555988,False
-Cayman Islands,George Town,65720,False
-Central African Republic,Bangui,4829764,False
-Chad,N'Djamena,16425859,False
-Chile,Santiago,19116209,False
-China,Beijing,1402112000,False
-Christmas Island,Flying Fish Cove,2072,False
-Cocos (Keeling) Islands,West Island,550,False
-Colombia,Bogotá,50882884,False
-Comoros,Moroni,869595,False
-Congo,Brazzaville,5518092,False
-Congo (Democratic Republic of the),Kinshasa,89561404,False
-Cook Islands,Avarua,18100,False
-Costa Rica,San José,5094114,False
-Croatia,Zagreb,4047200,False
-Cuba,Havana,11326616,False
-Curaçao,Willemstad,155014,False
-Cyprus,Nicosia,1207361,False
-Czech Republic,Prague,10698896,False
-Denmark,Copenhagen,5831404,False
-Djibouti,Djibouti,988002,False
-Dominica,Roseau,71991,False
-Dominican Republic,Santo Domingo,10847904,False
-Ecuador,Quito,17643060,False
-Egypt,Cairo,102334403,False
-El Salvador,San Salvador,6486201,False
-Equatorial Guinea,Malabo,1402985,False
-Eritrea,Asmara,5352000,False
-Estonia,Tallinn,1331057,False
-Ethiopia,Addis Ababa,114963583,False
-Falkland Islands (Malvinas),Stanley,2563,False
-Faroe Islands,Tórshavn,48865,False
-Fiji,Suva,896444,False
-Finland,Helsinki,5530719,False
-France,Paris,67391582,False
-French Guiana,Cayenne,254541,False
-French Polynesia,Papeetē,280904,False
-French Southern Territories,Port-aux-Français,140,False
-Gabon,Libreville,2225728,False
-Gambia,Banjul,2416664,False
-Georgia,Tbilisi,3714000,False
-Germany,Berlin,83240525,False
-Ghana,Accra,31072945,False
-Gibraltar,Gibraltar,33691,False
-Greece,Athens,10715549,False
-Greenland,Nuuk,56367,False
-Grenada,St. George's,112519,False
-Guadeloupe,Basse-Terre,400132,False
-Guam,Hagåtña,168783,False
-Guatemala,Guatemala City,16858333,False
-Guernsey,St. Peter Port,62999,False
-Guinea,Conakry,13132792,False
-Guinea-Bissau,Bissau,1967998,False
-Guyana,Georgetown,786559,False
-Haiti,Port-au-Prince,11402533,False
-Heard Island and McDonald Islands,,0,False
-Vatican City,Vatican City,451,False
-Honduras,Tegucigalpa,9904608,False
-Hungary,Budapest,9749763,False
-Hong Kong,City of Victoria,7481800,False
-Iceland,Reykjavík,366425,False
-India,New Delhi,1380004385,False
-Indonesia,Jakarta,273523621,False
-Ivory Coast,Yamoussoukro,26378275,False
-Iran (Islamic Republic of),Tehran,83992953,False
-Iraq,Baghdad,40222503,False
-Ireland,Dublin,4994724,False
-Isle of Man,Douglas,85032,False
-Israel,Jerusalem,9216900,False
-Italy,Rome,59554023,False
-Jamaica,Kingston,2961161,False
-Japan,Tokyo,125836021,False
-Jersey,Saint Helier,100800,False
-Jordan,Amman,10203140,False
-Kazakhstan,Nur-Sultan,18754440,False
-Kenya,Nairobi,53771300,False
-Kiribati,South Tarawa,119446,False
-Kuwait,Kuwait City,4270563,False
-Kyrgyzstan,Bishkek,6591600,False
-Lao People's Democratic Republic,Vientiane,7275556,False
-Latvia,Riga,1901548,False
-Lebanon,Beirut,6825442,False
-Lesotho,Maseru,2142252,False
-Liberia,Monrovia,5057677,False
-Libya,Tripoli,6871287,False
-Liechtenstein,Vaduz,38137,False
-Lithuania,Vilnius,2794700,False
-Luxembourg,Luxembourg,632275,False
-Macao,,649342,False
-North Macedonia,Skopje,2083380,False
-Madagascar,Antananarivo,27691019,False
-Malawi,Lilongwe,19129955,False
-Malaysia,Kuala Lumpur,32365998,False
-Maldives,Malé,540542,False
-Mali,Bamako,20250834,False
-Malta,Valletta,525285,False
-Marshall Islands,Majuro,59194,False
-Martinique,Fort-de-France,378243,False
-Mauritania,Nouakchott,4649660,False
-Mauritius,Port Louis,1265740,False
-Mayotte,Mamoudzou,226915,False
-Mexico,Mexico City,128932753,False
-Micronesia (Federated States of),Palikir,115021,False
-Moldova (Republic of),Chișinău,2617820,False
-Monaco,Monaco,39244,False
-Mongolia,Ulan Bator,3278292,False
-Montenegro,Podgorica,621718,False
-Montserrat,Plymouth,4922,False
-Morocco,Rabat,36910558,False
-Mozambique,Maputo,31255435,False
-Myanmar,Naypyidaw,54409794,False
-Namibia,Windhoek,2540916,False
-Nauru,Yaren,10834,False
-Nepal,Kathmandu,29136808,False
-Netherlands,Amsterdam,17441139,False
-New Caledonia,Nouméa,271960,False
-New Zealand,Wellington,5084300,False
-Nicaragua,Managua,6624554,False
-Niger,Niamey,24206636,False
-Nigeria,Abuja,206139587,False
-Niue,Alofi,1470,False
-Norfolk Island,Kingston,2302,False
-Korea (Democratic People's Republic of),Pyongyang,25778815,False
-Northern Mariana Islands,Saipan,57557,False
-Norway,Oslo,5379475,False
-Oman,Muscat,5106622,False
-Pakistan,Islamabad,220892331,False
-Palau,Ngerulmud,18092,False
-"Palestine, State of",Ramallah,4803269,False
-Panama,Panama City,4314768,False
-Papua New Guinea,Port Moresby,8947027,False
-Paraguay,Asunción,7132530,False
-Peru,Lima,32971846,False
-Philippines,Manila,109581085,False
-Pitcairn,Adamstown,56,False
-Poland,Warsaw,37950802,False
-Portugal,Lisbon,10305564,False
-Puerto Rico,San Juan,3194034,False
-Qatar,Doha,2881060,False
-Republic of Kosovo,Pristina,1775378,False
-Réunion,Saint-Denis,840974,False
-Romania,Bucharest,19286123,False
-Russian Federation,Moscow,144104080,False
-Rwanda,Kigali,12952209,False
-Saint Barthélemy,Gustavia,9417,False
-"Saint Helena, Ascension and Tristan da Cunha",Jamestown,4255,False
-Saint Kitts and Nevis,Basseterre,53192,False
-Saint Lucia,Castries,183629,False
-Saint Martin (French part),Marigot,38659,False
-Saint Pierre and Miquelon,Saint-Pierre,6069,False
-Saint Vincent and the Grenadines,Kingstown,110947,False
-Samoa,Apia,198410,False
-San Marino,City of San Marino,33938,False
-Sao Tome and Principe,São Tomé,219161,False
-Saudi Arabia,Riyadh,34813867,False
-Senegal,Dakar,16743930,False
-Serbia,Belgrade,6908224,False
-Seychelles,Victoria,98462,False
-Sierra Leone,Freetown,7976985,False
-Singapore,Singapore,5685807,False
-Sint Maarten (Dutch part),Philipsburg,40812,False
-Slovakia,Bratislava,5458827,False
-Slovenia,Ljubljana,2100126,False
-Solomon Islands,Honiara,686878,False
-Somalia,Mogadishu,15893219,False
-South Africa,Pretoria,59308690,False
-South Georgia and the South Sandwich Islands,King Edward Point,30,False
-Korea (Republic of),Seoul,51780579,False
-Spain,Madrid,47351567,False
-Sri Lanka,Sri Jayawardenepura Kotte,21919000,False
-Sudan,Khartoum,43849269,False
-South Sudan,Juba,11193729,False
-Suriname,Paramaribo,586634,False
-Svalbard and Jan Mayen,Longyearbyen,2562,False
-Swaziland,Mbabane,1160164,False
-Sweden,Stockholm,10353442,False
-Switzerland,Bern,8636896,False
-Syrian Arab Republic,Damascus,17500657,False
-Taiwan,Taipei,23503349,False
-Tajikistan,Dushanbe,9537642,False
-"Tanzania, United Republic of",Dodoma,59734213,False
-Thailand,Bangkok,69799978,False
-Timor-Leste,Dili,1318442,False
-Togo,Lomé,8278737,False
-Tokelau,Fakaofo,1411,False
-Tonga,Nuku'alofa,105697,False
-Trinidad and Tobago,Port of Spain,1399491,False
-Tunisia,Tunis,11818618,False
-Turkey,Ankara,84339067,False
-Turkmenistan,Ashgabat,6031187,False
-Turks and Caicos Islands,Cockburn Town,38718,False
-Tuvalu,Funafuti,11792,False
-Uganda,Kampala,45741000,False
-Ukraine,Kyiv,44134693,False
-United Arab Emirates,Abu Dhabi,9890400,False
-United Kingdom of Great Britain and Northern Ireland,London,67215293,False
-United States of America,"Washington, D.C.",329484123,False
-Uruguay,Montevideo,3473727,False
-Uzbekistan,Tashkent,34232050,False
-Vanuatu,Port Vila,307150,False
-Venezuela (Bolivarian Republic of),Caracas,28435943,False
-Vietnam,Hanoi,97338583,False
-Wallis and Futuna,Mata-Utu,11750,False
-Western Sahara,El Aaiún,510713,False
-Yemen,Sana'a,29825968,False
-Zambia,Lusaka,18383956,False
-Zimbabwe,Harare,14862927,False
+name,capital,population,languages,independent
+Afghanistan,Kabul,40218234,"[{'iso639_1': 'ps', 'iso639_2': 'pus', 'name': 'Pashto', 'nativeName': 'پښتو'}, {'iso639_1': 'uz', 'iso639_2': 'uzb', 'name': 'Uzbek', 'nativeName': 'Oʻzbek'}, {'iso639_1': 'tk', 'iso639_2': 'tuk', 'name': 'Turkmen', 'nativeName': 'Türkmen'}]",False
+Åland Islands,Mariehamn,28875,"[{'iso639_1': 'sv', 'iso639_2': 'swe', 'name': 'Swedish', 'nativeName': 'svenska'}]",False
+Albania,Tirana,2837743,"[{'iso639_1': 'sq', 'iso639_2': 'sqi', 'name': 'Albanian', 'nativeName': 'Shqip'}]",False
+Algeria,Algiers,44700000,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+American Samoa,Pago Pago,55197,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'sm', 'iso639_2': 'smo', 'name': 'Samoan', 'nativeName': ""gagana fa'a Samoa""}]",False
+Andorra,Andorra la Vella,77265,"[{'iso639_1': 'ca', 'iso639_2': 'cat', 'name': 'Catalan', 'nativeName': 'català'}]",False
+Angola,Luanda,32866268,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",False
+Anguilla,The Valley,13452,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Antarctica,,1000,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",False
+Antigua and Barbuda,Saint John's,97928,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Argentina,Buenos Aires,45376763,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'gn', 'iso639_2': 'grn', 'name': 'Guaraní', 'nativeName': ""Avañe'ẽ""}]",False
+Armenia,Yerevan,2963234,"[{'iso639_1': 'hy', 'iso639_2': 'hye', 'name': 'Armenian', 'nativeName': 'Հայերեն'}]",False
+Aruba,Oranjestad,106766,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}, {'iso639_1': 'pa', 'iso639_2': 'pan', 'name': '(Eastern) Punjabi', 'nativeName': 'ਪੰਜਾਬੀ'}]",False
+Australia,Canberra,25687041,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Austria,Vienna,8917205,"[{'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",False
+Azerbaijan,Baku,10110116,"[{'iso639_1': 'az', 'iso639_2': 'aze', 'name': 'Azerbaijani', 'nativeName': 'azərbaycan dili'}]",False
+Bahamas,Nassau,393248,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Bahrain,Manama,1701583,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Bangladesh,Dhaka,164689383,"[{'iso639_1': 'bn', 'iso639_2': 'ben', 'name': 'Bengali', 'nativeName': 'বাংলা'}]",False
+Barbados,Bridgetown,287371,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Belarus,Minsk,9398861,"[{'iso639_1': 'be', 'iso639_2': 'bel', 'name': 'Belarusian', 'nativeName': 'беларуская мова'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",False
+Belgium,Brussels,11555997,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",False
+Belize,Belmopan,397621,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Benin,Porto-Novo,12123198,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Bermuda,Hamilton,63903,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Bhutan,Thimphu,771612,"[{'iso639_1': 'dz', 'iso639_2': 'dzo', 'name': 'Dzongkha', 'nativeName': 'རྫོང་ཁ'}]",False
+Bolivia (Plurinational State of),Sucre,11673029,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'ay', 'iso639_2': 'aym', 'name': 'Aymara', 'nativeName': 'aymar aru'}, {'iso639_1': 'qu', 'iso639_2': 'que', 'name': 'Quechua', 'nativeName': 'Runa Simi'}]",False
+"Bonaire, Sint Eustatius and Saba",Kralendijk,17408,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}]",False
+Bosnia and Herzegovina,Sarajevo,3280815,"[{'iso639_1': 'bs', 'iso639_2': 'bos', 'name': 'Bosnian', 'nativeName': 'bosanski jezik'}, {'iso639_1': 'hr', 'iso639_2': 'hrv', 'name': 'Croatian', 'nativeName': 'hrvatski jezik'}, {'iso639_1': 'sr', 'iso639_2': 'srp', 'name': 'Serbian', 'nativeName': 'српски језик'}]",False
+Botswana,Gaborone,2351625,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'tn', 'iso639_2': 'tsn', 'name': 'Tswana', 'nativeName': 'Setswana'}]",False
+Bouvet Island,,0,"[{'iso639_1': 'no', 'iso639_2': 'nor', 'name': 'Norwegian', 'nativeName': 'Norsk'}, {'iso639_1': 'nb', 'iso639_2': 'nob', 'name': 'Norwegian Bokmål', 'nativeName': 'Norsk bokmål'}, {'iso639_1': 'nn', 'iso639_2': 'nno', 'name': 'Norwegian Nynorsk', 'nativeName': 'Norsk nynorsk'}]",False
+Brazil,Brasília,212559409,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",False
+British Indian Ocean Territory,Diego Garcia,3000,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+United States Minor Outlying Islands,,300,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Virgin Islands (British),Road Town,30237,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Virgin Islands (U.S.),Charlotte Amalie,106290,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Brunei Darussalam,Bandar Seri Begawan,437483,"[{'iso639_1': 'ms', 'iso639_2': 'msa', 'name': 'Malay', 'nativeName': 'bahasa Melayu'}]",False
+Bulgaria,Sofia,6927288,"[{'iso639_1': 'bg', 'iso639_2': 'bul', 'name': 'Bulgarian', 'nativeName': 'български език'}]",False
+Burkina Faso,Ouagadougou,20903278,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ff', 'iso639_2': 'ful', 'name': 'Fula', 'nativeName': 'Fulfulde'}]",False
+Burundi,Gitega,11890781,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'rn', 'iso639_2': 'run', 'name': 'Kirundi', 'nativeName': 'Ikirundi'}]",False
+Cambodia,Phnom Penh,16718971,"[{'iso639_1': 'km', 'iso639_2': 'khm', 'name': 'Khmer', 'nativeName': 'ខ្មែរ'}]",False
+Cameroon,Yaoundé,26545864,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Canada,Ottawa,38005238,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Cabo Verde,Praia,555988,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",False
+Cayman Islands,George Town,65720,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Central African Republic,Bangui,4829764,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'sg', 'iso639_2': 'sag', 'name': 'Sango', 'nativeName': 'yângâ tî sängö'}]",False
+Chad,N'Djamena,16425859,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Chile,Santiago,19116209,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+China,Beijing,1402112000,"[{'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}]",False
+Christmas Island,Flying Fish Cove,2072,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Cocos (Keeling) Islands,West Island,550,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Colombia,Bogotá,50882884,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Comoros,Moroni,869595,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Congo,Brazzaville,5518092,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ln', 'iso639_2': 'lin', 'name': 'Lingala', 'nativeName': 'Lingála'}]",False
+Congo (Democratic Republic of the),Kinshasa,89561404,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ln', 'iso639_2': 'lin', 'name': 'Lingala', 'nativeName': 'Lingála'}, {'iso639_1': 'kg', 'iso639_2': 'kon', 'name': 'Kongo', 'nativeName': 'Kikongo'}, {'iso639_1': 'sw', 'iso639_2': 'swa', 'name': 'Swahili', 'nativeName': 'Kiswahili'}, {'iso639_1': 'lu', 'iso639_2': 'lub', 'name': 'Luba-Katanga', 'nativeName': 'Tshiluba'}]",False
+Cook Islands,Avarua,18100,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_2': 'rar', 'name': 'Cook Islands Māori', 'nativeName': 'Māori'}]",False
+Costa Rica,San José,5094114,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Croatia,Zagreb,4047200,"[{'iso639_1': 'hr', 'iso639_2': 'hrv', 'name': 'Croatian', 'nativeName': 'hrvatski jezik'}]",False
+Cuba,Havana,11326616,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Curaçao,Willemstad,155014,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}, {'iso639_1': 'pa', 'iso639_2': 'pan', 'name': '(Eastern) Punjabi', 'nativeName': 'ਪੰਜਾਬੀ'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Cyprus,Nicosia,1207361,"[{'iso639_1': 'el', 'iso639_2': 'ell', 'name': 'Greek (modern)', 'nativeName': 'ελληνικά'}, {'iso639_1': 'tr', 'iso639_2': 'tur', 'name': 'Turkish', 'nativeName': 'Türkçe'}, {'iso639_1': 'hy', 'iso639_2': 'hye', 'name': 'Armenian', 'nativeName': 'Հայերեն'}]",False
+Czech Republic,Prague,10698896,"[{'iso639_1': 'cs', 'iso639_2': 'ces', 'name': 'Czech', 'nativeName': 'čeština'}, {'iso639_1': 'sk', 'iso639_2': 'slk', 'name': 'Slovak', 'nativeName': 'slovenčina'}]",False
+Denmark,Copenhagen,5831404,"[{'iso639_1': 'da', 'iso639_2': 'dan', 'name': 'Danish', 'nativeName': 'dansk'}]",False
+Djibouti,Djibouti,988002,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Dominica,Roseau,71991,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Dominican Republic,Santo Domingo,10847904,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Ecuador,Quito,17643060,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Egypt,Cairo,102334403,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+El Salvador,San Salvador,6486201,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Equatorial Guinea,Malabo,1402985,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}, {'iso639_2': 'fan', 'name': 'Fang', 'nativeName': 'Fang'}]",False
+Eritrea,Asmara,5352000,"[{'iso639_1': 'ti', 'iso639_2': 'tir', 'name': 'Tigrinya', 'nativeName': 'ትግርኛ'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_2': 'tig', 'name': 'Tigre', 'nativeName': 'ትግረ'}, {'iso639_2': 'kun', 'name': 'Kunama', 'nativeName': 'Kunama'}, {'iso639_2': 'ssy', 'name': 'Saho', 'nativeName': 'Saho'}, {'iso639_2': 'byn', 'name': 'Bilen', 'nativeName': 'ብሊና'}, {'iso639_2': 'nrb', 'name': 'Nara', 'nativeName': 'Nara'}, {'iso639_1': 'aa', 'iso639_2': 'aar', 'name': 'Afar', 'nativeName': 'Afar'}]",False
+Estonia,Tallinn,1331057,"[{'iso639_1': 'et', 'iso639_2': 'est', 'name': 'Estonian', 'nativeName': 'eesti'}]",False
+Ethiopia,Addis Ababa,114963583,"[{'iso639_1': 'am', 'iso639_2': 'amh', 'name': 'Amharic', 'nativeName': 'አማርኛ'}]",False
+Falkland Islands (Malvinas),Stanley,2563,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Faroe Islands,Tórshavn,48865,"[{'iso639_1': 'fo', 'iso639_2': 'fao', 'name': 'Faroese', 'nativeName': 'føroyskt'}]",False
+Fiji,Suva,896444,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fj', 'iso639_2': 'fij', 'name': 'Fijian', 'nativeName': 'vosa Vakaviti'}, {'iso639_2': 'hif', 'name': 'Fiji Hindi', 'nativeName': 'फ़िजी बात'}, {'iso639_2': 'rtm', 'name': 'Rotuman', 'nativeName': 'Fäeag Rotuma'}]",False
+Finland,Helsinki,5530719,"[{'iso639_1': 'fi', 'iso639_2': 'fin', 'name': 'Finnish', 'nativeName': 'suomi'}, {'iso639_1': 'sv', 'iso639_2': 'swe', 'name': 'Swedish', 'nativeName': 'svenska'}]",False
+France,Paris,67391582,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+French Guiana,Cayenne,254541,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+French Polynesia,Papeetē,280904,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+French Southern Territories,Port-aux-Français,140,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Gabon,Libreville,2225728,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Gambia,Banjul,2416664,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Georgia,Tbilisi,3714000,"[{'iso639_1': 'ka', 'iso639_2': 'kat', 'name': 'Georgian', 'nativeName': 'ქართული'}]",False
+Germany,Berlin,83240525,"[{'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",False
+Ghana,Accra,31072945,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Gibraltar,Gibraltar,33691,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Greece,Athens,10715549,"[{'iso639_1': 'el', 'iso639_2': 'ell', 'name': 'Greek (modern)', 'nativeName': 'ελληνικά'}]",False
+Greenland,Nuuk,56367,"[{'iso639_1': 'kl', 'iso639_2': 'kal', 'name': 'Greenlandic', 'nativeName': 'kalaallisut'}]",False
+Grenada,St. George's,112519,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Guadeloupe,Basse-Terre,400132,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Guam,Hagåtña,168783,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ch', 'iso639_2': 'cha', 'name': 'Chamorro', 'nativeName': 'Chamoru'}, {'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Guatemala,Guatemala City,16858333,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Guernsey,St. Peter Port,62999,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Guinea,Conakry,13132792,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ff', 'iso639_2': 'ful', 'name': 'Fula', 'nativeName': 'Fulfulde'}]",False
+Guinea-Bissau,Bissau,1967998,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",False
+Guyana,Georgetown,786559,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Haiti,Port-au-Prince,11402533,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'ht', 'iso639_2': 'hat', 'name': 'Haitian', 'nativeName': 'Kreyòl ayisyen'}]",False
+Heard Island and McDonald Islands,,0,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Vatican City,Vatican City,451,"[{'iso639_1': 'la', 'iso639_2': 'lat', 'name': 'Latin', 'nativeName': 'latine'}, {'iso639_1': 'it', 'iso639_2': 'ita', 'name': 'Italian', 'nativeName': 'Italiano'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'Français'}, {'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",False
+Honduras,Tegucigalpa,9904608,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Hungary,Budapest,9749763,"[{'iso639_1': 'hu', 'iso639_2': 'hun', 'name': 'Hungarian', 'nativeName': 'magyar'}]",False
+Hong Kong,City of Victoria,7481800,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}]",False
+Iceland,Reykjavík,366425,"[{'iso639_1': 'is', 'iso639_2': 'isl', 'name': 'Icelandic', 'nativeName': 'Íslenska'}]",False
+India,New Delhi,1380004385,"[{'iso639_1': 'hi', 'iso639_2': 'hin', 'name': 'Hindi', 'nativeName': 'हिन्दी'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Indonesia,Jakarta,273523621,"[{'iso639_1': 'id', 'iso639_2': 'ind', 'name': 'Indonesian', 'nativeName': 'Bahasa Indonesia'}]",False
+Ivory Coast,Yamoussoukro,26378275,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Iran (Islamic Republic of),Tehran,83992953,"[{'iso639_1': 'fa', 'iso639_2': 'fas', 'name': 'Persian (Farsi)', 'nativeName': 'فارسی'}]",False
+Iraq,Baghdad,40222503,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'ku', 'iso639_2': 'kur', 'name': 'Kurdish', 'nativeName': 'Kurdî'}]",False
+Ireland,Dublin,4994724,"[{'iso639_1': 'ga', 'iso639_2': 'gle', 'name': 'Irish', 'nativeName': 'Gaeilge'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Isle of Man,Douglas,85032,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'gv', 'iso639_2': 'glv', 'name': 'Manx', 'nativeName': 'Gaelg'}]",False
+Israel,Jerusalem,9216900,"[{'iso639_1': 'he', 'iso639_2': 'heb', 'name': 'Hebrew (modern)', 'nativeName': 'עברית'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Italy,Rome,59554023,"[{'iso639_1': 'it', 'iso639_2': 'ita', 'name': 'Italian', 'nativeName': 'Italiano'}]",False
+Jamaica,Kingston,2961161,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Japan,Tokyo,125836021,"[{'iso639_1': 'ja', 'iso639_2': 'jpn', 'name': 'Japanese', 'nativeName': '日本語 (にほんご)'}]",False
+Jersey,Saint Helier,100800,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Jordan,Amman,10203140,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Kazakhstan,Nur-Sultan,18754440,"[{'iso639_1': 'kk', 'iso639_2': 'kaz', 'name': 'Kazakh', 'nativeName': 'қазақ тілі'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",False
+Kenya,Nairobi,53771300,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'sw', 'iso639_2': 'swa', 'name': 'Swahili', 'nativeName': 'Kiswahili'}]",False
+Kiribati,South Tarawa,119446,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Kuwait,Kuwait City,4270563,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Kyrgyzstan,Bishkek,6591600,"[{'iso639_1': 'ky', 'iso639_2': 'kir', 'name': 'Kyrgyz', 'nativeName': 'Кыргызча'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",False
+Lao People's Democratic Republic,Vientiane,7275556,"[{'iso639_1': 'lo', 'iso639_2': 'lao', 'name': 'Lao', 'nativeName': 'ພາສາລາວ'}]",False
+Latvia,Riga,1901548,"[{'iso639_1': 'lv', 'iso639_2': 'lav', 'name': 'Latvian', 'nativeName': 'latviešu valoda'}]",False
+Lebanon,Beirut,6825442,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Lesotho,Maseru,2142252,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'st', 'iso639_2': 'sot', 'name': 'Southern Sotho', 'nativeName': 'Sesotho'}]",False
+Liberia,Monrovia,5057677,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Libya,Tripoli,6871287,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Liechtenstein,Vaduz,38137,"[{'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}]",False
+Lithuania,Vilnius,2794700,"[{'iso639_1': 'lt', 'iso639_2': 'lit', 'name': 'Lithuanian', 'nativeName': 'lietuvių kalba'}]",False
+Luxembourg,Luxembourg,632275,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}, {'iso639_1': 'lb', 'iso639_2': 'ltz', 'name': 'Luxembourgish', 'nativeName': 'Lëtzebuergesch'}]",False
+Macao,,649342,"[{'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}, {'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",False
+North Macedonia,Skopje,2083380,"[{'iso639_1': 'mk', 'iso639_2': 'mkd', 'name': 'Macedonian', 'nativeName': 'македонски јазик'}]",False
+Madagascar,Antananarivo,27691019,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'mg', 'iso639_2': 'mlg', 'name': 'Malagasy', 'nativeName': 'fiteny malagasy'}]",False
+Malawi,Lilongwe,19129955,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ny', 'iso639_2': 'nya', 'name': 'Chichewa', 'nativeName': 'chiCheŵa'}]",False
+Malaysia,Kuala Lumpur,32365998,"[{'iso639_1': 'ms', 'iso639_2': 'zsm', 'name': 'Malaysian', 'nativeName': 'بهاس مليسيا'}]",False
+Maldives,Malé,540542,"[{'iso639_1': 'dv', 'iso639_2': 'div', 'name': 'Divehi', 'nativeName': 'ދިވެހި'}]",False
+Mali,Bamako,20250834,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Malta,Valletta,525285,"[{'iso639_1': 'mt', 'iso639_2': 'mlt', 'name': 'Maltese', 'nativeName': 'Malti'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Marshall Islands,Majuro,59194,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'mh', 'iso639_2': 'mah', 'name': 'Marshallese', 'nativeName': 'Kajin M̧ajeļ'}]",False
+Martinique,Fort-de-France,378243,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Mauritania,Nouakchott,4649660,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Mauritius,Port Louis,1265740,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Mayotte,Mamoudzou,226915,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Mexico,Mexico City,128932753,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Micronesia (Federated States of),Palikir,115021,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Moldova (Republic of),Chișinău,2617820,"[{'iso639_1': 'ro', 'iso639_2': 'ron', 'name': 'Romanian', 'nativeName': 'Română'}]",False
+Monaco,Monaco,39244,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Mongolia,Ulan Bator,3278292,"[{'iso639_1': 'mn', 'iso639_2': 'mon', 'name': 'Mongolian', 'nativeName': 'Монгол хэл'}]",False
+Montenegro,Podgorica,621718,"[{'iso639_1': 'sr', 'iso639_2': 'srp', 'name': 'Serbian', 'nativeName': 'српски језик'}, {'iso639_1': 'bs', 'iso639_2': 'bos', 'name': 'Bosnian', 'nativeName': 'bosanski jezik'}, {'iso639_1': 'sq', 'iso639_2': 'sqi', 'name': 'Albanian', 'nativeName': 'Shqip'}, {'iso639_1': 'hr', 'iso639_2': 'hrv', 'name': 'Croatian', 'nativeName': 'hrvatski jezik'}]",False
+Montserrat,Plymouth,4922,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Morocco,Rabat,36910558,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Mozambique,Maputo,31255435,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",False
+Myanmar,Naypyidaw,54409794,"[{'iso639_1': 'my', 'iso639_2': 'mya', 'name': 'Burmese', 'nativeName': 'ဗမာစာ'}]",False
+Namibia,Windhoek,2540916,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'af', 'iso639_2': 'afr', 'name': 'Afrikaans', 'nativeName': 'Afrikaans'}]",False
+Nauru,Yaren,10834,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'na', 'iso639_2': 'nau', 'name': 'Nauruan', 'nativeName': 'Dorerin Naoero'}]",False
+Nepal,Kathmandu,29136808,"[{'iso639_1': 'ne', 'iso639_2': 'nep', 'name': 'Nepali', 'nativeName': 'नेपाली'}]",False
+Netherlands,Amsterdam,17441139,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}]",False
+New Caledonia,Nouméa,271960,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+New Zealand,Wellington,5084300,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'mi', 'iso639_2': 'mri', 'name': 'Māori', 'nativeName': 'te reo Māori'}]",False
+Nicaragua,Managua,6624554,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Niger,Niamey,24206636,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Nigeria,Abuja,206139587,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Niue,Alofi,1470,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Norfolk Island,Kingston,2302,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Korea (Democratic People's Republic of),Pyongyang,25778815,"[{'iso639_1': 'ko', 'iso639_2': 'kor', 'name': 'Korean', 'nativeName': '한국어'}]",False
+Northern Mariana Islands,Saipan,57557,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ch', 'iso639_2': 'cha', 'name': 'Chamorro', 'nativeName': 'Chamoru'}]",False
+Norway,Oslo,5379475,"[{'iso639_1': 'no', 'iso639_2': 'nor', 'name': 'Norwegian', 'nativeName': 'Norsk'}, {'iso639_1': 'nb', 'iso639_2': 'nob', 'name': 'Norwegian Bokmål', 'nativeName': 'Norsk bokmål'}, {'iso639_1': 'nn', 'iso639_2': 'nno', 'name': 'Norwegian Nynorsk', 'nativeName': 'Norsk nynorsk'}]",False
+Oman,Muscat,5106622,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Pakistan,Islamabad,220892331,"[{'iso639_1': 'ur', 'iso639_2': 'urd', 'name': 'Urdu', 'nativeName': 'اردو'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Palau,Ngerulmud,18092,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+"Palestine, State of",Ramallah,4803269,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Panama,Panama City,4314768,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Papua New Guinea,Port Moresby,8947027,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Paraguay,Asunción,7132530,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'gn', 'iso639_2': 'grn', 'name': 'Guaraní', 'nativeName': ""Avañe'ẽ""}]",False
+Peru,Lima,32971846,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Philippines,Manila,109581085,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Pitcairn,Adamstown,56,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Poland,Warsaw,37950802,"[{'iso639_1': 'pl', 'iso639_2': 'pol', 'name': 'Polish', 'nativeName': 'język polski'}]",False
+Portugal,Lisbon,10305564,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",False
+Puerto Rico,San Juan,3194034,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Qatar,Doha,2881060,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Republic of Kosovo,Pristina,1775378,"[{'iso639_1': 'sq', 'iso639_2': 'sqi', 'name': 'Albanian', 'nativeName': 'Shqip'}, {'iso639_1': 'sr', 'iso639_2': 'srp', 'name': 'Serbian', 'nativeName': 'српски језик'}]",False
+Réunion,Saint-Denis,840974,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Romania,Bucharest,19286123,"[{'iso639_1': 'ro', 'iso639_2': 'ron', 'name': 'Romanian', 'nativeName': 'Română'}]",False
+Russian Federation,Moscow,144104080,"[{'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",False
+Rwanda,Kigali,12952209,"[{'iso639_1': 'rw', 'iso639_2': 'kin', 'name': 'Kinyarwanda', 'nativeName': 'Ikinyarwanda'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Saint Barthélemy,Gustavia,9417,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,4255,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Saint Kitts and Nevis,Basseterre,53192,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Saint Lucia,Castries,183629,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Saint Martin (French part),Marigot,38659,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}]",False
+Saint Pierre and Miquelon,Saint-Pierre,6069,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Saint Vincent and the Grenadines,Kingstown,110947,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Samoa,Apia,198410,"[{'iso639_1': 'sm', 'iso639_2': 'smo', 'name': 'Samoan', 'nativeName': ""gagana fa'a Samoa""}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+San Marino,City of San Marino,33938,"[{'iso639_1': 'it', 'iso639_2': 'ita', 'name': 'Italian', 'nativeName': 'Italiano'}]",False
+Sao Tome and Principe,São Tomé,219161,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",False
+Saudi Arabia,Riyadh,34813867,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Senegal,Dakar,16743930,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Serbia,Belgrade,6908224,"[{'iso639_1': 'sr', 'iso639_2': 'srp', 'name': 'Serbian', 'nativeName': 'српски језик'}]",False
+Seychelles,Victoria,98462,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Sierra Leone,Freetown,7976985,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Singapore,Singapore,5685807,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ms', 'iso639_2': 'msa', 'name': 'Malay', 'nativeName': 'bahasa Melayu'}, {'iso639_1': 'ta', 'iso639_2': 'tam', 'name': 'Tamil', 'nativeName': 'தமிழ்'}, {'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}]",False
+Sint Maarten (Dutch part),Philipsburg,40812,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Slovakia,Bratislava,5458827,"[{'iso639_1': 'sk', 'iso639_2': 'slk', 'name': 'Slovak', 'nativeName': 'slovenčina'}]",False
+Slovenia,Ljubljana,2100126,"[{'iso639_1': 'sl', 'iso639_2': 'slv', 'name': 'Slovene', 'nativeName': 'slovenski jezik'}]",False
+Solomon Islands,Honiara,686878,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Somalia,Mogadishu,15893219,"[{'iso639_1': 'so', 'iso639_2': 'som', 'name': 'Somali', 'nativeName': 'Soomaaliga'}, {'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+South Africa,Pretoria,59308690,"[{'iso639_1': 'af', 'iso639_2': 'afr', 'name': 'Afrikaans', 'nativeName': 'Afrikaans'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'nr', 'iso639_2': 'nbl', 'name': 'Southern Ndebele', 'nativeName': 'isiNdebele'}, {'iso639_1': 'st', 'iso639_2': 'sot', 'name': 'Southern Sotho', 'nativeName': 'Sesotho'}, {'iso639_1': 'ss', 'iso639_2': 'ssw', 'name': 'Swati', 'nativeName': 'SiSwati'}, {'iso639_1': 'tn', 'iso639_2': 'tsn', 'name': 'Tswana', 'nativeName': 'Setswana'}, {'iso639_1': 'ts', 'iso639_2': 'tso', 'name': 'Tsonga', 'nativeName': 'Xitsonga'}, {'iso639_1': 've', 'iso639_2': 'ven', 'name': 'Venda', 'nativeName': 'Tshivenḓa'}, {'iso639_1': 'xh', 'iso639_2': 'xho', 'name': 'Xhosa', 'nativeName': 'isiXhosa'}, {'iso639_1': 'zu', 'iso639_2': 'zul', 'name': 'Zulu', 'nativeName': 'isiZulu'}]",False
+South Georgia and the South Sandwich Islands,King Edward Point,30,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Korea (Republic of),Seoul,51780579,"[{'iso639_1': 'ko', 'iso639_2': 'kor', 'name': 'Korean', 'nativeName': '한국어'}]",False
+Spain,Madrid,47351567,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Sri Lanka,Sri Jayawardenepura Kotte,21919000,"[{'iso639_1': 'si', 'iso639_2': 'sin', 'name': 'Sinhalese', 'nativeName': 'සිංහල'}, {'iso639_1': 'ta', 'iso639_2': 'tam', 'name': 'Tamil', 'nativeName': 'தமிழ்'}]",False
+Sudan,Khartoum,43849269,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+South Sudan,Juba,11193729,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Suriname,Paramaribo,586634,"[{'iso639_1': 'nl', 'iso639_2': 'nld', 'name': 'Dutch', 'nativeName': 'Nederlands'}]",False
+Svalbard and Jan Mayen,Longyearbyen,2562,"[{'iso639_1': 'no', 'iso639_2': 'nor', 'name': 'Norwegian', 'nativeName': 'Norsk'}]",False
+Swaziland,Mbabane,1160164,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'ss', 'iso639_2': 'ssw', 'name': 'Swati', 'nativeName': 'SiSwati'}]",False
+Sweden,Stockholm,10353442,"[{'iso639_1': 'sv', 'iso639_2': 'swe', 'name': 'Swedish', 'nativeName': 'svenska'}]",False
+Switzerland,Bern,8636896,"[{'iso639_1': 'de', 'iso639_2': 'deu', 'name': 'German', 'nativeName': 'Deutsch'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}, {'iso639_1': 'it', 'iso639_2': 'ita', 'name': 'Italian', 'nativeName': 'Italiano'}, {'iso639_2': 'roh', 'name': 'Romansh'}]",False
+Syrian Arab Republic,Damascus,17500657,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Taiwan,Taipei,23503349,"[{'iso639_1': 'zh', 'iso639_2': 'zho', 'name': 'Chinese', 'nativeName': '中文 (Zhōngwén)'}]",False
+Tajikistan,Dushanbe,9537642,"[{'iso639_1': 'tg', 'iso639_2': 'tgk', 'name': 'Tajik', 'nativeName': 'тоҷикӣ'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",False
+"Tanzania, United Republic of",Dodoma,59734213,"[{'iso639_1': 'sw', 'iso639_2': 'swa', 'name': 'Swahili', 'nativeName': 'Kiswahili'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Thailand,Bangkok,69799978,"[{'iso639_1': 'th', 'iso639_2': 'tha', 'name': 'Thai', 'nativeName': 'ไทย'}]",False
+Timor-Leste,Dili,1318442,"[{'iso639_1': 'pt', 'iso639_2': 'por', 'name': 'Portuguese', 'nativeName': 'Português'}]",False
+Togo,Lomé,8278737,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Tokelau,Fakaofo,1411,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Tonga,Nuku'alofa,105697,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'to', 'iso639_2': 'ton', 'name': 'Tonga (Tonga Islands)', 'nativeName': 'faka Tonga'}]",False
+Trinidad and Tobago,Port of Spain,1399491,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Tunisia,Tunis,11818618,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Turkey,Ankara,84339067,"[{'iso639_1': 'tr', 'iso639_2': 'tur', 'name': 'Turkish', 'nativeName': 'Türkçe'}]",False
+Turkmenistan,Ashgabat,6031187,"[{'iso639_1': 'tk', 'iso639_2': 'tuk', 'name': 'Turkmen', 'nativeName': 'Türkmen'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",False
+Turks and Caicos Islands,Cockburn Town,38718,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Tuvalu,Funafuti,11792,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Uganda,Kampala,45741000,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'sw', 'iso639_2': 'swa', 'name': 'Swahili', 'nativeName': 'Kiswahili'}]",False
+Ukraine,Kyiv,44134693,"[{'iso639_1': 'uk', 'iso639_2': 'ukr', 'name': 'Ukrainian', 'nativeName': 'Українська'}]",False
+United Arab Emirates,Abu Dhabi,9890400,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+United Kingdom of Great Britain and Northern Ireland,London,67215293,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+United States of America,"Washington, D.C.",329484123,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Uruguay,Montevideo,3473727,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Uzbekistan,Tashkent,34232050,"[{'iso639_1': 'uz', 'iso639_2': 'uzb', 'name': 'Uzbek', 'nativeName': 'Oʻzbek'}, {'iso639_1': 'ru', 'iso639_2': 'rus', 'name': 'Russian', 'nativeName': 'Русский'}]",False
+Vanuatu,Port Vila,307150,"[{'iso639_1': 'bi', 'iso639_2': 'bis', 'name': 'Bislama', 'nativeName': 'Bislama'}, {'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Venezuela (Bolivarian Republic of),Caracas,28435943,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Vietnam,Hanoi,97338583,"[{'iso639_1': 'vi', 'iso639_2': 'vie', 'name': 'Vietnamese', 'nativeName': 'Tiếng Việt'}]",False
+Wallis and Futuna,Mata-Utu,11750,"[{'iso639_1': 'fr', 'iso639_2': 'fra', 'name': 'French', 'nativeName': 'français'}]",False
+Western Sahara,El Aaiún,510713,"[{'iso639_1': 'es', 'iso639_2': 'spa', 'name': 'Spanish', 'nativeName': 'Español'}]",False
+Yemen,Sana'a,29825968,"[{'iso639_1': 'ar', 'iso639_2': 'ara', 'name': 'Arabic', 'nativeName': 'العربية'}]",False
+Zambia,Lusaka,18383956,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}]",False
+Zimbabwe,Harare,14862927,"[{'iso639_1': 'en', 'iso639_2': 'eng', 'name': 'English', 'nativeName': 'English'}, {'iso639_1': 'sn', 'iso639_2': 'sna', 'name': 'Shona', 'nativeName': 'chiShona'}, {'iso639_1': 'nd', 'iso639_2': 'nde', 'name': 'Northern Ndebele', 'nativeName': 'isiNdebele'}]",False
